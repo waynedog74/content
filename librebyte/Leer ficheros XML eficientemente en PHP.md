@@ -1,6 +1,6 @@
 Title: Leer ficheros XML eficientemente en PHP
-Category: PHP
-Tags: xml, programación
+Category: programación
+Tags: xml, php
 Authors: sedlav
 Lang: es
 Summary: Si trata de cargar en memora ficheros XML grandes PHP lanzará un error fatal de desbordamiendo de memoria...
