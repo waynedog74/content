@@ -1,4 +1,4 @@
-Title: How to Use Regular Expressions
+Title: AWK - How to Use Regular Expressions
 Category: programming
 Tags: awk, regular expression
 Authors: sedlav
