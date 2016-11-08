@@ -1,6 +1,6 @@
 Title: Purism announces the creation of its Advisory Board
 Date: 2016-09-02 03:41:38
-Category: News
+Category: news
 Tags: Purism
 Slug:purism-announces-the-creation-of-its-advisory-board
 Authors:sedlav

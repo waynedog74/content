@@ -1,5 +1,5 @@
 Title: Beware of the new STRICT mode when you are upgrading to MySQL 5.7
-Category: db
+Category: data base
 Tags: percona, mysql
 Authors: sedlav
 Lang: en

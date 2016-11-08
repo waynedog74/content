@@ -1,6 +1,6 @@
 Title: 25 Practical examples of the find command
 Date: 2016-08-06 02:45:19
-Category: Tutorials
+Category: cli
 Tags: find
 Slug:25-practical-examples-of-the-find-command
 Authors:sedlav

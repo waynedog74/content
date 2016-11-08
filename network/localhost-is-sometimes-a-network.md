@@ -1,6 +1,6 @@
 Title: Localhost is (sometimes) a network
 Date: 2016-08-21 21:13:01
-Category: Network
+Category: network
 Tags: localhost, loopback
 Slug:localhost-is-sometimes-a-network
 Authors:sedlav

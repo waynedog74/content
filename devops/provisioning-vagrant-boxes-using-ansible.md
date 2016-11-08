@@ -1,6 +1,6 @@
 Title: Provisioning Vagrant boxes using Ansible
 Date: 2016-08-29 15:45:44
-Category: GNU/Linux
+Category: devops
 Tags: Ansible, Vagrant
 Slug:provisioning-vagrant-boxes-using-ansible
 Authors:sedlav

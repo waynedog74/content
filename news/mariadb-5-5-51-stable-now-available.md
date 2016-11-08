@@ -1,6 +1,6 @@
 Title: MariaDB 5.5.51 Stable now available
 Date: 2016-08-11 01:55:25
-Category: Data Base
+Category: news
 Tags: MariaDB
 Slug:mariadb-5-5-51-stable-now-available
 Authors:sedlav

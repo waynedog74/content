@@ -1,6 +1,6 @@
 Title: How to Speed Up Websites Using Nginx and Gzip
 Date: 2016-09-27 17:03:21
-Category: Web Server
+Category: web server
 Tags: nginx, performance
 Slug:how-to-speed-up-websites-using-nginx-and-gzip
 Authors:sedlav

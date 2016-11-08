@@ -1,6 +1,6 @@
 Title: Using shell characters and variables at command line
 Date: 2016-08-15 15:14:55
-Category: Tips
+Category: cli
 Tags: shell
 Slug:using-shell-characters-and-variables-at-command-line
 Authors:sedlav

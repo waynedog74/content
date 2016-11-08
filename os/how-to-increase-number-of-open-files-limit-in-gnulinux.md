@@ -1,6 +1,6 @@
 Title: How to Increase Number of Open Files Limit in GNU/Linux
 Date: 2016-09-16 14:45:40
-Category: GNU/Linux
+Category: os
 Tags: sysctl, ulimit
 Slug:how-to-increase-number-of-open-files-limit-in-gnulinux
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Taiga - Free, Libre and Opensource project management
 Date: 2016-09-23 13:34:05
-Category: App Directory
+Category: office
 Tags: Project Management, Taiga
 Slug:taiga-free-libre-and-opensource-project-management
 Authors:sedlav

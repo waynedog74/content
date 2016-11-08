@@ -1,6 +1,6 @@
 Title: Tuning GNU/Linux for MongoDB
 Date: 2016-09-11 16:37:37
-Category: GNU/Linux
+Category: nosql
 Tags: MongoDB, performance
 Slug:tuning-gnulinux-for-mongodb
 Authors:sedlav

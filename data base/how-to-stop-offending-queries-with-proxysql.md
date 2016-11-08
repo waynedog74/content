@@ -1,6 +1,6 @@
 Title: How to stop offending queries with ProxySQL
 Date: 2016-09-01 03:11:40
-Category: Data Base
+Category: data base
 Tags: MariaDB, MySQL, Percona, ProxySQL
 Slug:how-to-stop-offending-queries-with-proxysql
 Authors:sedlav

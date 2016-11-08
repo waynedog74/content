@@ -1,6 +1,6 @@
 Title: Flow Control Statements in Awk
 Date: 2016-08-09 20:45:18
-Category: BSD
+Category: programming
 Tags: awk
 Slug:flow-control-statements-in-awk
 Authors:sedlav

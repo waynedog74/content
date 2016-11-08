@@ -1,6 +1,6 @@
 Title: How to Monitor GNU/Linux Server Performance with Dstat
 Date: 2016-09-16 14:39:52
-Category: Data Processing
+Category: data processing
 Tags: Dstat, performance
 Slug:how-to-monitor-gnulinux-server-performance-with-dstat
 Authors:sedlav

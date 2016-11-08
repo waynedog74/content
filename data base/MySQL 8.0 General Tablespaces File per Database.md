@@ -1,5 +1,5 @@
 Title: MySQL 8.0 General Tablespaces File per Database
-Category: db
+Category: data base
 Tags: mysql, mariadb, percona
 Authors: sedlav
 Summary: MySQL 8.0 has two great features... The new data dictionary completely removed *.frm files, which is great 

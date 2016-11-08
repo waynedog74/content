@@ -1,6 +1,6 @@
 Title: Fixing ugly fonts in Fedora
 Date: 2016-08-27 20:12:14
-Category: GNU/Linux
+Category: desktop
 Tags: fonts
 Slug:fixing-ugly-fonts-in-fedora
 Authors:sedlav

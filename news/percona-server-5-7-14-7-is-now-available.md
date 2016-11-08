@@ -1,6 +1,6 @@
 Title: Percona Server 5.7.14-7 is now available
 Date: 2016-08-23 19:07:57
-Category: Data Base
+Category: news
 Tags: Percona
 Slug:percona-server-5-7-14-7-is-now-available
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Compiling Git in Debian GNU/Linux
 Date: 2016-08-23 19:11:42
-Category: GNU/Linux
+Category: vcs
 Tags: Git
 Slug:compiling-git-in-debian-gnulinux
 Authors:sedlav

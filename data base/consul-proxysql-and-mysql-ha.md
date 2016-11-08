@@ -1,6 +1,6 @@
 Title: Consul, ProxySQL and MySQL HA
 Date: 2016-09-23 15:02:19
-Category: Data Base
+Category: data base
 Tags: Clustering, MariaDB, MySQL, Percona
 Slug:consul-proxysql-and-mysql-ha
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: MariaDB Announce - MariaDB 10.1.18 now available
 Date: 2016-09-30 20:50:04
-Category: Data Base
+Category: news
 Tags: MariaDB
 Slug:mariadb-announce-mariadb-10-1-18-now-available
 Authors:sedlav

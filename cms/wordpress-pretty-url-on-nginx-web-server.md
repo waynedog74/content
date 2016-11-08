@@ -1,6 +1,6 @@
 Title: Wordpress pretty url on NGINX web server
 Date: 2016-09-07 15:13:29
-Category: CMS
+Category: cms
 Tags: nginx, Wordpress
 Slug:wordpress-pretty-url-on-nginx-web-server
 Authors:sedlav

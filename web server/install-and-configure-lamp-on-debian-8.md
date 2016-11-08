@@ -1,6 +1,6 @@
 Title: Install and configure LAMP on Debian 8
 Date: 2016-08-29 16:16:36
-Category: GNU/Linux
+Category: web server
 Tags: Apache, Debian, MariaDB, MySQL, PHP, Ubuntu
 Slug:install-and-configure-lamp-on-debian-8
 Authors:sedlav

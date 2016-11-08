@@ -1,5 +1,5 @@
 Title: MySQL Configuration Management
-Category: db
+Category: data base
 Tags: percona, mysql, mariadb
 Authors: sedlav
 Summary: This is an excellent overview about different tool we can use for MySQL configuration, deployment and management

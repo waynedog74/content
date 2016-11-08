@@ -1,6 +1,6 @@
 Title: Godot 2.1 stable is here!
 Date: 2016-08-11 02:15:26
-Category: News
+Category: news
 Tags: games, Godot Engine
 Slug:godot-2-1-stable-is-here
 Authors:sedlav

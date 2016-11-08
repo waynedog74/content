@@ -1,6 +1,6 @@
 Title: Static Site Generators Collection
 Date: 2016-10-06 13:04:46
-Category: App Directory
+Category: cms
 Tags: static site generators
 Slug:static-site-generators-collection
 Authors:sedlav

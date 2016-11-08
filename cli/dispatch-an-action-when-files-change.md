@@ -1,6 +1,6 @@
 Title: Dispatch an action when files change!
 Date: 2016-09-07 03:06:44
-Category: Tips
+Category: cli
 Tags: entr
 Slug:dispatch-an-action-when-files-change
 Authors:sedlav

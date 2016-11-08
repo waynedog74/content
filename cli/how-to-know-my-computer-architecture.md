@@ -1,6 +1,6 @@
 Title: How to know my computer architecture?
 Date: 2016-08-22 15:05:38
-Category: Tips
+Category: cli
 Tags: arch, uname
 Slug:how-to-know-my-computer-architecture
 Authors:sedlav

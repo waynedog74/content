@@ -1,6 +1,6 @@
 Title: Using Dig DNS query tool
 Date: 2016-09-23 13:45:45
-Category: BSD
+Category: network
 Tags: dig, DNS
 Slug:using-dig-dns-query-tool
 Authors:sedlav

@@ -1,5 +1,5 @@
 Title: MySQL Default Configuration Changes between 5.6 and 5.7
-Category: db
+Category: data base
 Tags: mysql, mariadb, percona
 Authors: sedlav
 Summary: MySQL 5.7 has added a variety of new features that might excite you. However, there are also changes in the current variables that you might have overlooked

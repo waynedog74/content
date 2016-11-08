@@ -1,6 +1,6 @@
 Title: log.io - Real-time log monitoring in your browser
 Date: 2016-09-07 15:30:31
-Category: App Directory
+Category: data processing
 Tags: logio
 Slug:log-io-real-time-log-monitoring-in-your-browser
 Authors:sedlav

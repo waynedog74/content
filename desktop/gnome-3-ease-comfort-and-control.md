@@ -1,6 +1,6 @@
 Title: GNOME 3: Ease, comfort and control
 Date: 2016-08-24 16:10:13
-Category: App Directory
+Category: desktop
 Tags: GNOME
 Slug:gnome-3-ease-comfort-and-control
 Authors:sedlav

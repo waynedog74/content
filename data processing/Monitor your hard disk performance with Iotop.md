@@ -1,5 +1,5 @@
 Title: Monitor your hard disk performance with Iotop
-Category: unix
+Category: data processing
 Tags: performance, hard disk, iotop 
 Authors:sedlav
 Summary: Iotop is an open source and free utility similar to top command, that provides an easy way to monitor Linux Disk I/O usage details

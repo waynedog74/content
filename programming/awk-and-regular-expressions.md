@@ -1,6 +1,6 @@
 Title: AWK and Regular Expressions
 Date: 2016-10-07 15:33:16
-Category: Tools
+Category: programming
 Tags: awk
 Slug:awk-and-regular-expressions
 Authors:sedlav

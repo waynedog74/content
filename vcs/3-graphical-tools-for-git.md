@@ -1,6 +1,6 @@
 Title: 3 graphical tools for Git
 Date: 2016-08-09 21:39:08
-Category: Tutorials
+Category: vcs
 Tags: Git
 Slug:3-graphical-tools-for-git
 Authors:sedlav

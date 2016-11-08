@@ -1,6 +1,6 @@
 Title: Configure a static IP address on CentOS 7, RHEL 7
 Date: 2016-08-13 22:18:47
-Category: GNU/Linux
+Category: network
 Tags: CentOS, RHEL, Fedora
 Slug:configure-a-static-ip-address-on-centos-7-rhel-7
 Authors:sedlav

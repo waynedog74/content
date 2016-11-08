@@ -1,6 +1,6 @@
 Title: How to Mount Remote Linux Filesystem
 Date: 2016-08-12 12:37:41
-Category: GNU/Linux
+Category: os
 Tags: sshfs
 Slug:how-to-mount-remote-linux-filesystem
 Authors:sedlav

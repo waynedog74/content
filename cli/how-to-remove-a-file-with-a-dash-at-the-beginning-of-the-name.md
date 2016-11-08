@@ -1,6 +1,6 @@
 Title: How to remove a file with a dash at the beginning of the name
 Date: 2016-08-17 16:57:15
-Category: Command Fu
+Category: cli
 Tags: rm
 Slug:how-to-remove-a-file-with-a-dash-at-the-beginning-of-the-name
 Authors:sedlav

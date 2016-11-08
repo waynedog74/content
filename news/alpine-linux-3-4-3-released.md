@@ -1,6 +1,6 @@
 Title: Alpine Linux 3.4.3 released
 Date: 2016-08-13 21:58:13
-Category: GNU/Linux
+Category: news
 Tags: Alpine Linux
 Slug:alpine-linux-3-4-3-released
 Authors:sedlav

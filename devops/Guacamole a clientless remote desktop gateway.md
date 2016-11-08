@@ -1,5 +1,5 @@
 Title: Guacamole a clientless remote desktop gateway
-Category: tools
+Category: devops
 Tags: vnc, rdp, ssh
 Authors: sedlav
 Summary: Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH

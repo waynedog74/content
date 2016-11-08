@@ -1,6 +1,6 @@
 Title: How to include an external file in MySQL config file?
 Date: 2016-09-09 17:59:41
-Category: Data Base
+Category: data base
 Tags: MariaDB, MySQL
 Slug:how-to-include-an-external-file-in-mysql-config-file
 Authors:sedlav

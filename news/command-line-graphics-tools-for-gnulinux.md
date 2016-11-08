@@ -1,6 +1,6 @@
 Title: Command-line graphics tools for GNU/Linux
 Date: 2016-09-23 21:34:13
-Category: GNU/Linux
+Category: news
 Tags: Exiv2, Feh, GraphicsMagick, Scrot
 Slug:command-line-graphics-tools-for-gnulinux
 Authors:sedlav

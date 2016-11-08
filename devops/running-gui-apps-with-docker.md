@@ -1,6 +1,6 @@
 Title: Running GUI apps with Docker
 Date: 2016-08-25 14:40:09
-Category: GNU/Linux
+Category: devops
 Tags: docker
 Slug:running-gui-apps-with-docker
 Authors:sedlav

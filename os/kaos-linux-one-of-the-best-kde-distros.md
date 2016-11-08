@@ -1,6 +1,6 @@
 Title: KaOS Linux - One Of The Best KDE Distros
 Date: 2016-08-30 01:39:42
-Category: GNU/Linux
+Category: os
 Tags: KaOS
 Slug:kaos-linux-one-of-the-best-kde-distros
 Authors:sedlav

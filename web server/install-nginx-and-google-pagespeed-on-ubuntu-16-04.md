@@ -1,6 +1,6 @@
 Title: Install nginx and google PageSpeed on Ubuntu 16.04
 Date: 2016-08-27 19:44:13
-Category: Tutorials
+Category: web server
 Tags: nginx, pagespeed
 Slug:install-nginx-and-google-pagespeed-on-ubuntu-16-04
 Authors:sedlav

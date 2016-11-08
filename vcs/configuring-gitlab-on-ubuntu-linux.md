@@ -1,6 +1,6 @@
 Title: Configuring GitLab on Ubuntu Linux
 Date: 2016-08-27 20:00:59
-Category: Tutorials
+Category: vcs
 Tags: Git, GitLab
 Slug:configuring-gitlab-on-ubuntu-linux
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: How to Install and use chkrootkit on Ubuntu 14.04
 Date: 2016-08-21 21:24:25
-Category: Tools
+Category: security
 Tags: chkrootkit
 Slug:how-to-install-and-use-chkrootkit-on-ubuntu-14-04
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Installing group softwares in Debian/Ubuntu with Tasksel
 Date: 2016-09-22 13:11:18
-Category: GNU/Linux
+Category: cli
 Tags: Debian, Tasksel, Ubuntu
 Slug:installing-group-softwares-in-debianubuntu-with-tasksel
 Authors:sedlav

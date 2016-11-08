@@ -1,6 +1,6 @@
 Title: Install Munin in RHEL/CentOS/Fedora
 Date: 2016-08-21 21:42:34
-Category: Network
+Category: network
 Tags: Munin
 Slug:install-munin-in-rhelcentosfedora
 Authors:sedlav

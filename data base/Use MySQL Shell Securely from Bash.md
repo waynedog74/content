@@ -1,5 +1,5 @@
 Title: Use MySQL Shell Securely from Bash
-Category: db
+Category: data base
 Tags: mysql, percona, mariadb
 Authors: sedlav
 Summary: Anyone that has automated a MySQL task using a Bourne shell such as Bash will be familiar with the following message: Warning: Using a password on the command line interface can be insecure

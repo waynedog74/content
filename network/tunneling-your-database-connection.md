@@ -1,6 +1,6 @@
 Title: Tunneling your database connection
 Date: 2016-09-07 03:09:51
-Category: Network
+Category: network
 Tags: ssh
 Slug:tunneling-your-database-connection
 Authors:sedlav

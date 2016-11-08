@@ -1,5 +1,5 @@
 Title: Redash a beatiful business intelligent tool
-Category: bi
+Category: data processing
 Tags: redash
 Authors: sedlav
 Lang: en

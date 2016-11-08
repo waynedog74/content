@@ -1,6 +1,6 @@
 Title: Fossil is a simple, high-reliability, distributed software configuration management system
 Date: 2016-09-08 21:02:58
-Category: App Directory
+Category: vcs
 Tags: Fossil
 Slug:fossil-is-a-simple-high-reliability-distributed-software-configuration-management-system
 Authors:sedlav

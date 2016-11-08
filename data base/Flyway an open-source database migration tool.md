@@ -1,5 +1,5 @@
 Title: Flyway an open-source database migration tool
-Category: db
+Category: data base
 Tags: flyway, migration tool
 Authors: sedlav
 Lang: en

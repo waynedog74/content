@@ -1,6 +1,6 @@
 Title: Control your caps from a command line
 Date: 2016-08-17 14:47:23
-Category: GNU/Linux
+Category: os
 Tags: setxkbmap
 Slug:control-your-caps-from-a-command-line
 Authors:sedlav

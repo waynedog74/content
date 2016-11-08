@@ -1,6 +1,6 @@
 Title: MySQL – Execute SQL script
 Date: 2016-08-09 02:52:47
-Category: Tips
+Category: data base
 Tags: MySQL, mysql script
 Slug:mysql-execute-sql-script
 Authors:sedlav

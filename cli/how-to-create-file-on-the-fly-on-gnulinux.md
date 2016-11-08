@@ -1,6 +1,6 @@
 Title: How to create a  file on the fly on GNU/Linux?
 Date: 2016-08-28 00:01:01
-Category: GNU/Linux
+Category: cli
 Tags: &gt; operator, touch
 Slug:how-to-create-file-on-the-fly-on-gnulinux
 Authors:sedlav

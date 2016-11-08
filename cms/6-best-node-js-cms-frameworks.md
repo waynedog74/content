@@ -1,6 +1,6 @@
 Title: 6 Best Node.Js CMS Frameworks
 Date: 2016-10-08 18:23:26
-Category: CMS
+Category: cms
 Tags: Express, Geddy, Ghost, Hapi, Koa, Node.js, Sails.js
 Slug:6-best-node-js-cms-frameworks
 Authors:sedlav

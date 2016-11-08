@@ -1,6 +1,6 @@
 Title: Install Odoo ERP Software on Ubuntu 16.04
 Date: 2016-08-27 19:12:02
-Category: GNU/Linux
+Category: cms
 Tags: CRM, ERP, Odoo
 Slug:install-odoo-erp-software-on-ubuntu-16-04
 Authors:sedlav

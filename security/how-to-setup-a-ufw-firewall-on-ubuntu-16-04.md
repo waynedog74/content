@@ -1,6 +1,6 @@
 Title: How to setup a UFW firewall on Ubuntu 16.04
 Date: 2016-08-10 03:18:54
-Category: GNU/Linux
+Category: security
 Tags: Debian, Ubuntu, ufw
 Slug:how-to-setup-a-ufw-firewall-on-ubuntu-16-04
 Authors:sedlav

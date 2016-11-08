@@ -1,6 +1,6 @@
 Title: MySQL Performance Optimizations: Q & A
 Date: 2016-08-20 21:24:14
-Category: Data Base
+Category: data base
 Tags: FAQ, MySQL
 Slug:mysql-performance-optimizations-q-a
 Authors:sedlav

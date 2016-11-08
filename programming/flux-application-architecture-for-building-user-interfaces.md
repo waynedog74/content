@@ -1,6 +1,6 @@
 Title: Flux: Application architecture for building user interfaces
 Date: 2016-08-25 14:14:03
-Category: App Directory
+Category: programming
 Tags: Flux, Javascript
 Slug:flux-application-architecture-for-building-user-interfaces
 Authors:sedlav

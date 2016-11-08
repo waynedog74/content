@@ -1,6 +1,6 @@
 Title: How to Clone or Backup Linux Disk Using Clonezilla
 Date: 2016-08-19 03:52:33
-Category: GNU/Linux
+Category: os
 Tags: GNU/Linux, Tools, Tutorials
 Slug:how-to-clone-or-backup-linux-disk-using-clonezilla
 Authors:sedlav

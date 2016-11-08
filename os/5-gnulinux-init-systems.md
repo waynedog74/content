@@ -1,6 +1,6 @@
 Title: 5 GNU/Linux init systems
 Date: 2016-08-11 14:41:49
-Category: GNU/Linux
+Category: os
 Tags: init
 Slug:5-gnulinux-init-systems
 Authors:sedlav

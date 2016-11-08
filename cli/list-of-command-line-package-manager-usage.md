@@ -1,6 +1,6 @@
 Title: List of Command line Package Manager & Usage
 Date: 2016-08-25 15:04:05
-Category: GNU/Linux
+Category: cli
 Tags: apt, dnf, pacman, rpm, urpmi, yum, zypper
 Slug:list-of-command-line-package-manager-usage
 Authors:sedlav

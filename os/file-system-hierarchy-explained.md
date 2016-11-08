@@ -1,6 +1,6 @@
 Title: File System Hierarchy Explained
 Date: 2016-10-08 17:45:15
-Category: BSD
+Category: os
 Tags: FHS
 Slug:file-system-hierarchy-explained
 Authors:sedlav

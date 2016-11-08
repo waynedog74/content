@@ -1,6 +1,6 @@
 Title: How to install MongoDB on most popular GNU/Linux distro
 Date: 2016-08-30 01:45:13
-Category: NoSQL
+Category: nosql
 Tags: MongoDB
 Slug:how-to-install-mongodb-on-most-popular-gnulinux-distro
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Percona Toolkit 2.2.19 is now available
 Date: 2016-08-17 02:02:54
-Category: Data Base
+Category: news
 Tags: Percona
 Slug:percona-toolkit-2-2-19-is-now-available
 Authors:sedlav

@@ -1,5 +1,5 @@
 Title: 24 Essential SQL Interview Questions
-Category: db
+Category: data base
 Tags: sql, interview
 Authors: sedlav
 Summary: Excellent collection of SQL Interview Questions

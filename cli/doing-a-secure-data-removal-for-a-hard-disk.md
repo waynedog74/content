@@ -1,6 +1,6 @@
 Title: Doing a secure data removal for a hard disk
 Date: 2016-08-20 20:23:01
-Category: GNU/Linux
+Category: cli
 Tags: dd, Knoppix, scrub, shred
 Slug:doing-a-secure-data-removal-for-a-hard-disk
 Authors:sedlav

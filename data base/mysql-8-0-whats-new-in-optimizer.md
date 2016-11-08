@@ -1,6 +1,6 @@
 Title: MySQL 8.0: what’s new in Optimizer
 Date: 2016-09-02 03:15:34
-Category: Data Base
+Category: data base
 Tags: MySQL
 Slug:mysql-8-0-whats-new-in-optimizer
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: How to get some info about my computer memory?
 Date: 2016-08-22 15:09:18
-Category: Tips
+Category: cli
 Tags: free
 Slug:how-to-get-some-info-about-my-computer-memory
 Authors:sedlav

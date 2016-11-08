@@ -1,6 +1,6 @@
 Title: GNU Hurd a replacement for the Unix kernel.
 Date: 2016-09-01 03:20:38
-Category: App Directory
+Category: os
 Tags: GNU Hurd
 Slug:gnu-hurd-a-replacement-for-the-unix-kernel
 Authors:sedlav

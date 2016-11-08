@@ -1,6 +1,6 @@
 Title: Monitors Files and Directory with fswatch
 Date: 2016-10-08 18:26:24
-Category: BSD
+Category: cli
 Tags: fswatch
 Slug:monitors-files-and-directory-with-fswatch
 Authors:sedlav

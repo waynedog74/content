@@ -1,6 +1,6 @@
 Title: Use mitmproxy to read and modify HTTPS traffic
 Date: 2016-09-13 19:29:20
-Category: Security
+Category: security
 Tags: mitmproxy, proxy
 Slug:use-mitmproxy-to-read-and-modify-https-traffic
 Authors:sedlav

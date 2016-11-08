@@ -1,6 +1,6 @@
 Title: PHP 7.1.0 Beta 3 Released
 Date: 2016-08-19 17:24:29
-Category: News
+Category: news
 Tags: PHP, php 7, php 7.1
 Slug:php-7-1-0-beta-3-released
 Authors:sedlav

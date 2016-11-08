@@ -1,6 +1,6 @@
 Title: A beginner's introduction to snaps  package format
 Date: 2016-08-23 15:23:28
-Category: GNU/Linux
+Category: os
 Tags: snapcraft
 Slug:a-beginners-introduction-to-snaps-package-format
 Authors:sedlav

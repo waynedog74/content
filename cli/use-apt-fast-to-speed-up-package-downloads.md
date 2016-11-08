@@ -1,6 +1,6 @@
 Title: Use apt-fast to speed up package downloads
 Date: 2016-08-10 02:44:00
-Category: GNU/Linux
+Category: cli
 Tags: apt, apt-fast, aptitude, Debian, Ubuntu
 Slug:use-apt-fast-to-speed-up-package-downloads
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: diffoscope progress bar
 Date: 2016-10-03 10:27:29
-Category: Tips
+Category: cli
 Tags: diffoscope
 Slug:diffoscope-progress-bar
 Authors:sedlav

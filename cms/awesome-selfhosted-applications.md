@@ -1,6 +1,6 @@
 Title: Awesome Selfhosted Applications
 Date: 2016-09-30 13:42:14
-Category: App Directory
+Category: cms
 Tags: self hosted
 Slug:awesome-selfhosted-applications
 Authors:sedlav

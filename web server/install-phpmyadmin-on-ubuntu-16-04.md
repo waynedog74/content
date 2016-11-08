@@ -1,6 +1,6 @@
 Title: Install phpMyAdmin on Ubuntu 16.04
 Date: 2016-08-19 03:50:20
-Category: Tutorials
+Category: web server
 Tags: phpMyAdmin
 Slug:install-phpmyadmin-on-ubuntu-16-04
 Authors:sedlav

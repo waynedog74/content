@@ -1,6 +1,6 @@
 Title: RockMongo - PHP MongoDB Administrator
 Date: 2016-09-01 02:41:53
-Category: App Directory
+Category: nosql
 Tags: MongoDB, RockMongo
 Slug:rockmongo-php-mongodb-administrator
 Authors:sedlav

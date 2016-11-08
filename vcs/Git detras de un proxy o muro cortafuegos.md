@@ -1,5 +1,5 @@
 Title: Git detrás de un proxy o muro cortafuegos
-Category: cvs
+Category: vcs
 Tags: git
 Authors: sedlav
 Lang: es

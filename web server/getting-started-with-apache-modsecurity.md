@@ -1,6 +1,6 @@
 Title: Getting Started with Apache ModSecurity
 Date: 2016-08-27 19:33:14
-Category: Tutorials
+Category: web server
 Tags: ModSecurity
 Slug:getting-started-with-apache-modsecurity
 Authors:sedlav

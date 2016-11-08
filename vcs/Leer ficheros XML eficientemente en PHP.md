@@ -1,5 +1,5 @@
 Title: Leer ficheros XML eficientemente en PHP
-Category: programación
+Category: vcs
 Tags: xml, php
 Authors: sedlav
 Lang: es

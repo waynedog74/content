@@ -1,5 +1,5 @@
 Title: How to Install a MySQL Cluster on Ubuntu 16.04
-Category: db
+Category: data base
 Tags: mysql
 Authors:sedlav
 Summary: MySQL Cluster is a technology to provide high availability for MySQL Databases. It uses NDB (Network DataBase) or NDBCLUSTER as the database storage engine

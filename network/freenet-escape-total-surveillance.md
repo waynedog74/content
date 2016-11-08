@@ -1,6 +1,6 @@
 Title: Freenet - Escape total surveillance
 Date: 2016-08-25 15:17:24
-Category: App Directory
+Category: network
 Tags: Freenet
 Slug:freenet-escape-total-surveillance
 Authors:sedlav

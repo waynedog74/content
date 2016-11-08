@@ -1,6 +1,6 @@
 Title: GNU Operating System
 Date: 2016-08-20 20:53:44
-Category: GNU/Linux
+Category: os
 Tags: GNU Project
 Slug:gnu-operating-system
 Authors:sedlav

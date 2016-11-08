@@ -1,5 +1,5 @@
 Title: Percona Monitoring and Management 1.0.5 is now available
-Category: db
+Category: data base
 Tags: percona, mysql, mongodb, pmm
 Authors: sedlav
 Lang: en

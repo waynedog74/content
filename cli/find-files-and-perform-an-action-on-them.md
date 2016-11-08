@@ -1,6 +1,6 @@
 Title: Find files and perform an action on them
 Date: 2016-08-13 22:23:20
-Category: Command Fu
+Category: cli
 Tags: find, while
 Slug:find-files-and-perform-an-action-on-them
 Authors:sedlav

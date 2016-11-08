@@ -1,6 +1,6 @@
 Title: 14 Practical examples of the grep command
 Date: 2016-08-09 02:55:42
-Category: GNU/Linux
+Category: cli
 Tags: grep
 Slug:14-practical-examples-of-the-grep-command
 Authors:sedlav

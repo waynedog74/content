@@ -1,6 +1,6 @@
 Title: Install and Configure Jenkins on CentOS 7 and RHEL 7
 Date: 2016-08-11 02:05:45
-Category: GNU/Linux
+Category: os
 Tags: CentOS, RHEL, Fedora, Jenkins
 Slug:install-and-configure-jenkins-on-centos-7-and-rhel-7
 Authors:sedlav

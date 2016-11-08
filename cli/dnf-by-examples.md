@@ -1,6 +1,6 @@
 Title: DNF by examples
 Date: 2016-08-09 02:50:47
-Category: GNU/Linux
+Category: cli
 Tags: CentOS, RHEL, Fedora, dnf
 Slug:dnf-by-examples
 Authors:sedlav

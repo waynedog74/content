@@ -1,6 +1,6 @@
 Title: How to disable Firewalld in CentOS / RHEL / Fedora
 Date: 2016-08-26 16:14:26
-Category: GNU/Linux
+Category: security
 Tags: CentOS, Fedora, FirewallD, RHEL
 Slug:how-to-disable-firewalld-in-centos-rhel-fedora
 Authors:sedlav

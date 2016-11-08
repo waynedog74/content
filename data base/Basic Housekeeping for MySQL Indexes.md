@@ -1,5 +1,5 @@
 Title: Basic Housekeeping for MySQL Indexes
-Category: db
+Category: data base
 Tags: mysql, mariadb, percona
 Authors: sedlav
 Summary: We all know that indexes can be the difference between a high-performance database and a bad/slow/painful query ride

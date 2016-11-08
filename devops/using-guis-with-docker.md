@@ -1,6 +1,6 @@
 Title: Using GUI's with Docker
 Date: 2016-09-07 15:10:09
-Category: DevOps
+Category: devops
 Tags: docker
 Slug:using-guis-with-docker
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Build Your Unified Logging Layer with fluentd
 Date: 2016-09-07 15:26:26
-Category: App Directory
+Category: data processing
 Tags: fluentd
 Slug:build-your-unified-logging-layer-with-fluentd
 Authors:sedlav

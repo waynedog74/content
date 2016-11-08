@@ -1,5 +1,5 @@
 Title: Percona Monitoring and Management
-Category: db
+Category: data base
 Tags: percona, mysql, mongodb
 Authors: sedlav
 Lang: en

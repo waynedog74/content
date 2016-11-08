@@ -1,6 +1,6 @@
 Title: InvoicePlane a free and open source invoicing application.
 Date: 2016-09-16 14:25:37
-Category: App Directory
+Category: office
 Tags: Invoice, InvoicePlane
 Slug:invoiceplane-a-free-and-open-source-invoicing-application
 Authors:sedlav

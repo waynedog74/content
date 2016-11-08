@@ -1,6 +1,6 @@
 Title: FREELAN the VPN that loves you!
 Date: 2016-08-13 21:34:39
-Category: App Directory
+Category: network
 Tags: FreeLAN
 Slug:freelan-the-vpn-that-loves-you
 Authors:sedlav

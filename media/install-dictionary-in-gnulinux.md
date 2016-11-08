@@ -1,6 +1,6 @@
 Title: Install dictionary in GNU/Linux
 Date: 2016-08-23 15:37:24
-Category: Tips
+Category: media
 Tags: dict
 Slug:install-dictionary-in-gnulinux
 Authors:sedlav

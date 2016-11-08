@@ -1,6 +1,6 @@
 Title: Terminix - A tiling terminal emulator for GNU/Linux
 Date: 2016-09-10 04:11:45
-Category: App Directory
+Category: os
 Tags: Terminix
 Slug:terminix-a-tiling-terminal-emulator-for-gnulinux
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: How to configure a network bonding
 Date: 2016-10-07 23:51:18
-Category: GNU/Linux
+Category: network
 Tags: bonding
 Slug:how-to-configure-a-network-bonding
 Authors:sedlav

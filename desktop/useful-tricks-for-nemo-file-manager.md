@@ -1,6 +1,6 @@
 Title: Useful tricks for Nemo file manager
 Date: 2016-09-13 19:08:27
-Category: GNU/Linux
+Category: desktop
 Tags: File Manager, Nemo
 Slug:useful-tricks-for-nemo-file-manager
 Authors:sedlav

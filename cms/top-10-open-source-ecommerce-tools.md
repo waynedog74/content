@@ -1,6 +1,6 @@
 Title: Top 10 Open Source Ecommerce Tools
 Date: 2016-09-14 22:34:30
-Category: CMS
+Category: cms
 Tags: AbanteCart, Broadleaf Commerce, Jigoshop, Magento, NopCommerce, OsCommerce, PrestaShop, Spreecommerce, Ubercart
 Slug:top-10-open-source-ecommerce-tools
 Authors:sedlav

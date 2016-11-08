@@ -1,6 +1,6 @@
 Title: How to Manage and Use Logical Volume Management
 Date: 2016-08-25 14:24:58
-Category: GNU/Linux
+Category: os
 Tags: Debian, LVM, Ubuntu
 Slug:how-to-manage-and-use-logical-volume-management
 Authors:sedlav

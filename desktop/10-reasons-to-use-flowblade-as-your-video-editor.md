@@ -1,6 +1,6 @@
 Title: 10 reasons to use Flowblade as your video editor
 Date: 2016-09-11 03:23:38
-Category: Desktop
+Category: desktop
 Tags: Flowblade, Video Editor
 Slug:10-reasons-to-use-flowblade-as-your-video-editor
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: 7 reasons to love Vim
 Date: 2016-08-10 15:29:33
-Category: Editors
+Category: editors
 Tags: vi, vim
 Slug:7-reasons-to-love-vim
 Authors:sedlav

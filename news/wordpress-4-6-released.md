@@ -1,6 +1,6 @@
 Title: Wordpress 4.6 Released
 Date: 2016-08-17 22:11:24
-Category: News
+Category: news
 Tags: Wordpress
 Slug:wordpress-4-6-released
 Authors:sedlav

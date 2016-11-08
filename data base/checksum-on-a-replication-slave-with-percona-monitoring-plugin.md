@@ -1,6 +1,6 @@
 Title: Checksum on a replication slave with Percona Monitoring Plugin
 Date: 2016-09-25 23:28:31
-Category: Data Base
+Category: data base
 Tags: MariaDB, MySQL, Percona
 Slug:checksum-on-a-replication-slave-with-percona-monitoring-plugin
 Authors:sedlav

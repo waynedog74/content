@@ -1,6 +1,6 @@
 Title: Horizon - The realtime JavaScript backend
 Date: 2016-10-08 18:07:00
-Category: App Directory
+Category: programming
 Tags: Horizon, Javascript, Node.js, RethinkDB
 Slug:horizon-the-realtime-javascript-backend
 Authors:sedlav

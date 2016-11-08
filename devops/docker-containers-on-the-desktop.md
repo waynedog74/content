@@ -1,6 +1,6 @@
 Title: Docker Containers on the Desktop
 Date: 2016-09-07 03:12:27
-Category: DevOps
+Category: devops
 Tags: docker
 Slug:docker-containers-on-the-desktop
 Authors:sedlav

@@ -1,5 +1,5 @@
 Title: MySQL 8.0 Invisible Indexes
-Category: db
+Category: data base
 Tags: mysql, mariadb, percona
 Authors: sedlav
 Summary: MySQL 8.0 has a new feature called “invisible indexes,” which allow you to quickly enable/disable indexes from being used by the MySQL Optimizer

@@ -1,6 +1,6 @@
 Title: Install / Configure BIND DNS server in Ubuntu 16.04 LTS
 Date: 2016-08-24 15:51:41
-Category: Network
+Category: network
 Tags: BIND, DNS
 Slug:install-configure-bind-dns-server-in-ubuntu-16-04-lts
 Authors:sedlav

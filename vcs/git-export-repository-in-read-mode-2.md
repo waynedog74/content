@@ -1,6 +1,6 @@
 Title: git – export repository in read mode
 Date: 2016-09-02 03:56:29
-Category: VCS
+Category: vcs
 Tags: Git
 Slug:git-export-repository-in-read-mode-2
 Authors:sedlav

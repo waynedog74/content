@@ -1,6 +1,6 @@
 Title: How to know about my disk space usage?
 Date: 2016-08-22 15:12:35
-Category: Tips
+Category: cli
 Tags: df
 Slug:how-to-know-about-my-disk-space-usage
 Authors:sedlav

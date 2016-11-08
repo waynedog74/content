@@ -1,6 +1,6 @@
 Title: How to decompress a tar.xz file?
 Date: 2016-08-30 02:26:33
-Category: Tips
+Category: cli
 Tags: tar
 Slug:how-to-decompress-a-tar-xz-file
 Authors:sedlav

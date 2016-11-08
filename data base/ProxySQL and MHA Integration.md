@@ -1,5 +1,5 @@
 Title: ProxySQL and MHA Integration
-Category: db
+Category: data base
 Tags: mysql, mariadb, percona, proxysql, mha
 Authors: sedlav
 Summary: This blog post discusses ProxySQL and MHA integration, and how they work together. MHA (Master High Availability Manager and tools for MySQL) is almost fully integrated with the ProxySQL process

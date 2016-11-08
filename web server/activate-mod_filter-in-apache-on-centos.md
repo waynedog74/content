@@ -1,6 +1,6 @@
 Title: Activate mod_filter in Apache on CentOS
 Date: 2016-08-19 15:08:43
-Category: Tips
+Category: web server
 Tags: Apache, httpd
 Slug:activate-mod_filter-in-apache-on-centos
 Authors:sedlav

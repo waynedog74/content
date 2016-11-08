@@ -1,5 +1,5 @@
 Title: How to encrypt your MySQL configuration file
-Category: db
+Category: data base
 Tags: mysql, mariadb
 Authors: sedlav
 Summary: If you want to keep prying eyes away from your super secret database credentials, then you really need to encrypt it

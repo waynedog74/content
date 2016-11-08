@@ -1,6 +1,6 @@
 Title: Monitorix - A Lightweight System and Network Monitoring Tool
 Date: 2016-10-05 16:47:28
-Category: Tools
+Category: data processing
 Tags: Monitorix, performance
 Slug:monitorix-a-lightweight-system-and-network-monitoring-tool
 Authors:sedlav

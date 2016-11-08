@@ -1,6 +1,6 @@
 Title: Turtl a free/libre and secure Evernote replacement!
 Date: 2016-08-17 14:26:39
-Category: Tools
+Category: office
 Tags: Turtl
 Slug:turtl-a-freelibre-and-secure-evernote-replacement
 Authors:sedlav

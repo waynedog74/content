@@ -1,5 +1,5 @@
 Title: Join several fileystem together with mhddfs 
-Category: unix
+Category: os
 Tags: mhddfs, file system
 Authors:sedlav
 Summary: **mhddfs** it is a FUSE filesystem module which allows to combine several smaller filesystems into one big “virtual” one

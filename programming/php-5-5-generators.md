@@ -1,6 +1,6 @@
 Title: PHP 5.5 Generators
 Date: 2016-09-13 19:43:39
-Category: Programming
+Category: programming
 Tags: Generators, PHP
 Slug:php-5-5-generators
 Authors:sedlav

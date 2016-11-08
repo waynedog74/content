@@ -1,6 +1,6 @@
 Title: Cleverstack - A modular way to create your Angular & Node web apps
 Date: 2016-08-25 14:37:35
-Category: App Directory
+Category: programming
 Tags: CleverStack, Javascript, Node.js
 Slug:cleverstack-a-modular-way-to-create-your-angular-node-web-apps
 Authors:sedlav

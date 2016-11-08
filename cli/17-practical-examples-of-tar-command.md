@@ -1,6 +1,6 @@
 Title: 17 practical examples of tar command
 Date: 2016-09-14 22:55:15
-Category: GNU/Linux
+Category: cli
 Tags: tar
 Slug:17-practical-examples-of-tar-command
 Authors:sedlav

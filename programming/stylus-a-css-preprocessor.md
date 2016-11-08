@@ -1,6 +1,6 @@
 Title: Stylus - A CSS preprocessor
 Date: 2016-10-08 18:30:35
-Category: App Directory
+Category: programming
 Tags: css, Stylus
 Slug:stylus-a-css-preprocessor
 Authors:sedlav

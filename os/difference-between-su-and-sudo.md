@@ -1,6 +1,6 @@
 Title: Difference Between su and sudo
 Date: 2016-09-11 03:33:54
-Category: GNU/Linux
+Category: os
 Tags: su, sudo
 Slug:difference-between-su-and-sudo
 Authors:sedlav

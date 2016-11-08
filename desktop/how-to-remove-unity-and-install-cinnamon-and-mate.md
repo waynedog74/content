@@ -1,6 +1,6 @@
 Title: How to remove unity and install Cinnamon and Mate
 Date: 2016-08-25 14:54:46
-Category: BSD
+Category: desktop
 Tags: Cinnamon, Mate, Unity
 Slug:how-to-remove-unity-and-install-cinnamon-and-mate
 Authors:sedlav

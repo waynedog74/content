@@ -1,6 +1,6 @@
 Title: Percona Server 5.5.51-38.1 is now available
 Date: 2016-08-20 21:06:10
-Category: Data Base
+Category: news
 Tags: Percona
 Slug:percona-server-5-5-51-38-1-is-now-available
 Authors:sedlav

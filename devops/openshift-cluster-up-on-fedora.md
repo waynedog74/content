@@ -1,6 +1,6 @@
 Title: OpenShift Cluster Up on Fedora
 Date: 2016-09-04 02:25:24
-Category: DevOps
+Category: devops
 Tags: Fedora, OpenShift
 Slug:openshift-cluster-up-on-fedora
 Authors:sedlav

@@ -1,5 +1,5 @@
 Title: How to Manage Kernel Modules in Linux
-Category: os
+Category: cli
 Tags: linux, kernel
 Authors: sedlav
 Summary: Normally kernel modules are loaded automatically but sometimes you need to install the additional modules as being manual 

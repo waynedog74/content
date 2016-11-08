@@ -1,6 +1,6 @@
 Title: FreeDOS  a complete, free, DOS-compatible operating system
 Date: 2016-09-14 15:31:56
-Category: Tools
+Category: os
 Tags: FreeDOS
 Slug:freedos-a-complete-free-dos-compatible-operating-system
 Authors:sedlav

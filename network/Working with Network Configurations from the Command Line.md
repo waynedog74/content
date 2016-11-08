@@ -1,5 +1,5 @@
 Title: Network Configurations from the Command Line
-Category: GNU/Linux
+Category: network
 Tags: network, cli
 Slug: working-network-configurations-command-line
 Authors: sedlav

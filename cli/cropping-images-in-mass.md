@@ -1,6 +1,6 @@
 Title: Cropping images in mass
 Date: 2016-09-02 03:54:59
-Category: GNU/Linux
+Category: cli
 Tags: convert, identify, ImageMagick
 Slug:cropping-images-in-mass
 Authors:sedlav

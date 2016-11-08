@@ -1,6 +1,6 @@
 Title: Free manuals for Free Software
 Date: 2016-08-12 02:59:52
-Category: News
+Category: news
 Tags: floss manuals
 Slug:free-manuals-for-free-software
 Authors:sedlav

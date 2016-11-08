@@ -1,6 +1,6 @@
 Title: Parabola a GNU/Linux distro 100% free
 Date: 2016-08-13 21:24:28
-Category: App Directory
+Category: os
 Tags: Parabola GNU/Linux
 Slug:parabola-a-gnulinux-distro-100-free
 Authors:sedlav

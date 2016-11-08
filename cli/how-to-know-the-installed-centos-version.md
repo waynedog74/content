@@ -1,6 +1,6 @@
 Title: How to know the installed centos version?
 Date: 2016-09-01 03:16:21
-Category: GNU/Linux
+Category: cli
 Tags: CentOS, Fedora, RHEL
 Slug:how-to-know-the-installed-centos-version
 Authors:sedlav

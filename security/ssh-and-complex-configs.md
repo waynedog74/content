@@ -1,6 +1,6 @@
 Title: SSH and complex configs
 Date: 2016-08-29 14:54:18
-Category: BSD
+Category: security
 Tags: ssh
 Slug:ssh-and-complex-configs
 Authors:sedlav

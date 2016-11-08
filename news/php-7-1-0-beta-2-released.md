@@ -1,6 +1,6 @@
 Title: PHP 7.1.0 Beta 2 Released
 Date: 2016-08-09 15:12:18
-Category: News
+Category: news
 Tags: PHP, php 7.1
 Slug:php-7-1-0-beta-2-released
 Authors:sedlav

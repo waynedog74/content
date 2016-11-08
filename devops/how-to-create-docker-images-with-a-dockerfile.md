@@ -1,6 +1,6 @@
 Title: How to create Docker Images with a Dockerfile
 Date: 2016-08-19 14:52:17
-Category: BSD
+Category: devops
 Tags: docker
 Slug:how-to-create-docker-images-with-a-dockerfile
 Authors:sedlav

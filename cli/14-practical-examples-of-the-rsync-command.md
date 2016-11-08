@@ -1,6 +1,6 @@
 Title: 14 Practical examples of the rsync command
 Date: 2016-08-06 02:40:56
-Category: Tutorials
+Category: cli
 Tags: rsync
 Slug:14-practical-examples-of-the-rsync-command
 Authors:sedlav

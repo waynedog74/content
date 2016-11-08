@@ -1,6 +1,6 @@
 Title: Install GitBucket on Ubuntu 16.04
 Date: 2016-09-22 14:33:55
-Category: Tools
+Category: vcs
 Tags: Git, GitBucket
 Slug:install-gitbucket-on-ubuntu-16-04
 Authors:sedlav

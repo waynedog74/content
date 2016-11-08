@@ -1,6 +1,6 @@
 Title: Connecting to a ftp site using lftp
 Date: 2016-08-22 15:00:39
-Category: FTP
+Category: ftp
 Tags: lftp
 Slug:connecting-to-a-ftp-site-using-lftp
 Authors:sedlav

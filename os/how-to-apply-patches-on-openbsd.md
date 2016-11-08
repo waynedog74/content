@@ -1,6 +1,6 @@
 Title: How to apply patches on OpenBSD
 Date: 2016-08-30 01:30:21
-Category: BSD
+Category: os
 Tags: OpenBSD
 Slug:how-to-apply-patches-on-openbsd
 Authors:sedlav

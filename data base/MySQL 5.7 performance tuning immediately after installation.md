@@ -1,5 +1,5 @@
 Title: MySQL 5.7 performance tuning immediately after installation
-Category: db
+Category: data base
 Tags: mysql, mariadb
 Authors:sedlav
 Summary: In MySQL 5.7, there are only four really important variables that need to be changed. However, there are other InnoDB and global MySQL variables

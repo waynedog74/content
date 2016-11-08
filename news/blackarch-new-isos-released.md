@@ -1,6 +1,6 @@
 Title: BlackArch new ISOs released!
 Date: 2016-08-19 16:56:32
-Category: GNU/Linux
+Category: news
 Tags: BlackArch, security
 Slug:blackarch-new-isos-released
 Authors:sedlav

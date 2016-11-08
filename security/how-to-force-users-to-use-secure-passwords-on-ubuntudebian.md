@@ -1,6 +1,6 @@
 Title: How to force users to use secure passwords on Ubuntu/Debian
 Date: 2016-08-30 01:33:19
-Category: GNU/Linux
+Category: security
 Tags: Debian, PAM, Ubuntu
 Slug:how-to-force-users-to-use-secure-passwords-on-ubuntudebian
 Authors:sedlav

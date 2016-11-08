@@ -1,6 +1,6 @@
 Title: CaminteJS - Cross-db ORM for Node.js
 Date: 2016-08-25 14:32:14
-Category: App Directory
+Category: programming
 Tags: CaminteJS, Javascript, Node.js, ORM
 Slug:camintejs-cross-db-orm-node-js
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Vitess - Servers and tools that scale MySQL databases for the web
 Date: 2016-09-23 14:32:48
-Category: App Directory
+Category: data base
 Tags: MariaDB, MySQL, Vitess
 Slug:vites-servers-and-tools-that-scale-mysql-databases-for-the-web
 Authors:sedlav

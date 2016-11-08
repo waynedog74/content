@@ -1,6 +1,6 @@
 Title: Introduction to Weechat
 Date: 2016-10-08 16:57:03
-Category: Network
+Category: network
 Tags: im, Weechat
 Slug:introduction-to-weechat
 Authors:sedlav

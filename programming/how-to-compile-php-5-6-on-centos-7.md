@@ -1,6 +1,6 @@
 Title: How to compile PHP-5.6 on CentOS 7
 Date: 2016-08-19 15:00:13
-Category: Programming
+Category: programming
 Tags: PHP
 Slug:how-to-compile-php-5-6-on-centos-7
 Authors:sedlav

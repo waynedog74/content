@@ -1,6 +1,6 @@
 Title: Apache Spark - Lightning-fast cluster computing
 Date: 2016-09-01 03:03:11
-Category: App Directory
+Category: data processing
 Tags: Spark
 Slug:apache-spark-lightning-fast-cluster-computing
 Authors:sedlav

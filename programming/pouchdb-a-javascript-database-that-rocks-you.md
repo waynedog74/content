@@ -1,6 +1,6 @@
 Title: PouchDB a Javascript database that rocks you!
 Date: 2016-08-15 15:18:13
-Category: App Directory
+Category: programming
 Tags: Javascript, PouchDB
 Slug:pouchdb-a-javascript-database-that-rocks-you
 Authors:sedlav

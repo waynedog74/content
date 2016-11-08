@@ -1,6 +1,6 @@
 Title: Cockpit - Administer your GNU/Linux servers from the browser
 Date: 2016-10-08 00:06:51
-Category: App Directory
+Category: devops
 Tags: Cockpit
 Slug:cockpit-administer-your-gnulinux-servers-from-the-browser
 Authors:sedlav

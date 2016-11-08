@@ -1,6 +1,6 @@
 Title: NotABug a really free/anonymous code hosting
 Date: 2016-09-19 14:19:38
-Category: App Directory
+Category: vcs
 Tags: code hosting, NotABug
 Slug:notabug-a-really-freeanonymous-code-hosting
 Authors:sedlav

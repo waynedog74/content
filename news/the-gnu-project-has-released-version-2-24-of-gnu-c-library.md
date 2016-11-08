@@ -1,6 +1,6 @@
 Title: The GNU project has released version 2.24 of GNU C Library
 Date: 2016-08-05 23:10:15
-Category: GNU/Linux
+Category: news
 Tags: C/C++, libc
 Slug:the-gnu-project-has-released-version-2-24-of-gnu-c-library
 Authors:sedlav

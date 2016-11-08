@@ -1,6 +1,6 @@
 Title: GNU Libmicrohttpd a small library that allows embed a http server
 Date: 2016-08-20 20:48:46
-Category: GNU/Linux
+Category: os
 Tags: Libmicrohttpd
 Slug:gnu-libmicrohttpd-a-small-library-that-allows-embed-a-http-server
 Authors:sedlav

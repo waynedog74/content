@@ -1,6 +1,6 @@
 Title: Tails - Privacy for anyone anywhere
 Date: 2016-09-01 02:45:15
-Category: App Directory
+Category: security
 Tags: Tails
 Slug:tails-privacy-for-anyone-anywhere
 Authors:sedlav

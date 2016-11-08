@@ -1,6 +1,6 @@
 Title: The Lumina team has released Lumina 1.0.0
 Date: 2016-08-09 17:24:37
-Category: BSD
+Category: news
 Tags: FreeBSD, NetBSD, OpenBSD
 Slug:the-lumina-team-has-released-lumina-1-0-0
 Authors:sedlav

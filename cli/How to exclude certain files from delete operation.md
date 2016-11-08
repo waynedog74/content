@@ -1,5 +1,5 @@
 Title: How to exclude certain files from delete operation
-Category: gnu/linux
+Category: cli
 Tags: find, rm, shopt
 Authors:sedlav
 Summary: Sometimes you get into a situation where you need to delete all files in a directory or simply cleanup a directory by removing all files except files

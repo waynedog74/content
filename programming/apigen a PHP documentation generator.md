@@ -1,5 +1,5 @@
 Title: apigen a PHP documentation generator
-Category: porgramming
+Category: programming
 Tags: php, apigen
 Authors: sedlav
 Summary: **apigen** is Smart and Readable Documentation for your PHP project 

@@ -1,6 +1,6 @@
 Title: The OpenBSD team has released OpenBSD 6.0
 Date: 2016-09-02 02:34:20
-Category: BSD
+Category: news
 Tags: OpenBSD
 Slug:the-openbsd-team-has-released-openbsd-6-0
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Create a cron.log File To Log crontab Logs
 Date: 2016-08-22 14:45:54
-Category: Tutorials
+Category: cli
 Tags: cron
 Slug:create-a-cron-log-file-to-log-crontab-logs
 Authors:sedlav

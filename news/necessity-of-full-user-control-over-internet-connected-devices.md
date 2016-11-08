@@ -1,6 +1,6 @@
 Title: Necessity of full user control over Internet-connected devices
 Date: 2016-09-11 03:44:50
-Category: News
+Category: news
 Tags: IoT
 Slug:necessity-of-full-user-control-over-internet-connected-devices
 Authors:sedlav

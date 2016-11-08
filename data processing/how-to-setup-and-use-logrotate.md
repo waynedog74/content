@@ -1,6 +1,6 @@
 Title: How to setup and use logrotate
 Date: 2016-08-25 14:59:53
-Category: GNU/Linux
+Category: data processing
 Tags: CentOS, Debian, Fedora, logrotate, RHEL, Ubuntu
 Slug:how-to-setup-and-use-logrotate
 Authors:sedlav

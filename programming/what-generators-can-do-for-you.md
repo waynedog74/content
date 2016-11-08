@@ -1,6 +1,6 @@
 Title: What Generators Can Do For You
 Date: 2016-09-04 03:28:40
-Category: Programming
+Category: programming
 Tags: Generators, PHP
 Slug:what-generators-can-do-for-you
 Authors:sedlav

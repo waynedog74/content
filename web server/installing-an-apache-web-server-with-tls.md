@@ -1,6 +1,6 @@
 Title: Installing an Apache Web Server with TLS
 Date: 2016-08-23 15:27:07
-Category: Web Server
+Category: web server
 Tags: Apache
 Slug:installing-an-apache-web-server-with-tls
 Authors:sedlav

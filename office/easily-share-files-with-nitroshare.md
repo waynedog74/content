@@ -1,6 +1,6 @@
 Title: Easily Share Files with NitroShare
 Date: 2016-09-15 13:54:25
-Category: Tools
+Category: office
 Tags: Nitroshare
 Slug:easily-share-files-with-nitroshare
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: lftp behind a proxy
 Date: 2016-08-19 15:05:47
-Category: FTP
+Category: ftp
 Tags: ftp client, lftp
 Slug:lftp-behind-a-proxy
 Authors:sedlav

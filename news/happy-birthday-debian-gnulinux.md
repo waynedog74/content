@@ -1,6 +1,6 @@
 Title: Happy birthday Debian GNU/Linux!
 Date: 2016-08-16 14:56:11
-Category: GNU/Linux
+Category: news
 Tags: Debian, Ubuntu
 Slug:happy-birthday-debian-gnulinux
 Authors:sedlav

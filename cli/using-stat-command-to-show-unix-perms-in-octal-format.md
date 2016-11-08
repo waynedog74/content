@@ -1,6 +1,6 @@
 Title: Using stat command to show Unix perms in octal format
 Date: 2016-08-20 21:00:55
-Category: GNU/Linux
+Category: cli
 Tags: stat
 Slug:using-stat-command-to-show-unix-perms-in-octal-format
 Authors:sedlav

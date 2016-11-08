@@ -1,6 +1,6 @@
 Title: OpenBSD 6.0 : why and how
 Date: 2016-09-04 01:57:33
-Category: BSD
+Category: os
 Tags: OpenBSD
 Slug:openbsd-6-0-why-and-how
 Authors:sedlav

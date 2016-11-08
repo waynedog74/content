@@ -1,6 +1,6 @@
 Title: Sum a column using awk
 Date: 2016-08-09 20:30:44
-Category: Command Fu
+Category: programming
 Tags: awk
 Slug:sum-a-column-using-awk
 Authors:sedlav

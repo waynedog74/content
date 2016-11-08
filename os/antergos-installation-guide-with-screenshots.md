@@ -1,6 +1,6 @@
 Title: Antergos installation guide with screenshots
 Date: 2016-08-29 14:38:44
-Category: GNU/Linux
+Category: os
 Tags: Anter
 Slug:antergos-installation-guide-with-screenshots
 Authors:sedlav

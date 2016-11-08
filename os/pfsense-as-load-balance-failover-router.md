@@ -1,6 +1,6 @@
 Title: pfSense as load balancer failover router
 Date: 2016-08-09 21:26:37
-Category: BSD
+Category: os
 Tags: FreeBSD, pfsense
 Slug:pfsense-as-load-balance-failover-router
 Authors:sedlav

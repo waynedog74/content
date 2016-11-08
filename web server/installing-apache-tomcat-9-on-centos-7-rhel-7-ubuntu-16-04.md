@@ -1,6 +1,6 @@
 Title: Installing Apache Tomcat 9 on CentOS 7 / RHEL 7 / Ubuntu 16.04
 Date: 2016-08-17 01:31:12
-Category: GNU/Linux
+Category: web server
 Tags: CentOS, Debian, Fedora, RHEL, Tomcat, Ubuntu
 Slug:installing-apache-tomcat-9-on-centos-7-rhel-7-ubuntu-16-04
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: OpenMandriva team announces the OpenMandriva Lx 3.0 final release.
 Date: 2016-08-16 14:49:51
-Category: GNU/Linux
+Category: news
 Tags: OpenMandriva
 Slug:openmandriva-team-announces-the-openmandriva-lx-3-0-final-release
 Authors:sedlav

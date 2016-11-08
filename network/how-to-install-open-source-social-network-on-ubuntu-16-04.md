@@ -1,6 +1,6 @@
 Title: How to Install Open Source Social Network on Ubuntu 16.04
 Date: 2016-09-23 14:12:02
-Category: GNU/Linux
+Category: network
 Tags: Debian, OSSN, Ubuntu
 Slug:how-to-install-open-source-social-network-on-ubuntu-16-04
 Authors:sedlav

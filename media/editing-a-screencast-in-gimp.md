@@ -1,6 +1,6 @@
 Title: Editing a Screencast in Gimp
 Date: 2016-09-11 03:40:26
-Category: BSD
+Category: media
 Tags: GIMP, Graphic, Media
 Slug:editing-a-screencast-in-gimp
 Authors:sedlav

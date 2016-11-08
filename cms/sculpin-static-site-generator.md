@@ -1,6 +1,6 @@
 Title: Sculpin Static Site Generator
 Date: 2016-09-04 03:19:07
-Category: App Directory
+Category: cms
 Tags: Sculpin
 Slug:sculpin-static-site-generator
 Authors:sedlav

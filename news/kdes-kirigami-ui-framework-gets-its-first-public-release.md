@@ -1,6 +1,6 @@
 Title: KDE's Kirigami UI Framework Gets its First Public Release
 Date: 2016-08-12 02:55:39
-Category: News
+Category: news
 Tags: KDE, Kirigami
 Slug:kdes-kirigami-ui-framework-gets-its-first-public-release
 Authors:sedlav

@@ -1,5 +1,5 @@
 Title: How Apache Spark makes your slow MySQL queries 10x faster
-Category: db
+Category: data base
 Tags: mysql, mariadb, percona
 Authors: sedlav
 Summary: Using Apache Spark on top of the existing MySQL server(s) (without the need to export or even stream data to Spark or Hadoop), we can increase query performance more than ten times

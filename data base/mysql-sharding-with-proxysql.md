@@ -1,6 +1,6 @@
 Title: MySQL Sharding with ProxySQL
 Date: 2016-09-01 02:51:36
-Category: Data Base
+Category: data base
 Tags: MariaDB, MySQL, Percona, ProxySQL
 Slug:mysql-sharding-with-proxysql
 Authors:sedlav

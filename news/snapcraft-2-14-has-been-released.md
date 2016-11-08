@@ -1,6 +1,6 @@
 Title: snapcraft 2.14 has been released
 Date: 2016-08-13 01:14:32
-Category: GNU/Linux
+Category: news
 Tags: Debian, snapcraft, Ubuntu
 Slug:snapcraft-2-14-has-been-released
 Authors:sedlav

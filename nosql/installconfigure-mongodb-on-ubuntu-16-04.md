@@ -1,6 +1,6 @@
 Title: Install/Configure MongoDB on Ubuntu 16.04
 Date: 2016-08-21 21:39:51
-Category: NoSQL
+Category: nosql
 Tags: MongoDB
 Slug:installconfigure-mongodb-on-ubuntu-16-04
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: The GNU project has released GNU Guix and GuixSD 0.11.0
 Date: 2016-08-04 22:30:48
-Category: GNU/Linux
+Category: news
 Tags: guix 0.11.0, GuixSD, guixsd 0.11.0
 Slug:the-gnu-project-has-released-gnu-guix-and-guixsd-0-11-0
 Authors:sedlav

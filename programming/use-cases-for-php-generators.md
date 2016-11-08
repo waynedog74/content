@@ -1,6 +1,6 @@
 Title: Use cases for PHP generators
 Date: 2016-09-04 03:22:55
-Category: Programming
+Category: programming
 Tags: Generators, PHP
 Slug:use-cases-for-php-generators
 Authors:sedlav

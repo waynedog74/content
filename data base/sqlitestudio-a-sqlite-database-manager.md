@@ -1,6 +1,6 @@
 Title: SQLiteStudio a SQLite database manager
 Date: 2016-09-02 21:52:55
-Category: App Directory
+Category: data base
 Tags: SQLite, SQLiteStudio
 Slug:sqlitestudio-a-sqlite-database-manager
 Authors:sedlav

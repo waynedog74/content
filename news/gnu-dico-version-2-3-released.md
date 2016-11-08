@@ -1,6 +1,6 @@
 Title: GNU dico version 2.3 released
 Date: 2016-08-12 03:26:26
-Category: GNU/Linux
+Category: news
 Tags: gnu dico
 Slug:gnu-dico-version-2-3-released
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Performance profiling with perf
 Date: 2016-08-16 14:40:18
-Category: GNU/Linux
+Category: data processing
 Tags: perf, performance, profiling
 Slug:performance-profiling-with-perf
 Authors:sedlav

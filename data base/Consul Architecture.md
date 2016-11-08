@@ -1,5 +1,5 @@
 Title: Consul Architecture
-Category: db
+Category: data base
 Tags: mysql, percona, consul
 Authors: sedlav
 Summary: In this blog post, I’ll provide my thoughts about Consul for ProxySQL service discovery and automation 

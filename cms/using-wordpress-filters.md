@@ -1,6 +1,6 @@
 Title: Using WordPress filters
 Date: 2016-08-19 04:08:03
-Category: CMS
+Category: cms
 Tags: Wordpress
 Slug:using-wordpress-filters
 Authors:sedlav

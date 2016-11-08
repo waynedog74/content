@@ -1,6 +1,6 @@
 Title: Trisquel GNU/Linux a fully free operating system
 Date: 2016-08-19 04:01:20
-Category: App Directory
+Category: os
 Tags: Trisquel
 Slug:trisquel-gnulinux-a-fully-free-operating-system
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Use SSLsplit to transparently sniff TLS/SSL connections
 Date: 2016-09-13 19:36:03
-Category: Security
+Category: security
 Tags: proxy, SSLsplit
 Slug:use-sslsplit-to-transparently-sniff-tlsssl-connections
 Authors:sedlav

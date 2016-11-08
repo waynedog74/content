@@ -1,6 +1,6 @@
 Title: Rate Limiting with nginx
 Date: 2016-08-11 02:26:42
-Category: Web Server
+Category: web server
 Tags: nginx
 Slug:rate-limiting-with-nginx
 Authors:sedlav

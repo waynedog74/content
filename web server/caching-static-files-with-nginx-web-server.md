@@ -1,6 +1,6 @@
 Title: Caching static files with nginx web server
 Date: 2016-08-09 21:07:24
-Category: Tutorials
+Category: web server
 Tags: nginx
 Slug:caching-static-files-with-nginx-web-server
 Authors:sedlav

@@ -1,6 +1,6 @@
 Title: Linux commands to put files and directory permissions on LAMP stack
 Date: 2016-09-14 18:11:59
-Category: GNU/Linux
+Category: cli
 Tags: Apache, chgrp, chown, find, nginx
 Slug:files-and-directory-permissions-for-lamp-stack
 Authors:sedlav
