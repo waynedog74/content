@@ -1,4 +1,4 @@
-Title: Network Configurations from the Command Line
+Title: How to check if port is in use on Linux or Unix
 Date: 11-15-2016 18:17
 Category: network
 Tags: netstat, nmap, lsof
