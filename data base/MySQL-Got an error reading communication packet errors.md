@@ -1,4 +1,4 @@
-Title: MySQL “Got an error reading communication packet” errors
+Title: MySQL - Got an error reading communication packet errors
 Date: 11-18-2016 17:28
 Category: data base
 Tags: percona, mysql, mariadb
