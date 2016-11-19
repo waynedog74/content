@@ -1,4 +1,4 @@
-Title: Basic Housekeeping for MySQL Indexes
+Title: ProxySQL versus MaxScale for OLTP RO workloads
 Date: 11-19-2016 15:12
 Category: data base
 Tags: mysql, mariadb, percona
