@@ -1,0 +1,9 @@
+Title: Load balancing with ProxySQL
+Date: 11-22-2016 18:50
+Category: data base
+Tags: mysql, mariadb, percona, proxysql
+Authors: sedlav
+
+> ProxySQL is a high-performance SQL proxy. ProxySQL runs as a daemon watched by a monitoring process. The process monitors the daemon and restarts it in case of a crash to minimize downtime. The daemon accepts incoming traffic from MySQL clients and forwards it to backend MySQL servers. The proxy is designed to run continuously without needing to be restarted. Most configuration can be done at runtime using queries similar to SQL statements. These include runtime parameters, server grouping, and traffic-related settings.
+
+[Link](https://www.percona.com/doc/percona-xtradb-cluster/LATEST/howtos/proxysql.html)
