@@ -1,4 +1,4 @@
-Title: 10 FAQ about WordPress
+Title: The\ WordPress Customizer JavaScript APIs
 Date: 11-22-2016 18:30
 Category: cms
 Tags: Wordpress
