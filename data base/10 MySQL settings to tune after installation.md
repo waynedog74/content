@@ -1,4 +1,4 @@
-Title: Renaming database schema in MySQL
+Title: 10 MySQL settings to tune after installation
 Date: 11-24-2016 17:45
 Category: data base
 Tags: mysql, mariadb, percona
