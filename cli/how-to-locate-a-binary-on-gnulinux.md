@@ -13,5 +13,6 @@ You must use the **whereis** command:
 </code>
 </pre>
 <p>
+
 **whereis** - locate the binary, source, and manual page files for a command</p>
 
