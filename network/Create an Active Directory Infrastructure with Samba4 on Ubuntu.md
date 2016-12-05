@@ -8,4 +8,5 @@ Authors: sedlav
 
 * [Part1](http://www.tecmint.com/install-samba4-active-directory-ubuntu/)
 * [Part2](http://www.tecmint.com/manage-samba4-active-directory-linux-command-line/)
+* [Part3](http://www.tecmint.com/manage-samba4-active-directory-linux-command-line/)
 
