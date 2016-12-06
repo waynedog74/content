@@ -1,6 +1,6 @@
 Title: 20 Command Line Tools to Monitor Linux Performance
 Date: 11-26-2016 17:37
-Category: network
+Category: data processing
 Tags: top, VmStat, lsof, Tcpdump, Netstat, Htop, Iotop, Iostat, IPTraf, Psacct, Acct, Monit, NetHogs, iftop, Monitorix, Arpwatch, Suricata, VnStat, Nagios, Nmon, Collectl
 Authors:sedlav
 
