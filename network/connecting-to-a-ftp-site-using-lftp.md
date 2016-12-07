@@ -1,7 +1,7 @@
 Title: Connecting to a ftp site using lftp
 Date: 2016-08-22 15:00:39
-Category: ftp
-Tags: lftp
+Category: network
+Tags: ftp, lftp
 Slug:connecting-to-a-ftp-site-using-lftp
 Authors:sedlav
 Summary: In this mini tutorial LibreByte explains how to connect to an ftp site using lftp and execute some basic commands. LFTP is a sophisticated ftp/http c

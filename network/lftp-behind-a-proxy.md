@@ -1,7 +1,7 @@
 Title: lftp behind a proxy
 Date: 2016-08-19 15:05:47
-Category: ftp
-Tags: ftp client, lftp
+Category: newtwork
+Tags: ftp, lftp
 Slug:lftp-behind-a-proxy
 Authors:sedlav
 Summary: If you use lftp as ftp client and you want to connect to an ftp site, but a (Squid) proxy that is blocking the access then you can solve it by addi
