@@ -6,6 +6,6 @@ Slug:command-line-graphics-tools-for-gnulinux
 Authors:sedlav
 Summary: Command-line image tools do much of what their GUI counterparts can, and they can do it just as well. Sometimes, especially when dealing with multi
 
-> 
-Command-line image tools do much of what their GUI counterparts can, and they can do it just as well. Sometimes, especially when dealing with multiple image files or working on an older computer, command-line tools can do a better job.
+>  Command-line image tools do much of what their GUI counterparts can, and they can do it just as well. Sometimes, especially when dealing with multiple image files or working on an older computer, command-line tools can do a better job.
 
+[Link](https://opensource.com/life/16/9/command-line-image-tools-linux)
