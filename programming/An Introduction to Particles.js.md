@@ -1,10 +1,9 @@
-Title: An Introduction to Particles.js
+Title: How to access shell environment variables in Perl script
+Date: 12-09-2016 09:07
 Category: programming
-Tags: javascript, particule.js
+Tags: perl
 Authors: sedlav
-Lang: en
-Summary: Particles.js is  lightweight JavaScript library for creating particles.
 
-Particles.js is lightweight JavaScript library for creating particles. This is a series produced by tutsplus.com and give you an introduction to Particles.js library
+n Perl, all environment variables are maintained in a special hash named %ENV. To access a particular shell variable abc in Perl, you can simply fetch a hash value for key 'abc'. For example, to access $PATH and $PWD variables in Perl...
 
-[Link](https://code.tutsplus.com/series/an-introduction-to-particlesjs--cms-1017)
+[Link](http://ask.xmodulo.com/shell-environment-variables-in-perl.html)
