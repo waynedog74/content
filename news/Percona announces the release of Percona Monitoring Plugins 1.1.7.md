@@ -1,5 +1,5 @@
 Title: Percona announces the release of Percona Monitoring Plugins 1.1.7
-Date: 2016-08-17 02:02:54
+Date: 12-10-2016 12:41
 Category: news
 Tags: Percona
 Authors:sedlav
