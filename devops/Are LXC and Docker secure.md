@@ -8,4 +8,4 @@ Authors: sedlav
 
 > In order to answer this question, I won't go deep into the details of what LXC and Docker are. The web is full of information on namespaces and cgroups. Rather, I'd like to show what LXC and Docker can do, what they cannot do, and what their default configuration allows them to do.
 
-[Linkhttp://andrea.corbellini.name/2015/02/20/are-lxc-and-docker-secure/)
+[Link](http://andrea.corbellini.name/2015/02/20/are-lxc-and-docker-secure/)
