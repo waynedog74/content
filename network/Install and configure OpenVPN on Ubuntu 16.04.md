@@ -1,4 +1,4 @@
-Title: How to Build an Email Server on Ubuntu
+Title: Install and configure OpenVPN on Ubuntu 16.04
 Date: 12-12-2016 08:34
 Category: network
 Tags: vpn, ubuntu
