@@ -1,4 +1,4 @@
-Title: Join several fileystem together with mhddfs
+Title: 3 Useful GUI and Terminal Based Disk Scanning Tools
 Date: 12-21-2016 09:58
 Category: os
 Tags: fsck, badblock, S.M.A.R.T, Disks
