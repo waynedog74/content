@@ -1,5 +1,5 @@
 Title: How to install latest LibreOffice from flatpak package
-Date: 2016-09-15 13:54:25
+Date: 12-21-2016 10:08
 Category: office
 Tags: flatpak, LibreOffice
 Authors:sedlav
