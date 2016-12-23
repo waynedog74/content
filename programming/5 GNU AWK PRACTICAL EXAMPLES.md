@@ -1,6 +1,6 @@
 ---
 Title: 5 GNU AWK practical examples
-Date: 
+Date: 2016-12-23 14:37
 Category: programming
 Tags: awk
 Authors: sedlav
