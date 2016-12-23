@@ -8,4 +8,4 @@ Authors: sedlav
 
 > Why are MySQL upgrades needed? The reasons are many and include: Access to new features, performance benefits, bug fixes…. However, MySQL upgrades can be risky if not tested extensively beforehand with your application because the process might break it, prevent the application from functioning properly ...
 
-[Link](https://www.percona.com/blog/2016/09/01/percona-live-europe-featured-talk-manyi-lu-mysql-8-0-whats-new-optimizer/)
+[Link](http://www.percona.com/blog/2014/09/19/mysql-upgrade-best-practices/)
