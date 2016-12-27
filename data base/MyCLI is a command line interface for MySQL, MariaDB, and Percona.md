@@ -1,5 +1,5 @@
 ---
-Title: MyCLI is a command line interface for MySQL, MariaDB, and Percona
+Title: MyCLI - a command line interface for MySQL, MariaDB, and Percona
 Date: 2016-12-27 14:10
 Category: data base
 Tags: mycli, percona, mysql, mariadb
