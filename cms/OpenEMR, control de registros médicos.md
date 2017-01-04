@@ -3,6 +3,7 @@ Title: OpenEMR, control de registros médicos
 Date: 2017-01-04 12:03
 Category: cms
 Tags: OpenEMR
+Lang: es
 Authors: sedlav
 ---
 
