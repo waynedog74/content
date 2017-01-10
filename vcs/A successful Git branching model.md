@@ -6,6 +6,10 @@ Tags: Git
 Authors: sedlav
 ---
 
-> In this post I present the development model that I’ve introduced for some of my projects (both at work and private) about a year ago, and which has turned out to be very successful.
+This post introduces a Git branching model by Vincent Driessen some topics covered:
+
+* Decentralized but centralized
+* The main branches
+* Release branches
 
 [Link](http://nvie.com/posts/a-successful-git-branching-model/)
