@@ -1,8 +1,8 @@
 ---
-Title: How To Set Up Nginx Load Balancing
-Date: 11-15-2016 18:01
+Title: How to Setup Nginx as loadbalancer for Apache or Tomcat for HTTP/HTTPS
+Date: 2017-01-12 13:44
 Category: web server
-Tags: nginx
+Tags: nginx, tomcat, apache
 Authors: sedlav
 ---
 

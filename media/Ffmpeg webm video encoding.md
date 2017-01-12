@@ -6,7 +6,7 @@ Tags: ffmpeg
 Authors: sedlav
 ---
 
-## Webm video encoding,
+## Webm video encoding
 
 libvpx is the VP8 video encoder for ​WebM, an open, royalty-free media file format. This guide is an attempt to summarize the most important options for creating video with libvpx. To install FFmpeg with support for libvpx, look at the Compilation Guides and compile FFmpeg with the --enable-libvpx option.
 
