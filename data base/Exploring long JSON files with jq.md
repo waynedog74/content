@@ -2,7 +2,7 @@
 Title: Exploring long JSON files with jq
 Date: 2017-01-12 16:38
 Category: data base
-Tags: jsnon, jq
+Tags: json, jq
 Authors: sedlav
 ---
 
