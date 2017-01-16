@@ -1,8 +1,8 @@
 ---
 Title: 10 Useful Sudoers Configurations
-Date: 2017-01-09 17:16
-Category: cli
-Tags: sudo, sudoers
+Date: 2017-01-09 17:16:00
+Categories: [cli]
+Tags: [sudo, sudoers]
 Authors: sedlav
 ---
 

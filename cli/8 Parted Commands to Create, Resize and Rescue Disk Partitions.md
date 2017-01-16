@@ -1,9 +1,10 @@
+---
 Title: 8 Parted Commands to Create, Resize and Rescue Disk Partitions
-Category: cli
-Tags: parted
+Date: 2017-01-15 14:49:28
+Categories: [cli]
+Tags: [parted]
 Authors: sedlav
-Lang: en
-Summary: Parted is a famous command line tool that allows you to easily manage hard disk partitions. It can help you add, delete, shrink...
+---
 
 > Parted is a famous command line tool that allows you to easily manage hard disk partitions. It can help you add, delete, shrink and extend disk partitions along with the file systems located on them.
 

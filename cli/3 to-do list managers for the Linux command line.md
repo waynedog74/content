@@ -1,8 +1,8 @@
 ---
 Title: 3 to-do list managers for the Linux command line
-Date: 2017-01-13 16:25
-Category: cli
-Tags: iKog, Todolist, Yokadi
+Date: 2017-01-13 16:25:00
+Categories: [cli]
+Tags: [iKog, Todolist, Yokadi]
 Authors: sedlav
 ---
 

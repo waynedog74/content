@@ -1,8 +1,10 @@
-Title: Dependency resolution with graphs in PHP
-Date: 11-28-2016 12:26
-Category: programming
-Tags: php, graph theory
+---
+Title: "Dependency resolution with graphs in PHP"
+Date: 2016-11-28 12:26:00
+Categories: [programming]
+Tags: [php, graph theory]
 Authors: sedlav
+---
 
 > One of the projects I am working on at work presented an interesting problem.  I had a list of items with dependencies on one another and I needed to figure out the order in which to use those items, based on their dependencies.
 

@@ -1,8 +1,8 @@
 ---
-Title: OpenSSH Multiplexer To Speed Up OpenSSH Connections
-Date: 2017-01-12 13:31
-Category: security
-Tags: OpenSSH
+Title: "OpenSSH Multiplexer To Speed Up OpenSSH Connections"
+Date: 2017-01-12 13:31:00
+Categories: [security]
+Tags: [OpenSSH]
 Authors: sedlav
 ---
 

@@ -1,8 +1,8 @@
 ---
 Title:  Quick GNU/Linux Tips and Tricks
-Date: 2016-12-26 11:32
-Category: cli
-Tags: whoami, du, mkdir, cd, find, netstat, ps, dd
+Date: 2016-12-26 11:32:00
+Categories: [cli]
+Tags: [whoami, du, mkdir, cd, find, netstat, ps, dd]
 Authors: sedlav
 ---
 

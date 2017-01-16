@@ -1,8 +1,8 @@
 ---
-Title: Varnish: Your site faster and more stable
-Date: 2017-01-02 11:30
-Category: network
-Tags: Varnish
+Title: "Varnish: Your site faster and more stable"
+Date: 2017-01-02 11:30:00
+Categories: [network]
+Tags: [Varnish]
 Authors: sedlav
 ---
 

@@ -1,10 +1,11 @@
+---
 Title: git – export repository in read mode
 Date: 2016-08-23 19:15:10
-Category: vcs
-Tags: Git
-Slug:git-export-repository-in-read-mode
-Authors:sedlav
-Summary: Git is one of the most popular version control system due to its speed, efficiency and support to a distributed development. Today LibreByte will sh
+Categories: [vcs]
+Tags: [Git]
+Slug: git-export-repository-in-read-mode
+Authors: sedlav
+---
 
 **Git** is one of the most popular version control system due to its speed, efficiency and support to a distributed development. Today LibreByte will shown how to sharing a git repository in read mode.
 

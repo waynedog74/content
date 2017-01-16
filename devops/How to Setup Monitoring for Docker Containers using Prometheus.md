@@ -1,10 +1,12 @@
-Title: How to Setup Monitoring for Docker Containers using Prometheus
-Date: 12-14-2016 10:02
-Category: devops
-Tags: docker, prometheus, grafana
+---
+Title: "How to Setup Monitoring for Docker Containers using Prometheus"
+Date: 2016-12-14 10:02:00
+Categories: [devops]
+Tags: [docker, prometheus, grafana]
 Authors: sedlav
+---
 
-> Prometheus is a next-generation open source monitoring system from SoundCloud and is designed for monitoring such as the generation and collection of metrics, graphing the resulting data on dashboards, and alerting on anomalies etc. In this tutorial we will install/configure following components -
+**Prometheus** is a next-generation open source monitoring system from SoundCloud and is designed for monitoring such as the generation and collection of metrics, graphing the resulting data on dashboards, and alerting on anomalies etc. In this tutorial we will install/configure following components:
 
 * Prometheus as a Docker service although it can be installed as a binary or built from source.
 * Prometheus Node Exporter which exposes the metrics of the host machine.

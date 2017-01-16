@@ -1,10 +1,11 @@
+---
 Title: DNF by examples
 Date: 2016-08-09 02:50:47
-Category: cli
-Tags: CentOS, RHEL, Fedora, dnf
-Slug:dnf-by-examples
-Authors:sedlav
-Summary: DNF is a software package manager that installs, updates, and removes packages on RPM-based Linux distributions. It automatically computes dependencie
+Categories: [cli]
+Tags: [CentOS, RHEL, Fedora, dnf]
+Slug: dnf-by-examples
+Authors: sedlav
+---
 
 DNF is a software package manager that installs, updates, and removes packages on RPM-based Linux distributions. It automatically computes dependencies and determines the actions required to install packages. 2Days2Geek tech us how to use dnf package manager by examples.
 

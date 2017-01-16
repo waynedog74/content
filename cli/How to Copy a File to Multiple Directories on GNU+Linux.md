@@ -1,8 +1,10 @@
+---
 Title: How to Copy a File to Multiple Directories on GNU+Linux
-Date: 12-09-2016 08:58
-Category: cli
-Tags: cp, xargs
-Authors:sedlav
+Date: 2016-12-09 08:58:00
+Categories: [cli]
+Tags: [cp, xargs]
+Authors: sedlav
+---
 
 > While learning Linux, it is always the norm for newbies to keep on typing several commands to accomplish a simple task. This is understandable especially when one is just getting accustomed to using the terminal.
 

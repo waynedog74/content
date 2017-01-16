@@ -1,8 +1,8 @@
 ---
-Title: Work sprints with a Pomodoro timer
-Date: 2016-12-27 14:08
-Category: office
-Tags: Pomodoro
+Title: "Work sprints with a Pomodoro timer"
+Date: 2016-12-27 14:08:00
+Categories: [office]
+Tags: [Pomodoro]
 Authors: sedlav
 ---
 

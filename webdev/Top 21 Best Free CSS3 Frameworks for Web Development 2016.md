@@ -1,8 +1,10 @@
-Title: Top 21 Best Free CSS3 Frameworks for Web Development 2016
-Date: 12-21-2016 09:21
-Category: webdev
-Tags: css frameworks
+---
+Title: "Top 21 Best Free CSS3 Frameworks for Web Development 2016"
+Date: 2016-12-21 09:21:00
+Categories: [webdev]
+Tags: [css frameworks]
 Authors: sedlav
+---
 
 According Wikipedia:
 

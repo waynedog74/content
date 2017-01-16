@@ -1,8 +1,8 @@
 ---
-Title: 4 open source alternatives to Trello
-Date: 2017-01-10 11:55
-Category: office
-Tags: Project Management, Taiga, Kanboard, Restyaboard, Wekan
+Title: "4 open source alternatives to Trello"
+Date: 2017-01-10 11:55:00
+Categories: [office]
+Tags: [Project Management, Taiga, Kanboard, Restyaboard, Wekan]
 Authors: sedlav
 ---
 

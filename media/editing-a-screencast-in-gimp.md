@@ -1,10 +1,11 @@
-Title: Editing a Screencast in Gimp
+---
+Title: "Editing a Screencast in Gimp"
 Date: 2016-09-11 03:40:26
-Category: media
-Tags: GIMP, Graphic, Media
-Slug:editing-a-screencast-in-gimp
-Authors:sedlav
-Summary: Gimp is designed for editing static images but with some workarounds it can edit animations as well. Simply open your *.gif animation file created i
+Categories: [media]
+Tags: [GIMP, Graphic, Media]
+Slug: editing-a-screencast-in-gimp
+Authors: sedlav
+---
 
 > Gimp is designed for editing static images but with some workarounds it can edit animations as well. Simply open your *.gif animation file created in the recording session in Gimp.
 

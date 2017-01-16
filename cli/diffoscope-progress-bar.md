@@ -1,10 +1,11 @@
+---
 Title: diffoscope progress bar
 Date: 2016-10-03 10:27:29
-Category: cli
-Tags: diffoscope
-Slug:diffoscope-progress-bar
-Authors:sedlav
-Summary: Diffoscope is a diff utility which recursively unpacks archives, ISOs, etc., transforming a wide variety of files into human-readable forms before 
+Categories: [cli]
+Tags: [diffoscope]
+Slug: diffoscope-progress-bar
+Authors: sedlav
+---
 
 > Diffoscope is a diff utility which recursively unpacks archives, ISOs, etc., transforming a wide variety of files into human-readable forms before comparison instead of simply showing the raw difference in hexadecimal.
 

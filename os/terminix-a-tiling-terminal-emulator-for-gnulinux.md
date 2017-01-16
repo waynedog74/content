@@ -1,10 +1,11 @@
+---
 Title: Terminix - A tiling terminal emulator for GNU/Linux
 Date: 2016-09-10 04:11:45
-Category: os
+Categories: [os]
 Tags: Terminix
-Slug:terminix-a-tiling-terminal-emulator-for-gnulinux
-Authors:sedlav
-Summary: **Terminix** is a tiling terminal emulator which uses the VTE GTK+ 3 widget with the following features:* Layout terminals in any fashion by splitti
+Slug: terminix-a-tiling-terminal-emulator-for-gnulinux
+Author: sedlav
+---
 
 **Terminix** is a tiling terminal emulator which uses the VTE GTK+ 3 widget with the following features:
 

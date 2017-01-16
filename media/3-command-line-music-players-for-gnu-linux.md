@@ -1,10 +1,11 @@
-Title: 3 command-line music players for GNU/ Linux
+---
+Title: "3 command-line music players for GNU/ Linux"
 Date: 2016-08-19 16:08:11
-Category: media
-Tags: cmus, moc, mpg123
-Slug:3-command-line-music-players-for-gnu-linux
-Authors:sedlav
-Summary: **cmus** is a fast and flexible music player. It organizes your music by either musician or album title, and lets you load playlist files. You can als
+Categories: [media]
+Tags: [cmus, moc, mpg123]
+Slug: 3-command-line-music-players-for-gnu-linux
+Authors: sedlav
+---
 
 **cmus** is a fast and flexible music player. It organizes your music by either musician or album title, and lets you load playlist files. You can also use cmus' built-in search function to look for music in your /home directory and you can switch between several different layouts.
 **MOC** (short for Music on Console) is a dual-pane music player that's similar to cmus. The left pane lists the tracks in a folder, while the right pane contains the contents of a playlist file (if there is one in the folder).

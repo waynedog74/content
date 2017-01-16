@@ -1,8 +1,8 @@
 ---
-Title: How to find network card driver name and version on GNU/Linux?
-Date: 2016-12-23 14:27
-Category: network
-Tags: Apache
+Title: "How to find network card driver name and version on GNU/Linux?"
+Date: 2016-12-23 14:27:00
+Categories: [network]
+Tags: [Apache]
 Authors: sedlav
 ---
 

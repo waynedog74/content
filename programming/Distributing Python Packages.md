@@ -1,8 +1,8 @@
 ---
-Title: Distributing Python Packages
-Date: 12-19-2016 14:22
-Category: programming
-Tags: pyhton
+Title: "Distributing Python Packages"
+Date: 2016-12-19 14:22:00
+Categories: [programming]
+Tags: [pyhton]
 Authors: sedlav
 ---
 

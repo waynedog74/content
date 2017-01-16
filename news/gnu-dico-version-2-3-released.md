@@ -1,12 +1,14 @@
-Title: GNU dico version 2.3 released
+---
+Title: "GNU dico version 2.3 released"
 Date: 2016-08-12 03:26:26
-Category: news
-Tags: gnu dico
-Slug:gnu-dico-version-2-3-released
-Authors:sedlav
-Summary: GNU Dico is a dictionary server implementing RFC 2229, with a set of modules for handling various database formats and a console client program.**Hig
+Categories: [news]
+Tags: [gnu dico]
+Slug: gnu-dico-version-2-3-released
+Authors: sedlav
+---
 
 GNU Dico is a dictionary server implementing RFC 2229, with a set of modules for handling various database formats and a console client program.
+
 **Hightlights**
 
 * IPv6 support

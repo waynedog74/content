@@ -1,10 +1,11 @@
-Title: BlackArch new ISOs released!
+---
+Title: "BlackArch new ISOs released!"
 Date: 2016-08-19 16:56:32
-Category: news
-Tags: BlackArch, security
-Slug:blackarch-new-isos-released
-Authors:sedlav
-Summary: Today we released new BlackArch Linux ISOs. The new ISOs include over 1500 tools.**Highlights:*** include linux kernel 4.7.1* updated BlackArch L
+Categories: [news]
+Tags: [BlackArch, security]
+Slug: blackarch-new-isos-released
+Authors: sedlav
+---
 
 > Today we released new BlackArch Linux ISOs. The new ISOs include over 1500 tools.
 **Highlights:**

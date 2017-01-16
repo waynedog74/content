@@ -1,8 +1,8 @@
 ---
-Title: PhantomJS a headless web browser
-Date: 2017-01-10 11:19
-Category: programming
-Tags: PhantomJS, javascript
+Title: "PhantomJS a headless web browser"
+Date: 2017-01-10 11:19:00
+Categories: [programming]
+Tags: [PhantomJS, javascript]
 Authors: sedlav
 ---
 

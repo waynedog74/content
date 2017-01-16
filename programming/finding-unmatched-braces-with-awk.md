@@ -1,10 +1,11 @@
-Title: Finding unmatched braces with AWK
+---
+Title: "Finding unmatched braces with AWK"
 Date: 2016-08-15 15:00:34
-Category: programming
-Tags: awk
-Slug:finding-unmatched-braces-with-awk
-Authors:sedlav
-Summary: In this tutorial Bob Mesibov explains how we can use AWK to find unmatched braces within fields from a big CSV file.AWK is a programming language des
+Categories: [programming]
+Tags: [awk]
+Slug: finding-unmatched-braces-with-awk
+Authors: sedlav
+---
 
 In this tutorial Bob Mesibov explains how we can use AWK to find unmatched braces within fields from a big CSV file.
 AWK is a programming language designed for text processing and typically used as a data extraction and reporting tool.

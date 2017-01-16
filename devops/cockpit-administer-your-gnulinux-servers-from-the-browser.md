@@ -1,12 +1,14 @@
-Title: Cockpit - Administer your GNU/Linux servers from the browser
+---
+Title: "Cockpit - Administer your GNU/Linux servers from the browser"
 Date: 2016-10-08 00:06:51
-Category: devops
-Tags: Cockpit
-Slug:cockpit-administer-your-gnulinux-servers-from-the-browser
-Authors:sedlav
-Summary: **Cockpit** makes it easy to administer your GNU/Linux servers via a web browser.**Features:*** Easy to use. Cockpit makes GNU/Linux discoverable, 
+Categories: [devops]
+Tags: [Cockpit]
+Slug: cockpit-administer-your-gnulinux-servers-from-the-browser
+Authors: sedlav
+---
 
 **Cockpit** makes it easy to administer your GNU/Linux servers via a web browser.
+
 **Features:**
 
 * Easy to use. Cockpit makes GNU/Linux discoverable, allowing sysadmins to easily perform tasks such as starting containers, storage administration, network configuration, inspecting logs and so on.

@@ -1,10 +1,14 @@
+---
 Title: A beginner's introduction to snaps  package format
 Date: 2016-08-23 15:23:28
-Category: os
-Tags: snapcraft
+Categories:
+  - os
+Tags:
+  - snapcraft
 Slug: a-beginners-introduction-to-snaps-package-format
 Authors: sedlav
 Summary: What are snaps and why you should use them? The Linux ecosystem has suffered from an old problem since the dawn of the concept of 'distribution', an
+---
 
 > What are snaps and why you should use them? The Linux ecosystem has suffered from an old problem since the dawn of the concept of 'distribution', and that problem is fragmentation. One of the biggest issues that cause this fragmentation is different package formats; I can't run my .debs on my Fedora system or my .rpms on my Ubuntu machine.
 

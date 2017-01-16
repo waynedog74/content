@@ -1,10 +1,12 @@
+---
 Title: 4 Sites to learn Git
-Date: 11-26-2016 14:28
-Category: vcs
-Tags: Git
-Authors:sedlav
+Date: 2016-11-26 14:28:00
+Categories: [vcs]
+Tags: [Git]
+Authors: sedlav
+---
 
-[Git Reference](http://gitref.org/) brought by the **GitHub** team is  a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the type of operation you may be trying to do, and will present the common options and commands needed to accomplish these common tasks. 
+[Git Reference](http://gitref.org/) brought by the **GitHub** team is  a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the type of operation you may be trying to do, and will present the common options and commands needed to accomplish these common tasks.
 
 [git ready](http://gitready.com/) founded by Nick Quaranto and with contribution from the comunity is intended to be a way for beginners to get off the ground using Git and to show those who are already familiar with Git some new tricks.
 

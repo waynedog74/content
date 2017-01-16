@@ -1,8 +1,10 @@
-Title: Are LXC and Docker secure?
-Date: 12-05-2016 10:41
-Category: devops
-Tags: lxc, docker
+---
+Title: "Are LXC and Docker secure?"
+Date: 2016-12-05 10:41:00
+Categories: [devops]
+Tags: [lxc, docker]
 Authors: sedlav
+---
 
 > We can agree that the LXC and Docker ecosystems are great and work well, but there's an important question that I believe everyone should ask, but too few people are asking: are LXC and Docker secure?
 

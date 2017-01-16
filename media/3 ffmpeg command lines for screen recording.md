@@ -1,9 +1,10 @@
-Title: 3 ffmpeg command lines for screen recording
-Date: 11-13-2016 11:45
-Category: media
-Tags: ffmpeg
-Authors:sedlav
-Summary: This article gives three command lines of ffmpeg as example to capture video + audio of your desktop screen in GNU/Linux.
+---
+Title: "3 ffmpeg command lines for screen recording"
+Date: 2016-11-13 11:45:00
+Categories: [media]
+Tags: [ffmpeg]
+Authors: sedlav
+---
 
 > This article gives three command lines of ffmpeg as example to capture video + audio of your desktop screen in GNU/Linux. You may choose between three popular video formats: WKV, WEBM, or OGV. Just run the command line.
 

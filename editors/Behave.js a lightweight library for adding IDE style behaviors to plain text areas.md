@@ -1,8 +1,8 @@
 ---
 Title: Behave.js a lightweight library for adding IDE style behaviors to plain text areas
-Date: 12-21-2016 09:40
-Category: editors
-Tags: wysiwyg-editor, javascript
+Date: 2016-12-21 09:40:00
+Categories: [editors]
+Tags: [wysiwyg-editor, javascript]
 Authors: sedlav
 ---
 

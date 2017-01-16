@@ -1,8 +1,8 @@
 ---
-Title: Enter your ssh-passphrase once, use it many times
-Date: 2017-01-13 16:36
-Category: security
-Tags: ssh, sshadd
+Title: "Enter your ssh-passphrase once, use it many times"
+Date: 2017-01-13 16:36:00
+Categories: [security]
+Tags: [ssh, sshadd]
 Authors: sedlav
 ---
 

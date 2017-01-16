@@ -1,10 +1,11 @@
-Title: FREELAN the VPN that loves you!
+---
+Title: "FREELAN the VPN that loves you!"
 Date: 2016-08-13 21:34:39
-Category: network
-Tags: FreeLAN
-Slug:freelan-the-vpn-that-loves-you
-Authors:sedlav
-Summary: Freelan is a free, open-source, multi-platform, peer-to-peer VPN software that abstracts a LAN over the Internet. It works on Windows, Linux and Mac O
+Categories: [network]
+Tags: [FreeLAN]
+Slug: freelan-the-vpn-that-loves-you
+Authors: sedlav
+---
 
 Freelan is a free, open-source, multi-platform, peer-to-peer VPN software that abstracts a LAN over the Internet. It works on Windows, Linux and Mac OSX.
 

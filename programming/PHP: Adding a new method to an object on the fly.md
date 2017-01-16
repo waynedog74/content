@@ -1,8 +1,10 @@
-Title: PHP: Adding a new method to an object on the fly
-Date: 12-13-2016 11:29
-Category: programming
-Tags: php
+---
+Title: "PHP: Adding a new method to an object on the fly"
+Date: 2016-12-13 11:29:00
+Categories: [programming]
+Tags: [php]
 Authors: sedlav
+---
 
 > What about adding methods to a object on the fly, if you comes from ruby language or you are familar with this language, you already know what is it… Ruby provides to you a way to get an instancied object and add a additional method to this object.
 

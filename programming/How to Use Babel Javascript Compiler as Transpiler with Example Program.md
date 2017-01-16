@@ -1,8 +1,10 @@
-Title: How to Use Babel Javascript Compiler as Transpiler with Example Program
-Date: 12-16-2016 17:26
-Category: programming
-Tags: javascript, babel
+---
+Title: "How to Use Babel Javascript Compiler as Transpiler with Example Program"
+Date: 2016-12-16 17:26:00
+Categories: [programming]
+Tags: [javascript, babel]
 Authors: sedlav
+---
 
 > Babel will transform your javascript code from one format (or version) to another.
 

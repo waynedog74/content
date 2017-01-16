@@ -1,10 +1,11 @@
-Title: Percona Toolkit 2.2.19 is now available
+---
+Title: "Percona Toolkit 2.2.19 is now available"
 Date: 2016-08-17 02:02:54
-Category: news
-Tags: Percona
-Slug:percona-toolkit-2-2-19-is-now-available
-Authors:sedlav
-Summary: Percona is pleased to announce the availability of Percona Toolkit 2.2.19.  Released August 16, 2016.Percona Toolkit is a collection of advanced co
+Categories: [news]
+Tags: [Percona]
+Slug: percona-toolkit-2-2-19-is-now-available
+Authors: sedlav
+---
 
 Percona is pleased to announce the availability of Percona Toolkit 2.2.19.  Released August 16, 2016.
 

@@ -1,8 +1,10 @@
-Title: Linux Mint Cinnamon Edition 17.2 Shortcuts  
-Date: 12-05-2016 09:38
-Category: desktop
-Tags: Linux Mint, Cinnamon
-Authors:sedlav
+---
+Title: "Linux Mint Cinnamon Edition 17.2 Shortcuts"
+Date: 2016-12-05 09:38:00
+Categories: [desktop]
+Tags: [Linux Mint, Cinnamon]
+Authors: sedlav
+---
 
 This is a list of Cinnamon desktop shortcuts organized by topics
 

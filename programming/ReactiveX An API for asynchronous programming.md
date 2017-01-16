@@ -1,9 +1,10 @@
-Title: ReactiveX An API for asynchronous programming
-Date: 11-13-2016 15:40
-Category: programming
-Tags: ReactiveX
-Authors:sedlav
-Summary: **ReactiveX** is a library for composing asynchronous and event-based programs by using observable sequences.
+---
+Title: "ReactiveX An API for asynchronous programming"
+Date: 2016-11-13 15:40:00
+Categories: [programming]
+Tags: [ReactiveX]
+Authors: sedlav
+---
 
 **ReactiveX** is a library for composing asynchronous and event-based programs by using observable sequences.
 

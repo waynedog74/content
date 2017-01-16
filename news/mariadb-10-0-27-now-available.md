@@ -1,10 +1,11 @@
-Title: MariaDB 10.0.27 now available
+---
+Title: "MariaDB 10.0.27 now available"
 Date: 2016-08-25 19:44:38
-Category: news
-Tags: MariaDB
-Slug:mariadb-10-0-27-now-available
-Authors:sedlav
-Summary: The MariaDB project is pleased to announce the immediate availability of MariaDB 10.0.27. This is a Stable (GA) release.MariaDB is one of the most po
+Categories: [news]
+Tags: [MariaDB]
+Slug: mariadb-10-0-27-now-available
+Authors: sedlav
+---
 
 The **MariaDB** project is pleased to announce the immediate availability of MariaDB 10.0.27. This is a Stable (GA) release.
 

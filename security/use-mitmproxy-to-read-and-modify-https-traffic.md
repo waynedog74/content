@@ -1,7 +1,7 @@
-Title: Use mitmproxy to read and modify HTTPS traffic
+Title: "Use mitmproxy to read and modify HTTPS traffic"
 Date: 2016-09-13 19:29:20
-Category: security
-Tags: mitmproxy, proxy
+Categories: [security]
+Tags: [mitmproxy, proxy]
 Slug:use-mitmproxy-to-read-and-modify-https-traffic
 Authors:sedlav
 Summary: Capturing HTTP and HTTPS traffic on your own machine is quite simple: Using tools like Wireshark or Firebug, sniffing the local connections is only

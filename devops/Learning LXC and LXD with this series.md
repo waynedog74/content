@@ -1,8 +1,10 @@
-Title: Learning LXC and LXD container tools
-Category: devops
-Tags: lxc, lxd
+---
+Title: "Learning LXC and LXD container tools"
+Date: 2017-01-15 17:09:27
+Categories: [devops]
+Tags: [lxc, lxd]
 Authors: sedlav
-Summary: **LXC** is the well known set of tools, templates, library and language bindings. **LXD** is the new LXC experience. It offers a completely fresh and intuitive user experience with a single command line tool to manage your containers
+---
 
 **LXC** is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
 
@@ -10,6 +12,8 @@ Summary: **LXC** is the well known set of tools, templates, library and language
 
 If you want to learn about these tecnology here 2 wonderful series + Ubuntu guide.
 
-● [LXC series](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/) 
-● [LXD series](http://insights.ubuntu.com/2016/03/14/the-lxd-2-0-story-prologue/) 
-● [LXC Ubuntu Page](https://help.ubuntu.com/lts/serverguide/lxc.html) 
+[LXC series](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
+
+[LXD series](http://insights.ubuntu.com/2016/03/14/the-lxd-2-0-story-prologue/)
+
+[LXC Ubuntu Page](https://help.ubuntu.com/lts/serverguide/lxc.html)

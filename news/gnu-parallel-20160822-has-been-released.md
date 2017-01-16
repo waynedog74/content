@@ -1,12 +1,14 @@
-Title: GNU Parallel 20160822 has been released.
+---
+Title: "GNU Parallel 20160822 has been released."
 Date: 2016-08-22 14:26:40
-Category: news
-Tags: GNU Parallel
-Slug:gnu-parallel-20160822-has-been-released
-Authors:sedlav
-Summary: GNU Parallel 20160822 ('Og Nomekop') has been released. It is available for download <a href="http://ftpmirror.gnu.org/parallel/" target="_blank">at</
+Categories: [news]
+Tags: [GNU Parallel]
+Slug: gnu-parallel-20160822-has-been-released
+Authors: sedlav
+---
 
-GNU Parallel 20160822 ('Og Nomekop') has been released. It is available for download <a href="http://ftpmirror.gnu.org/parallel/" target="_blank">at</a>.
+GNU Parallel 20160822 ('Og Nomekop') has been released. It is available for [download](http://ftpmirror.gnu.org/parallel/)
+
 **Hightlights**
 
 * --tmuxpane opens jobs in panes in tmux. Useful if you want to monitor progress of less than 100 simultaneous jobs.

@@ -1,8 +1,10 @@
-Title: How to install GNU Ring in Ubuntu (the free replacement for Skype)
-Date: 12-12-2016 08:38
-Category: network
-Tags: GNU Ring, ubuntu
-Authors:sedlav
+---
+Title: "How to install GNU Ring in Ubuntu (the free replacement for Skype)"
+Date: 2016-12-12 08:38:00
+Categories: [network]
+Tags: [GNU Ring, ubuntu]
+Authors: sedlav
+---
 
 > GNU Ring (https://ring.cx) is a free as in freedom and open source replacement for any of Skype-like internet communication platforms. Ring is a voice and video call program, chatting, and in the same time VoIP client, with point-to-point-encryption model to ensure your privacy and security at maximum rate.
 

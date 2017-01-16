@@ -1,9 +1,10 @@
+---
 Title: Creating Custom WordPress Administration Pages
-Category: cms
-Tags: wordpress
+Date: 2017-01-15 10:00:38
+Categories: [cms]
+Tags: [wordpress]
 Authors: sedlav
-Lang: en
-Summary: It's possible to write our own custom WordPress administration pages. In this series, we're going to take a look at how to do exactly that.
+---
 
 > It's possible to write our own custom WordPress administration pages. In this series, we're going to take a look at how to do exactly that.
 

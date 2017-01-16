@@ -1,10 +1,11 @@
-Title: Install Seafile on Ubuntu 16.04
+---
+Title: "Install Seafile on Ubuntu 16.04"
 Date: 2016-08-29 15:18:57
-Category: network
-Tags: Seafile
-Slug:install-seafile-on-ubuntu-16-04
-Authors:sedlav
-Summary: **HowToForge** explains how to install **Seafile** on Ubuntu 16.04.**Seafile** is an enterprise file sync and share platform with high reliability an
+Categories: [network]
+Tags: [Seafile]
+Slug: install-seafile-on-ubuntu-16-04
+Authors: sedlav
+---
 
 **HowToForge** explains how to install **Seafile** on Ubuntu 16.04.
 

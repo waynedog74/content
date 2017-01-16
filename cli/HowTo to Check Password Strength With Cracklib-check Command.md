@@ -1,8 +1,8 @@
 ---
 Title: HowTo to Check Password Strength With Cracklib-check Command
-Date: 2017-01-09 17:23
-Category: cli
-Tags: cracklib
+Date: 2017-01-09 17:23:00
+Categories: [cli]
+Tags: [cracklib]
 Authors: sedlav
 ---
 

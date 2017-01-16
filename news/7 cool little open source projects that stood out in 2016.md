@@ -1,8 +1,8 @@
 ---
-Title: 7 cool little open source projects that stood out in 2016
-Date: 12-07-2016 15:10
-Category: news
-Tags: Mixxx, sofa, PANOPTES, OpenAPS, OpenEMR, bibisco, Pa11y
+Title: "7 cool little open source projects that stood out in 2016"
+Date: 2016-12-07 15:10:00
+Categories: [news]
+Tags: [Mixxx, sofa, PANOPTES, OpenAPS, OpenEMR, bibisco, Pa11y]
 Authors: sedlav
 ---
 

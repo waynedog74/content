@@ -1,10 +1,11 @@
-Title: Docker Containers on the Desktop
+---
+Title: "Docker Containers on the Desktop"
 Date: 2016-09-07 03:12:27
-Category: devops
-Tags: docker
-Slug:docker-containers-on-the-desktop
-Authors:sedlav
-Summary: Most people use Docker for containing applications to deploy into production or for building their applications in a contained environment. This is 
+Categories: [devops]
+Tags: [docker]
+Slug: docker-containers-on-the-desktop
+Authors: sedlav
+---
 
 > Most people use Docker for containing applications to deploy into production or for building their applications in a contained environment. This is all fine & dandy, and saves developers & ops engineers huge headaches, but I like to use Docker in a not-so-typical way.
 

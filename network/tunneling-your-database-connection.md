@@ -1,10 +1,11 @@
-Title: Tunneling your database connection
+---
+Title: "Tunneling your database connection"
 Date: 2016-09-07 03:09:51
-Category: network
-Tags: ssh
-Slug:tunneling-your-database-connection
-Authors:sedlav
-Summary: Your database instance is not directly accessible from outside the environment. This is a good thing because a database cannot reliably maintain the
+Categories: [network]
+Tags: [ssh]
+Slug: tunneling-your-database-connection
+Authors: sedlav
+---
 
 > Your database instance is not directly accessible from outside the environment. This is a good thing because a database cannot reliably maintain the security and patch levels like SSH can. However, it means that to access your database from an external database tool, such as pgAdmin, MySQL Workbench, or SQLyog, you need to create an SSH tunnel to your database host/instance.
 

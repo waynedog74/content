@@ -1,10 +1,11 @@
-Title: How to remove unity and install Cinnamon and Mate
+---
+Title: "How to remove unity and install Cinnamon and Mate"
 Date: 2016-08-25 14:54:46
-Category: desktop
-Tags: Cinnamon, Mate, Unity
-Slug:how-to-remove-unity-and-install-cinnamon-and-mate
-Authors:sedlav
-Summary: Unity is the default desktop interface for Ubuntu, many people like it and many don’t, for those who don’t like it, we’ll explain to you how t
+Categories: [desktop]
+Tags: [Cinnamon, Mate, Unity]
+Slug: how-to-remove-unity-and-install-cinnamon-and-mate
+Authors: sedlav
+---
 
 > Unity is the default desktop interface for Ubuntu, many people like it and many don’t, for those who don’t like it, we’ll explain to you how to completely remove Unity from Ubuntu and install Cinnamon and MATE interfaces easily.
 

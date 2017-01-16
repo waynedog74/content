@@ -1,8 +1,8 @@
 ---
-Title: Improve your programming skills with Exercism
-Date: 2017-01-11 16:26
-Category: programming
-Tags: Exercism
+Title: "Improve your programming skills with Exercism"
+Date: 2017-01-11 16:26:00
+Categories: [programming]
+Tags: [Exercism]
 Authors: sedlav
 ---
 

@@ -1,8 +1,8 @@
 ---
-Title: How to record a region of your desktop as animated GIF
-Date: 2017-01-10 10:48
-Category: media
-Tags: Gifine
+Title: "How to record a region of your desktop as animated GIF"
+Date: 2017-01-10 10:48:00
+Categories: [media]
+Tags: [Gifine]
 Authors: sedlav
 ---
 

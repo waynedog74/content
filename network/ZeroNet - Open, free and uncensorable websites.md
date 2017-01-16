@@ -1,8 +1,10 @@
-Title: ZeroNet - Open, free and uncensorable websites
-Date: 12-05-2016 10:46
-Category: network
-Tags: ZeroNet
-Authors:sedlav
+---
+Title: "ZeroNet - Open, free and uncensorable websites"
+Date: 2016-12-05 10:46:00
+Categories: [network]
+Tags: [ZeroNet]
+Authors: sedlav
+---
 
 **ZeroNet** uses Bitcoin cryptography and BitTorrent technology to build a decentralized censorship-resistant network.
 

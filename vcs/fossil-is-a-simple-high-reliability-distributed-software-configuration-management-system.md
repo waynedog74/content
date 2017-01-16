@@ -1,12 +1,13 @@
+---
 Title: Fossil is a simple, high-reliability, distributed software configuration management system
 Date: 2016-09-08 21:02:58
-Category: vcs
-Tags: Fossil
-Slug:fossil-is-a-simple-high-reliability-distributed-software-configuration-management-system
-Authors:sedlav
-Summary: Fossil is a simple, high-reliability, distributed software configuration management system with these advanced features:* Integrated Bug Tracking, W
+Categories: [vcs]
+Tags: [Fossil]
+Slug: fossil-is-a-simple-high-reliability-distributed-software-configuration-management-system
+Authors: sedlav
+---
 
-Fossil is a simple, high-reliability, distributed software configuration management system with these advanced features:
+**Fossil** is a simple, high-reliability, distributed software configuration management system with these advanced features:
 
 * Integrated Bug Tracking, Wiki, and Technotes - In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes.
 * Built-in Web Interface - Fossil has a built-in and intuitive web interface with a rich assortment of information pages (examples) designed to promote situational awareness.

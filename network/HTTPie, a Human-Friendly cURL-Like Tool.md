@@ -1,8 +1,8 @@
 ---
-Title: HTTPie, a Human-Friendly cURL-Like Tool
-Date: 12-03-2016 19:36
-Category: network
-Tags: HTTPie
+Title: "HTTPie, a Human-Friendly cURL-Like Tool"
+Date: 2016-12-03 19:36:00
+Categories: [network]
+Tags: [HTTPie]
 Authors: sedlav
 ---
 

@@ -1,10 +1,11 @@
-Title: InvoicePlane a free and open source invoicing application.
+---
+Title: "InvoicePlane a free and open source invoicing application."
 Date: 2016-09-16 14:25:37
-Category: office
-Tags: Invoice, InvoicePlane
-Slug:invoiceplane-a-free-and-open-source-invoicing-application
-Authors:sedlav
-Summary: The main idea behind the **InvoicePlane** software is the creation of an application you host on your own server and use it for basic invoicing and cl
+Categories: [office]
+Tags: [Invoice, InvoicePlane]
+Slug: invoiceplane-a-free-and-open-source-invoicing-application
+Authors: sedlav
+---
 
 The main idea behind the **InvoicePlane** software is the creation of an application you host on your own server and use it for basic invoicing and client management.
 **Goals:**

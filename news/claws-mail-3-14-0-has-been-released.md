@@ -1,10 +1,11 @@
-Title: Claws Mail 3.14.0 has been released
+---
+Title: "Claws Mail 3.14.0 has been released"
 Date: 2016-08-10 17:03:47
-Category: news
-Tags: claws mail, mail client
-Slug:claws-mail-3-14-0-has-been-released
-Authors:sedlav
-Summary: Claws Mail is a GTK+ based, user-friendly, lightweight, and fast email client.**Highlight in this release***  Passwords can now be secured with a M
+Categories: [news]
+Tags: [claws mail, mail client]
+Slug: claws-mail-3-14-0-has-been-released
+Authors: sedlav
+---
 
 Claws Mail is a GTK+ based, user-friendly, lightweight, and fast email client.
 **Highlight in this release**

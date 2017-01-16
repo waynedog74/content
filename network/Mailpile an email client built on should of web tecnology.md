@@ -1,8 +1,8 @@
 ---
-Title: Mailpile an email client built on shoulder of web tecnology
-Date: 2017-01-10 11:19
-Category: network
-Tags: Mailpile, email client
+Title: "Mailpile an email client built on shoulder of web tecnology"
+Date: 2017-01-10 11:19:00
+Categories: [network]
+Tags: [Mailpile, email client]
 Authors: sedlav
 ---
 

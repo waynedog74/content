@@ -1,8 +1,8 @@
 ---
-Title: Changing the resolution of a video using ffmpeg
-Date: 2017-01-10 11:24
-Category: media
-Tags: ffmpeg
+Title: "Changing the resolution of a video using ffmpeg"
+Date: 2017-01-10 11:24:00
+Categories: [media]
+Tags: [ffmpeg]
 Authors: sedlav
 ---
 

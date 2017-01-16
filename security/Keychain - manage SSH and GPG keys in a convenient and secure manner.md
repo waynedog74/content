@@ -1,8 +1,8 @@
 ---
-Title: keychain - manage SSH and GPG keys in a convenient and secure manner
-Date: 2017-01-13 16:38
-Category: security
-Tags: ssh, keychain
+Title: "keychain - manage SSH and GPG keys in a convenient and secure manner"
+Date: 2017-01-13 16:38:00
+Categories: [security]
+Tags: [ssh, keychain]
 Authors: sedlav
 ---
 

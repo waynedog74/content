@@ -1,8 +1,8 @@
 ---
-Title: Create an Active Directory Infrastructure with Samba4 on Ubuntu
-Date: 11-22-2016 18:42
-Category: network
-Tags: samba
+Title: "Create an Active Directory Infrastructure with Samba4 on Ubuntu"
+Date: 2016-11-22 18:42:00
+Categories: [network]
+Tags: [samba]
 Authors: sedlav
 ---
 

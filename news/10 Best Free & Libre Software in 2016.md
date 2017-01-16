@@ -1,8 +1,8 @@
 ---
-Title: 10 Best Free & Libre Software in 2016 (Tecmint collection)
-Date: 2016-12-28 10:28
-Category: news
-Tags: Atom, NextCloud, Celestia, FreeRDP, Flyspray, GNUCash, LogicalDOC, Blender, DVDStyler, OSQuery
+Title: "10 Best Free & Libre Software in 2016 (Tecmint collection)"
+Date: 2016-12-28 10:28:00
+Categories: [news]
+Tags: [Atom, NextCloud, Celestia, FreeRDP, Flyspray, GNUCash, LogicalDOC, Blender, DVDStyler, OSQuery]
 Authors: sedlav
 ---
 
