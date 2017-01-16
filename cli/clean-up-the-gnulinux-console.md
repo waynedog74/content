@@ -1,7 +1,7 @@
 ---
 Title: "Clean up the GNU/Linux console"
 Date: 2016-08-20 21:45:37
-Categories: [news]
+Categories: [cli]
 Tags: [reset, stty]
 Slug: clean-up-the-gnulinux-console
 Authors: sedlav

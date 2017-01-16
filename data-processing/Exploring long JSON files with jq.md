@@ -1,7 +1,7 @@
 ---
 Title: "Exploring long JSON files with jq"
 Date: 2017-01-12 16:38:00
-Categories: [data base]
+Categories: [data processing]
 Tags: [json, jq]
 Authors: sedlav
 ---
