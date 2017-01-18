@@ -1,5 +1,5 @@
 ---
-Title: "How to Setup Nginx as loadbalancer for Apache or Tomcat for HTTP/HTTPS"
+Title: "How to Setup Nginx as loadbalancer for Apache or Tomcat for HTTP,HTTPS"
 Date: 2017-01-12 13:44:00
 Categories: [web server]
 Tags: [nginx, tomcat, apache]
