@@ -13,3 +13,4 @@ Authors: sedlav
 * [Part3](http://www.tecmint.com/manage-samba4-active-directory-linux-command-line/)
 * [Part4](http://www.tecmint.com/manage-samba4-dns-group-policy-from-windows/)
 * [Part5](http://www.tecmint.com/join-additional-ubuntu-dc-to-samba4-ad-dc-failover-replication/)
+* [Part6](http://www.tecmint.com/samba4-ad-dc-sysvol-replication/)
