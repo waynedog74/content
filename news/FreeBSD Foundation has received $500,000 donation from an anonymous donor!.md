@@ -2,7 +2,7 @@
 Title: "FreeBSD Foundation has received $500,000 donation from anonymous donor!"
 Date: 2017-01-02 11:21:00
 Categories: [news]
-Tags: [FreeBSD]
+Tags: [FreeBSD, BSD]
 Authors: sedlav
 ---
 
