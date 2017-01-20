@@ -4,7 +4,6 @@ Date: 2016-11-11 15:47:00
 Categories: [data base]
 Tags: [mysql, mariadb, percona]
 Authors: sedlav
-Summary: If you have data in a text file, you can easily upload them to one or more tables in a database. In MySQL database (or MariaDB),
 ---
 
 > If you have data in a text file, you can easily upload them to one or more tables in a database. In MySQL database (or MariaDB), using “load data infile” command, you can upload data from a text file to tables.
