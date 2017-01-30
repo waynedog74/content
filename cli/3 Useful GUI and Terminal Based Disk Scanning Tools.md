@@ -1,7 +1,7 @@
 ---
 Title: 3 Useful GUI and Terminal Based Disk Scanning Tools
 Date: 2016-12-21 09:58:00
-Categories: [os]
+Categories: [cli]
 Tags: [fsck, badblock, S.M.A.R.T, Disks]
 Authors: sedlav
 ---
