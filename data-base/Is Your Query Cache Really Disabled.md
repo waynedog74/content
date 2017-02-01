@@ -2,7 +2,7 @@
 Title: "Is Your Query Cache Really Disabled?"
 Date: 2016-11-11 16:32:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

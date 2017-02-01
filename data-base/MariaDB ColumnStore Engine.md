@@ -2,7 +2,7 @@
 Title: "MariaDB ColumnStore Engine"
 Date: 2016-12-19 14:41:00
 Categories: [data base]
-Tags: [mariadb]
+tags: [mariadb]
 Authors: sedlav
 ---
 

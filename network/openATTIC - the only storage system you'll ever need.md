@@ -2,7 +2,7 @@
 Title: "openATTIC — the only storage system you'll ever need"
 Date: 2016-11-18 15:57:00
 Categories: [network]
-Tags: [openATTIC, storage system]
+tags: [openattic, storage system]
 Authors: sedlav
 ---
 

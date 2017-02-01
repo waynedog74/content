@@ -2,7 +2,7 @@
 Title: Enviar correo desde la línea de comandos
 Date: 2016-12-19 14:50:00
 Categories: [cli]
-Tags: [sendemail]
+tags: [sendemail]
 Authors: sedlav
 ---
 

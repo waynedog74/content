@@ -2,7 +2,7 @@
 Title: "TOX - A New Kind of Instant Messaging"
 Date: 2016-09-28 20:39:50
 Categories: [network]
-Tags: [communication, im]
+tags: [communication, im]
 Slug: tox-a-new-kind-of-instant-messaging
 Authors: sedlav
 ---

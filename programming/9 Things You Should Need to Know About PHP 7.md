@@ -2,7 +2,7 @@
 Title: "9 Things You Should Need to Know About PHP 7"
 Date: 2017-01-29 13:54:00
 Categories: [programming]
-Tags: [php, php7]
+tags: [php, php7]
 Authors: sedlav
 ---
 

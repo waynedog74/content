@@ -2,7 +2,7 @@
 Title: "Monitor your hard disk performance with Iotop"
 Date: 2017-01-15 16:44:30
 Categories: [data processing]
-Tags: [performance, hard disk, iotop ]
+tags: [performance, hard disk, iotop ]
 Authors: sedlav
 ---
 

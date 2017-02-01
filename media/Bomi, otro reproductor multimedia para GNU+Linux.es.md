@@ -2,7 +2,7 @@
 Title: "Bomi, otro reproductor multimedia para GNU+Linux"
 Date: 2016-11-29 17:43:00
 Categories: [media]
-Tags: [bomi]
+tags: [bomi]
 Authors: sedlav
 ---
 

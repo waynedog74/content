@@ -2,7 +2,7 @@
 Title: "How to remove unity and install Cinnamon and Mate"
 Date: 2016-08-25 14:54:46
 Categories: [desktop]
-Tags: [Cinnamon, Mate, Unity]
+tags: [cinnamon, mate, unity]
 Slug: how-to-remove-unity-and-install-cinnamon-and-mate
 Authors: sedlav
 ---

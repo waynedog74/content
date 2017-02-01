@@ -2,7 +2,7 @@
 Title: "Reinstall MySQL and Preserve All MySQL Grants and Users"
 Date: 2017-01-12 16:22:00
 Categories: [data base]
-Tags: [MySQL, MariaDB, Percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

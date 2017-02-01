@@ -2,7 +2,7 @@
 Title: "apigen a PHP documentation generator"
 Date: 2017-01-15 19:21:41
 Categories: [programming]
-Tags: [php, apigen]
+tags: [php, apigen]
 Authors: sedlav
 ---
 

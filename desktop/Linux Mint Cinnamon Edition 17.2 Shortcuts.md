@@ -2,7 +2,7 @@
 Title: "Linux Mint Cinnamon Edition 17.2 Shortcuts"
 Date: 2016-12-05 09:38:00
 Categories: [desktop]
-Tags: [Linux Mint, Cinnamon]
+tags: [linux mint, cinnamon]
 Authors: sedlav
 ---
 

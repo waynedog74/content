@@ -2,7 +2,7 @@
 Title: "More on MySQL 5.6 multi-threaded replication and GTIDs"
 Date: 2017-01-26 08:41:06
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

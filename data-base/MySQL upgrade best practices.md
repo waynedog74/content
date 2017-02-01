@@ -2,7 +2,7 @@
 Title: "MySQL upgrade best practices"
 Date: 2016-12-23 15:13:00
 Categories: [data base]
-Tags: [MySQL, MariaDB, Percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

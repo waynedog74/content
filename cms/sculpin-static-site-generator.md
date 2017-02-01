@@ -2,7 +2,7 @@
 Title: Sculpin Static Site Generator
 Date: 2016-09-04 03:19:07
 Categories: [cms]
-Tags: [Sculpin]
+tags: [sculpin]
 Slug: sculpin-static-site-generator
 Authors: sedlav
 ---

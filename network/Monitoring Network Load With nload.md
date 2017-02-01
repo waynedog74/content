@@ -2,7 +2,7 @@
 Title: "Monitoring Network Load With nload"
 Date: 2016-11-19 15:06:00
 Categories: [network]
-Tags: [nload]
+tags: [nload]
 Authors: sedlav
 ---
 

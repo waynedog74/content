@@ -2,7 +2,7 @@
 Title: Creating Custom WordPress Administration Pages
 Date: 2017-01-15 10:00:38
 Categories: [cms]
-Tags: [wordpress]
+tags: [wordpress]
 Authors: sedlav
 ---
 

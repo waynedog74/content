@@ -2,7 +2,7 @@
 Title: "Convert multiple files doc to odt"
 Date: 2016-08-21 21:30:35
 Categories: [office]
-Tags: [LibreOffice]
+tags: [libreoffice]
 Slug: convert-multiple-files-doc-to-odt
 Authors: sedlav
 ---

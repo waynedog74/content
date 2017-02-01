@@ -2,7 +2,7 @@
 Title: "ZeroNet - Open, free and uncensorable websites"
 Date: 2016-12-05 10:46:00
 Categories: [network]
-Tags: [ZeroNet]
+tags: [zeronet]
 Authors: sedlav
 ---
 

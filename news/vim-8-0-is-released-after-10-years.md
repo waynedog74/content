@@ -2,7 +2,7 @@
 Title: "Vim 8.0 Is Released After 10 Years"
 Date: 2016-09-15 13:49:27
 Categories: [news]
-Tags: [vim]
+tags: [vim]
 Slug: vim-8-0-is-released-after-10-years
 Authors: sedlav
 ---

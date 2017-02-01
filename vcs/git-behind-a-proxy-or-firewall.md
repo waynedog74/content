@@ -2,7 +2,7 @@
 Title: Git behind a proxy or firewall
 Date: 2016-08-14 23:34:43
 Categories: [vcs]
-Tags: [Git]
+tags: [git]
 Slug: git-behind-a-proxy-or-firewall
 Authors: sedlav
 ---

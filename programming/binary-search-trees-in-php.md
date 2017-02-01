@@ -2,7 +2,7 @@
 Title: "Binary Search Trees in PHP"
 Date: 2016-09-13 19:40:26
 Categories: [programming]
-Tags: [Algorithm, PHP]
+tags: [algorithm, php]
 Slug: binary-search-trees-in-php
 Authors: sedlav
 ---

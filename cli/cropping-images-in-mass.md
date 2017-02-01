@@ -2,7 +2,7 @@
 Title: Cropping images in mass
 Date: 2016-09-02 03:54:59
 Categories: [cli]
-Tags: [convert, identify, ImageMagick]
+tags: [convert, identify, imagemagick]
 Slug: cropping-images-in-mass
 Authors: sedlav
 ---

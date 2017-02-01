@@ -2,7 +2,7 @@
 Title: "How a set of queries can be killed in MySQL using Percona Toolkit’s pt-kill"
 Date: 2017-01-18 19:39:48
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

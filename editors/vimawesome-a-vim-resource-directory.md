@@ -2,7 +2,7 @@
 Title: VimAwesome - A VIM resource directory
 Date: 2016-10-05 18:53:37
 Categories: [editors]
-Tags: [vim, VimAwesome]
+tags: [vim, Vimawesome]
 Slug: vimawesome-a-vim-resource-directory
 Author: sedlav
 ---

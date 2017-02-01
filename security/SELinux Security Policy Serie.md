@@ -2,7 +2,7 @@
 Title: "SELinux Security Policy Serie"
 Date: 2016-12-14 09:59:00
 Categories: [security]
-Tags: [SELinux]
+tags: [selinux]
 Authors: sedlav
 ---
 

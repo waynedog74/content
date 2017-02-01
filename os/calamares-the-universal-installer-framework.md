@@ -2,7 +2,7 @@
 Title: Calamares - The universal installer framework
 Date: 2016-08-27 19:37:01
 Categories: [os]
-Tags: [Calamares]
+tags: [calamares]
 Slug: calamares-the-universal-installer-framework
 Authors: sedlav
 ---

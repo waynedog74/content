@@ -2,7 +2,7 @@
 Title: "Business Continuity and MySQL Backups"
 Date: 2016-12-03 19:49:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

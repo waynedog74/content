@@ -2,7 +2,7 @@
 Title: "Shell scripting: An introduction to the shift method and custom functions"
 Date: 2017-01-25 08:31:47
 Categories: [programming]
-Tags: [bash, shell]
+tags: [bash, shell]
 Authors: sedlav
 ---
 

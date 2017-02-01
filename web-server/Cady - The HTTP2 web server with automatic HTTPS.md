@@ -2,7 +2,7 @@
 Title: "Cady The HTTP2 web server with automatic HTTPS"
 Date: 2017-01-11 16:38:00
 Categories: [web server]
-Tags: [Cady, http2, https]
+tags: [cady, http2, https]
 Authors: sedlav
 ---
 

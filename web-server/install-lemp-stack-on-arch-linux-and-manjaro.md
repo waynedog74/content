@@ -2,7 +2,7 @@
 Title: "Install LEMP Stack on Arch Linux and Manjaro"
 Date: 2016-09-08 02:51:21
 Categories: [web server]
-Tags: [MariaDB, MySQL, nginx, PHP]
+tags: [mariadb, mysql, nginx, php]
 Slug: install-lemp-stack-on-arch-linux-and-manjaro
 Authors: sedlav
 ---

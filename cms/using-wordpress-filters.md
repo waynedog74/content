@@ -2,7 +2,7 @@
 Title: Using WordPress filters
 Date: 2016-08-19 04:08:03
 Categories: [cms]
-Tags: [Wordpress]
+tags: [wordpress]
 Slug: using-wordpress-filters
 Authors: sedlav
 ---

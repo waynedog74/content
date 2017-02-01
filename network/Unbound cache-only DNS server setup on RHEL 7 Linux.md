@@ -2,7 +2,7 @@
 Title: "Unbound cache-only DNS server setup on RHEL 7 Linux"
 Date: 2016-12-07 15:02:00
 Categories: [network]
-Tags: [Unbound]
+tags: [unbound]
 Authors: sedlav
 ---
 

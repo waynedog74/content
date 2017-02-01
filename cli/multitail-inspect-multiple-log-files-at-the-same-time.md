@@ -2,7 +2,7 @@
 Title: MultiTail – Inspect multiple log files at the same time
 Date: 2016-08-27 19:28:17
 Categories: [cli]
-Tags: [Multitail]
+tags: [multitail]
 Slug: multitail-inspect-multiple-log-files-at-the-same-time
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: Gentoo Quick Install Guide AMD64 / x86
 Date: 2016-12-12 08:50:00
 Categories: [os]
-Tags: [Gentoo]
+tags: [gentoo]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "How to Install a MySQL Cluster on Ubuntu 16.04"
 Date: 2017-01-15 16:08:35
 Categories: [data base]
-Tags: [mysql]
+tags: [mysql]
 Authors: sedlav
 ---
 

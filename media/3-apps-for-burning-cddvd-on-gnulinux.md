@@ -2,7 +2,7 @@
 Title: "3 Apps for burning CD/DVD on GNU/Linux"
 Date: 2016-09-04 02:53:11
 Categories: [media]
-Tags: [Brasero, Cdrdao, Cdrkit, Dvd+rw-tools, K3b, Libburnia]
+tags: [brasero, cdrdao, cdrkit, dvd+rw-tools, k3b, libburnia]
 Slug: 3-apps-for-burning-cddvd-on-gnulinux
 Authors: sedlav
 ---

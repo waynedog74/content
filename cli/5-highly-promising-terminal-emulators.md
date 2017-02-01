@@ -2,7 +2,7 @@
 Title: 5 HIGHLY PROMISING TERMINAL EMULATORS
 Date: 2017-01-24 19:12:26
 Categories: [cli]
-Tags: [Terminology, Terminix, Alacritty, Extraterm, Hyper, apps]
+tags: [terminology, terminix, alacritty, extraterm, hyper, apps]
 Authors: sedlav
 ---
 

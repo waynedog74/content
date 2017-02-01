@@ -2,7 +2,7 @@
 Title: "Knex.js a SQL query builder for Javascript"
 Date: 2016-08-12 03:09:55
 Categories: [programming]
-Tags: [Javascript, Knexjs]
+tags: [javascript, knexjs]
 Slug: knex-js-a-sql-query-builder-for-javascript
 Authors: sedlav
 ---

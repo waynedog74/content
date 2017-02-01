@@ -2,7 +2,7 @@
 Title: "How to access shell environment variables in Perl script"
 Date: 2016-12-09 09:07:00
 Categories: [programming]
-Tags: [perl]
+tags: [perl]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "D-Bus Tutorial"
 Date: 2016-12-21 09:50:00
 Categories: [programming]
-Tags: [c, d-bus]
+tags: [c, d-bus]
 Authors: sedlav
 ---
 

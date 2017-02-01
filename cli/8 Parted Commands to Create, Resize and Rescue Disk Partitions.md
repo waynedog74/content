@@ -2,7 +2,7 @@
 Title: 8 Parted Commands to Create, Resize and Rescue Disk Partitions
 Date: 2017-01-15 14:49:28
 Categories: [cli]
-Tags: [parted]
+tags: [parted]
 Authors: sedlav
 ---
 

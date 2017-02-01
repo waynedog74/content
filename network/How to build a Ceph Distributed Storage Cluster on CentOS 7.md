@@ -2,7 +2,7 @@
 Title: "How to build a Ceph Distributed Storage Cluster on CentOS 7"
 Date: 2016-12-15 09:44:00
 Categories: [network]
-Tags: [Ceph, CentOS]
+tags: [ceph, centos]
 Authors: sedlav
 ---
 

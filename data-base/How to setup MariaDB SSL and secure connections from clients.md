@@ -2,7 +2,7 @@
 Title: "How to setup MariaDB SSL and secure connections from clients"
 Date: 2017-01-24 23:11:39
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

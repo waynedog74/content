@@ -2,7 +2,7 @@
 Title: "The Perfect Server - Debian 8.6 (nginx, BIND, Dovecot, ISPConfig 3.1)"
 Date: 2016-12-12 08:32:00
 Categories: [web server]
-Tags: [nginx, BIND, Dovecot, ISPConfig]
+tags: [nginx, bind, dovecot, ispconfig]
 Authors: sedlav
 ---
 

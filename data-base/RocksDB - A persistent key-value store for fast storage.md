@@ -2,7 +2,7 @@
 Title: "RocksDB - A persistent key-value store for fast storage"
 Date: 2017-01-15 16:19:44
 Categories: [data base]
-Tags: [rocksdb]
+tags: [rocksdb]
 Authors: sedlav
 ---
 

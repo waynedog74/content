@@ -2,7 +2,7 @@
 Title: "How to Install Password Management App KeePassXC on Ubuntu"
 Date: 2017-01-26 18:27:56
 Categories: [security]
-Tags: [KeePassXC]
+tags: [keepassxc]
 Authors: sedlav
 ---
 

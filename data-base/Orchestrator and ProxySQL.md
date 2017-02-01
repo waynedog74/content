@@ -2,7 +2,7 @@
 Title: "Orchestrator and ProxySQL"
 Date: 2016-11-10 15:53:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb, proxysql]
+tags: [percona, mysql, mariadb, proxysql]
 Authors: sedlav
 ---
 

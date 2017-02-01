@@ -2,7 +2,7 @@
 Title: "Use cases for PHP generators"
 Date: 2016-09-04 03:22:55
 Categories: [programming]
-Tags: [Generators, PHP]
+tags: [generators, php]
 Slug: use-cases-for-php-generators
 Authors: sedlav
 ---

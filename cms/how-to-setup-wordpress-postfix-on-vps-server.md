@@ -2,7 +2,7 @@
 Title: How to setup WordPress + Postfix  on VPS server
 Date: 2016-08-24 15:59:53
 Categories: [cms]
-Tags: [Postfix, Wordpress]
+tags: [postfix, wordpress]
 Slug: how-to-setup-wordpress-postfix-on-vps-server
 Authors: sedlav
 ---

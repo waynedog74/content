@@ -2,7 +2,7 @@
 Title: "Claws Mail 3.14.0 has been released"
 Date: 2016-08-10 17:03:47
 Categories: [news]
-Tags: [claws mail, mail client]
+tags: [claws mail, mail client]
 Slug: claws-mail-3-14-0-has-been-released
 Authors: sedlav
 ---

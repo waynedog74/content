@@ -2,7 +2,7 @@
 Title: "How to start/stop/restart Lighttpd web server?"
 Date: 2016-09-11 12:46:37
 Categories: [web server]
-Tags: [lighttpd]
+tags: [lighttpd]
 Slug: how-to-startstoprestart-lighttpd-web-server
 Authors: sedlav
 ---

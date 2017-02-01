@@ -2,7 +2,7 @@
 Title: "24 Essential SQL Interview Questions"
 Date: 2017-01-12 13:25:00
 Categories: [data base]
-Tags: [sql, interview]
+tags: [sql, interview]
 Authors: sedlav
 ---
 

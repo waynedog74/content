@@ -2,7 +2,7 @@
 Title: GNU Operating System
 Date: 2016-08-20 20:53:44
 Categories: [os]
-Tags: [GNU Project]
+tags: [gnu project]
 Slug: gnu-operating-system
 Authors: sedlav
 Description: "GNU is a Unix-like operating system. That means it is a collection of many programs: applications, libraries, developer tools"

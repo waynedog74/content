@@ -2,7 +2,7 @@
 Title: "Introduction to Troubleshooting Performance/Slow queries"
 Date: 2016-11-16 17:18:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Managing Replication with Percona XtraDB Cluster"
 Date: 2016-12-03 19:43:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

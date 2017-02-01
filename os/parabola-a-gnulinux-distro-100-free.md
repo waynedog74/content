@@ -2,7 +2,7 @@
 Title: Parabola a GNU/Linux distro 100% free
 Date: 2016-08-13 21:24:28
 Categories: [os]
-Tags: [Parabola GNU/Linux]
+tags: [parabola gnu/linux]
 Slug: parabola-a-gnulinux-distro-100-free
 Authors: sedlav
 ---

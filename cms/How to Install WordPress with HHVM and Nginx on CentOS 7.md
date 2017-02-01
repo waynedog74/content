@@ -2,7 +2,7 @@
 Title: How to Install WordPress with HHVM and Nginx on CentOS 7
 Date: 2017-01-18 19:04:10
 Categories: [cms]
-Tags: [Nginx, Wordpress, CentOS]
+tags: [nginx, wordpress, centos]
 Authors: sedlav
 ---
 

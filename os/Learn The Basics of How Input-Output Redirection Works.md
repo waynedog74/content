@@ -2,7 +2,7 @@
 Title: "Learn The Basics of How Input-Output Redirection Works"
 Date: 2017-01-18 18:56:51
 Categories: [os]
-Tags: ["I/O Redirection", shell]
+tags: ["i/o redirection", shell]
 Authors: sedlav
 ---
 

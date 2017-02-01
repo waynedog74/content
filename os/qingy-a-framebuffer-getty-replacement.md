@@ -2,7 +2,7 @@
 Title: Qingy a framebuffer getty replacement
 Date: 2016-08-31 19:45:45
 Categories: os
-Tags: qingy
+tags: qingy
 Slug: qingy-a-framebuffer-getty-replacement
 Authors: sedlav
 ---

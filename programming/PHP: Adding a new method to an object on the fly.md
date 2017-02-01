@@ -2,7 +2,7 @@
 Title: "PHP: Adding a new method to an object on the fly"
 Date: 2016-12-13 11:29:00
 Categories: [programming]
-Tags: [php]
+tags: [php]
 Authors: sedlav
 ---
 

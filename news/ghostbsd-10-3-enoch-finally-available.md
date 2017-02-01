@@ -2,7 +2,7 @@
 Title: "GhostBSD 10.3 Enoch Finally Available"
 Date: 2016-09-02 02:37:42
 Categories: [news]
-Tags: [GhostBSD, BSD]
+tags: [ghostbsd, bsd]
 Slug: ghostbsd-10-3-enoch-finally-available
 Authors: sedlav
 ---

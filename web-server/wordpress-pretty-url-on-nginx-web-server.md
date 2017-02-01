@@ -2,7 +2,7 @@
 Title: "Wordpress pretty url on NGINX web server"
 Date: 2016-09-07 15:13:29
 Categories: [web server]
-Tags: [nginx, Wordpress]
+tags: [nginx, wordpress]
 Slug: wordpress-pretty-url-on-nginx-web-server
 Authors: sedlav
 ---

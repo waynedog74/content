@@ -2,7 +2,7 @@
 Title: "PHP 7.1.1 Released"
 Date: 2017-01-19 17:54:50
 Categories: [news]
-Tags: [PHP, php 7.1]
+tags: [php, php 7.1]
 Authors: sedlav
 ---
 

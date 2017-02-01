@@ -2,7 +2,7 @@
 Title: "Upgrading to MySQL 5.7, focusing on temporal types"
 Date: 2016-11-19 15:20:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

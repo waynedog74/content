@@ -2,7 +2,7 @@
 Title: File System Hierarchy Explained
 Date: 2016-10-08 17:45:15
 Categories: [os]
-Tags: [FHS]
+tags: [fhs]
 Slug: file-system-hierarchy-explained
 Authors: sedlav
 Description: In this tutorial 2DayGeek explains what does mean every main DIR in The File System Hierarchy.The Filesystem Hierarchy Standard (FHS) defines the dir

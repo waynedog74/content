@@ -2,7 +2,7 @@
 Title: "How to Install GitScrum on Ubuntu 16.04"
 Date: 2017-01-19 09:59:28
 Categories: [programming]
-Tags: [scrum, Ubuntu, Debian]
+tags: [scrum, ubuntu, debian]
 Authors: sedlav
 ---
 

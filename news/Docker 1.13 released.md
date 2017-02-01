@@ -2,7 +2,7 @@
 Title: " Docker 1.13 released"
 Date: 2017-01-20 10:43:48
 Categories: [news]
-Tags: [Docker]
+tags: [docker]
 Authors: sedlav
 ---
 

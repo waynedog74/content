@@ -2,7 +2,7 @@
 Title: "GNOME 3: Ease, comfort and control"
 Date: 2016-08-24 16:10:13
 Categories: [desktop]
-Tags: [GNOME]
+tags: [gnome]
 Slug: gnome-3-ease-comfort-and-control
 Authors: sedlav
 ---

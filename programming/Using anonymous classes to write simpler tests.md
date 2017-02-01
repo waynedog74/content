@@ -2,7 +2,7 @@
 Title: "Using anonymous classes to write simpler tests"
 Date: 2017-01-29 13:57:11
 Categories: [programming]
-Tags: [php, php7]
+tags: [php, php7]
 Authors: sedlav
 ---
 

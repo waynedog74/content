@@ -2,7 +2,7 @@
 Title: "TokuDB - a highly scalable, zero-maintenance downtime MySQL storage"
 Date: 2016-12-26 12:10:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

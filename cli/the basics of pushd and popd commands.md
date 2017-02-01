@@ -2,7 +2,7 @@
 Title: The basics of pushd and popd commands
 Date: 2017-01-19 16:19:36
 Categories: [cli]
-Tags: [pushd, popd]
+tags: [pushd, popd]
 Authors: sedlav
 ---
 

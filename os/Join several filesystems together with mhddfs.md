@@ -2,7 +2,7 @@
 Title: Join several fileystem together with mhddfs
 Date: 2017-01-14 19:05:00
 Categories: [os]
-Tags: [mhddfs, file system]
+tags: [mhddfs, file system]
 Author:
   - sedlav
 Description: "**mhddfs** it is a FUSE filesystem module which allows to combine several smaller filesystems into one big virtual one, which will contain all the files from all its members, and all their free space..."

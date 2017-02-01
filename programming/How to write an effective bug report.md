@@ -2,7 +2,7 @@
 Title: "How to write an effective bug report"
 Date: 2017-01-15 19:25:48
 Categories: [programming]
-Tags: [bug, qa]
+tags: [bug, qa]
 Authors: sedlav
 ---
 

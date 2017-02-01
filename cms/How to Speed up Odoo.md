@@ -2,7 +2,7 @@
 Title: How to Speed up Odoo
 Date: 2017-01-16 17:52:58
 Categories: [cms]
-Tags: [Odoo]
+tags: [odoo]
 Authors: sedlav
 ---
 

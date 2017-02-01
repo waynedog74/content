@@ -2,7 +2,7 @@
 Title: "MariaDB 10.1.20 now available"
 Date: 2016-12-15 14:25:00
 Categories: [news]
-Tags: [MariaDB]
+tags: [mariadb]
 Authors: sedlav
 ---
 

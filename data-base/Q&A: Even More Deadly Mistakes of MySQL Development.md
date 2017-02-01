@@ -2,7 +2,7 @@
 Title: "Q&A: Even More Deadly Mistakes of MySQL Development"
 Date: 2016-12-16 17:20:00
 Categories: [data base]
-Tags: [MySQL, MariaDB, Percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

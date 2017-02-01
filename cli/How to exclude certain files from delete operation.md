@@ -2,7 +2,7 @@
 Title: How to exclude certain files from delete operation
 Date: 2017-01-15 15:08:38
 Categories: [cli]
-Tags: [find, rm, shopt]
+tags: [find, rm, shopt]
 Authors: sedlav
 ---
 

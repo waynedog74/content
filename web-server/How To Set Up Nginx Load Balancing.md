@@ -2,7 +2,7 @@
 Title: "How To Set Up Nginx Load Balancing"
 Date: 2016-11-15 18:01:00
 Categories: [web server]
-Tags: [nginx]
+tags: [nginx]
 Authors: sedlav
 ---
 

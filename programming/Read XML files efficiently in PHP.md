@@ -2,7 +2,7 @@
 Title: "Read XML files efficiently in PHP"
 Date: 2016-12-05 18:02:00
 Categories: [programming]
-Tags: [xml, php]
+tags: [xml, php]
 Authors: sedlav
 ---
 

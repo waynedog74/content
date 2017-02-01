@@ -2,7 +2,7 @@
 Title: How To Limit CPU Usage Of A Process In Linux
 Date: 2017-01-30 08:53:16
 Categories: [cli]
-Tags: [cpulimit]
+tags: [cpulimit]
 Authors: sedlav
 ---
 

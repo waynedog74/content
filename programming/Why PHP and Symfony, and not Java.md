@@ -2,7 +2,7 @@
 Title: "Why PHP and Symfony, and not Java?"
 Date: 2016-12-05 09:34:00
 Categories: [programming]
-Tags: [php, symfony]
+tags: [php, symfony]
 Authors: sedlav
 ---
 

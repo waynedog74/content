@@ -2,7 +2,7 @@
 Title: "The Vital Guide to PHP Interviewing"
 Date: 2017-01-29 14:05:56
 Categories: [programming]
-Tags: [php, interview]
+tags: [php, interview]
 Authors: sedlav
 ---
 

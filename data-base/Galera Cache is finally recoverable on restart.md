@@ -2,7 +2,7 @@
 Title: "Galera Cache is finally recoverable on restart"
 Date: 2016-12-01 08:28:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

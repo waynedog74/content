@@ -2,7 +2,7 @@
 Title: "Getting Started With Paper.js"
 Date: 2017-01-15 19:24:40
 Categories: [programming]
-Tags: [javascript, paper.js]
+tags: [javascript, paper.js]
 Authors: sedlav
 ---
 

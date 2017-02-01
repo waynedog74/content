@@ -2,7 +2,7 @@
 Title: "7 Awesome Analytics/Statistics Software"
 Date: 2017-01-04 11:42:00
 Categories: [data processing]
-Tags: [Analytics, Statistics]
+tags: [analytics, statistics]
 Authors: sedlav
 ---
 

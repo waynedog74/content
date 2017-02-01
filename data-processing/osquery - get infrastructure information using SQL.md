@@ -2,7 +2,7 @@
 Title: "osquery - get infrastructure information using SQL"
 Date: 2017-01-10 11:32:00
 Categories: [data processing]
-Tags: [osquery]
+tags: [osquery]
 Authors: sedlav
 ---
 

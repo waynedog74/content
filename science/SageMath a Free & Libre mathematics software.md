@@ -2,7 +2,7 @@
 Title: SageMath a Free & Libre mathematics software
 Date: 2017-01-15 19:34:30
 Categories: [science]
-Tags: [SageMath, mathematics]
+tags: [sagemath, mathematics]
 Authors: sedlav
 ---
 

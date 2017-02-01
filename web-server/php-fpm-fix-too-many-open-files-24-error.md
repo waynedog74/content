@@ -2,7 +2,7 @@
 Title: "PHP-FPM - Fix Too Many Open Files 24 Error"
 Date: 2016-08-11 02:57:12
 Categories: [web server]
-Tags: [php-fpm]
+tags: [php-fpm]
 Slug: php-fpm-fix-too-many-open-files-24-error
 Authors: sedlav
 ---

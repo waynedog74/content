@@ -2,7 +2,7 @@
 Title: 15 Useful sed Command Tips and Tricks
 Date: 2016-11-10 15:11:00
 Categories: [cli]
-Tags: [sed]
+tags: [sed]
 Authors: sedlav
 ---
 

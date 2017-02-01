@@ -2,7 +2,7 @@
 Title: How to know all Linux packages that I have installed?
 Date: 2016-08-22 14:55:18
 Categories: [cli]
-Tags: [dpkg-query]
+tags: [dpkg-query]
 Slug: how-to-know-all-linux-packages-that-i-have-installed
 Authors: sedlav
 ---

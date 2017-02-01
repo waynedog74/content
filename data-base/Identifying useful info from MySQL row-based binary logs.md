@@ -2,7 +2,7 @@
 Title: "Identifying useful info from MySQL row-based binary logs"
 Date: 2017-01-21 16:14:35
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

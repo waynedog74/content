@@ -2,7 +2,7 @@
 Title: spf13-vim – The Ultimate Distribution for Vim Editor
 Date: 2016-11-18 16:13:00
 Categories: [editors]
-Tags: [vim, spf13]
+tags: [vim, spf13]
 Author: sedlav
 ---
 

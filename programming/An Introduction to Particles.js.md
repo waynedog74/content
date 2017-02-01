@@ -2,7 +2,7 @@
 Title: "An Introduction to Particles.js"
 Date: 2016-12-09 09:25:00
 Categories: [programming]
-Tags: [javascript, particule.js]
+tags: [javascript, particule.js]
 Authors: sedlav
 ---
 

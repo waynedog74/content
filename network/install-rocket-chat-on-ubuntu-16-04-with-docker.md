@@ -2,7 +2,7 @@
 Title: "Install Rocket Chat on Ubuntu 16.04 with Docker"
 Date: 2016-08-31 14:53:52
 Categories: [network]
-Tags: [Debian, docker, Rocket, Ubuntu]
+tags: [debian, docker, rocket, ubuntu]
 Slug: install-rocket-chat-on-ubuntu-16-04-with-docker
 Authors: sedlav
 ---

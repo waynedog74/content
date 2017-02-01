@@ -2,7 +2,7 @@
 Title: "Dependency resolution with graphs in PHP"
 Date: 2016-11-28 12:26:00
 Categories: [programming]
-Tags: [php, graph theory]
+tags: [php, graph theory]
 Authors: sedlav
 ---
 

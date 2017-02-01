@@ -2,7 +2,7 @@
 Title: "Changing the Tablespace Directory with pt-online-schema-change"
 Date: 2016-11-10 15:48:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Taiga - Free, Libre and Opensource project management"
 Date: 2016-09-23 13:34:05
 Categories: [office]
-Tags: [Project Management, Taiga]
+tags: [project management, taiga]
 Slug: taiga-free-libre-and-opensource-project-management
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "httpstat – A Curl Statistics Tool to Check Website Performance"
 Date: 2016-12-03 19:33:00
 Categories: [data processing]
-Tags: [httpstat]
+tags: [httpstat]
 Authors: sedlav
 ---
 

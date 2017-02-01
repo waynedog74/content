@@ -2,7 +2,7 @@
 Title: "How to Move a MySQL Partition from One Table to Another"
 Date: 2017-01-12 16:20:00
 Categories: [data base]
-Tags: [MySQL, MariaDB, Percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

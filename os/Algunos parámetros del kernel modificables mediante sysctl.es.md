@@ -3,7 +3,7 @@ Title: Algunos parámetros del kernel modificables mediante sysctl
 Date: 2016-11-29 18:01:00
 Categories:
   - os
-Tags:
+tags:
   - sysctl
 Authors: sedlav
 Lang: es

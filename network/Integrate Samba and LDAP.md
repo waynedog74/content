@@ -2,7 +2,7 @@
 Title: "How to integrate samba with LDAP"
 Date: 2017-01-31 15:57:32
 Categories: [network]
-Tags: [samba, ldap]
+tags: [samba, ldap]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Caching static files with nginx web server"
 Date: 2016-08-09 21:07:24
 Categories: [web server]
-Tags: [nginx]
+tags: [nginx]
 Slug: caching-static-files-with-nginx-web-server
 Authors: sedlav
 Summary: Caching saves bandwidth and makes possible to serve a greater number of requests per second so your web site appear faster. In this tutorial HowToForg

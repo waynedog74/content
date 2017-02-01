@@ -2,7 +2,7 @@
 Title: DNF by examples
 Date: 2016-08-09 02:50:47
 Categories: [cli]
-Tags: [CentOS, RHEL, Fedora, dnf]
+tags: [centos, rhel, fedora, dnf]
 Slug: dnf-by-examples
 Authors: sedlav
 ---

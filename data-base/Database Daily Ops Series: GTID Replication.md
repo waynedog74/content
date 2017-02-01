@@ -2,7 +2,7 @@
 Title: "Database Daily Ops Series: GTID Replication"
 Date: 2016-11-10 15:57:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

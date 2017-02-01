@@ -2,7 +2,7 @@
 Title: "A monitoring solution for Docker hosts"
 Date: 2017-01-15 12:55:58
 Categories: [devops]
-Tags: [docker, prometheus, grafana]
+tags: [docker, prometheus, grafana]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "HashOver is a PHP comment system"
 Date: 2017-01-15 19:25:00
 Categories: [programming]
-Tags: [php, hasover]
+tags: [php, hasover]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Percona XtraDB Cluster 5.7.16-27.19 is now available"
 Date: 2016-12-15 16:01:00
 Categories: [news]
-Tags: [MariaDB, MySQL, Percona, XtraDB]
+tags: [mariadb, mysql, percona, xtradb]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Icicle - Simulate multithread techniques in PHP"
 Date: 2016-09-13 16:34:02
 Categories: [programming]
-Tags: [Generators, Libs, PHP, Promises]
+tags: [generators, libs, php, promises]
 Slug: icicle-simulate-multithread-techniques-in-php
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Your Guide to a Practical Linux Desktop With i3WM"
 Date: 2016-12-03 20:03:00
 Categories: [desktop]
-Tags: [i3WM]
+tags: [i3wm]
 Authors: sedlav
 ---
 

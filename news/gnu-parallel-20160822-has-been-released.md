@@ -2,7 +2,7 @@
 Title: "GNU Parallel 20160822 has been released."
 Date: 2016-08-22 14:26:40
 Categories: [news]
-Tags: [GNU Parallel]
+tags: [gnu parallel]
 Slug: gnu-parallel-20160822-has-been-released
 Authors: sedlav
 ---

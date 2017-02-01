@@ -2,7 +2,7 @@
 Title: Git Commit Good Practice
 Date: 2016-12-01 10:37:00
 Categories: [vcs]
-Tags: [Git]
+tags: [git]
 Authors: sedlav
 ---
 

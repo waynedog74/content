@@ -2,7 +2,7 @@
 Title: Running find with two or more commands
 Date: 2016-08-22 14:32:28
 Categories: [cli]
-Tags: [find]
+tags: [find]
 Slug: running-find-with-two-or-more-commands
 Authors: sedlav
 ---

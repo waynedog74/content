@@ -2,7 +2,7 @@
 Title: "MySQL 5.7 key features"
 Date: 2017-01-30 09:13:19
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

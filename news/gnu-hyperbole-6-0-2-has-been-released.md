@@ -2,7 +2,7 @@
 Title: "GNU Hyperbole 6.0.2 has been released"
 Date: 2016-08-13 15:15:08
 Categories: [news]
-Tags: [Emacs, GNU Hyperbole]
+tags: [emacs, gnu hyperbole]
 Slug: gnu-hyperbole-6-0-2-has-been-released
 Authors: sedlav
 ---

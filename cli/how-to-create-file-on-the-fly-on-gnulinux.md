@@ -2,7 +2,7 @@
 Title: "How to create a  file on the fly on GNU/Linux?"
 Date: 2016-08-28 00:01:01
 Categories: [cli]
-Tags: [touch]
+tags: [touch]
 Slug: how-to-create-file-on-the-fly-on-gnulinux
 Authors: sedlav
 ---

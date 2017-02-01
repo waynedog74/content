@@ -2,7 +2,7 @@
 Title: "MySQL 8.0 - The end of MyISAM"
 Date: 2017-01-15 16:12:41
 Categories: [data base]
-Tags: [mysql, mariadb, myisam]
+tags: [mysql, mariadb, myisam]
 Authors: sedlav
 ---
 

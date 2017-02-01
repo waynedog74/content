@@ -2,7 +2,7 @@
 Title: "MySQL Default Configuration Changes between 5.6 and 5.7"
 Date: 2017-01-15 16:13:40
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

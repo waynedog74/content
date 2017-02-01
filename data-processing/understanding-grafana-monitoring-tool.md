@@ -2,7 +2,7 @@
 Title: "Understanding Grafana monitoring tool"
 Date: 2016-08-09 03:02:26
 Categories: [data processing]
-Tags: [Debian, Ubuntu, monitoring, tools]
+tags: [debian, ubuntu, monitoring, tools]
 Slug: understanding-grafana-monitoring-tool
 Authors: sedlav
 ---

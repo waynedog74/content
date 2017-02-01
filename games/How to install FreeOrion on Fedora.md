@@ -2,7 +2,7 @@
 Title: How to install FreeOrion on Fedora
 Date: 2016-12-23 11:42:00
 Categories: [games]
-Tags: [FreeOrion]
+tags: [freeorion]
 Authors: sedlav
 ---
 

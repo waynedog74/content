@@ -2,7 +2,7 @@
 Title: openMSX - the MSX emulator that aims for perfection
 Date: 2016-11-26 11:42:00
 Categories: [os]
-Tags: [openmsx]
+tags: [openmsx]
 Authors: sedlav
 ---
 

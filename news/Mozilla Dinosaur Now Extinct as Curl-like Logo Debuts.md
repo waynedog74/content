@@ -2,7 +2,7 @@
 Title: "Mozilla Dinosaur Now Extinct as Curl-like Logo Debuts"
 Date: 2017-01-19 11:34:46
 Categories: [news]
-Tags: [Mozilla]
+tags: [mozilla]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: 60 GNU Sed command line examples
 Date: 2016-08-11 03:08:17
 Categories: [cli]
-Tags: [sed]
+tags: [sed]
 Slug: 60-gnu-sed-command-line-examples
 Authors: sedlav
 ---

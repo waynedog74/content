@@ -2,7 +2,7 @@
 Title: Set Date and Time for Each Command You Execute in Bash History
 Date: 2017-01-17 09:44:09
 Categories: [cli]
-Tags: [bash]
+tags: [bash]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "MariaDB 10.0.27 now available"
 Date: 2016-08-25 19:44:38
 Categories: [news]
-Tags: [MariaDB]
+tags: [mariadb]
 Slug: mariadb-10-0-27-now-available
 Authors: sedlav
 ---

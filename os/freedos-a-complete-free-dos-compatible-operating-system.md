@@ -2,7 +2,7 @@
 Title: FreeDOS  a complete, free, DOS-compatible operating system
 Date: 2016-09-14 15:31:56
 Categories: [os]
-Tags: [FreeDOS]
+tags: [freedos]
 Slug: freedos-a-complete-free-dos-compatible-operating-system
 Authors: sedlav
 Summary: "DOS: the Disk Operating System. For many of us whose computer coming-of-age story spanned across the 80s and 90s, we remember it"

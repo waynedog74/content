@@ -2,7 +2,7 @@
 Title: "Using the InnoDB Buffer Pool Pre-Load Feature in MySQL 5.7"
 Date: 2016-12-01 08:16:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

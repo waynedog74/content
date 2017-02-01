@@ -2,7 +2,7 @@
 Title: "SQLiteStudio a SQLite database manager"
 Date: 2016-09-02 21:52:55
 Categories: [data base]
-Tags: [SQLite, SQLiteStudio]
+tags: [sqlite, sqlitestudio]
 Slug: sqlitestudio-a-sqlite-database-manager
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Developing Command Line Interpreters using python-cmd2"
 Date: 2017-01-25 09:02:15
 Categories: [programming]
-Tags: [python, python-cmd2]
+tags: [python, python-cmd2]
 Authors: sedlav
 ---
 

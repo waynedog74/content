@@ -2,7 +2,7 @@
 Title: "ProxySQL and MHA Integration"
 Date: 2017-01-15 16:18:05
 Categories: [data base]
-Tags: [mysql, mariadb, percona, proxysql, mha]
+tags: [mysql, mariadb, percona, proxysql, mha]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "GoboLinux: A Distribution With New Filesystem Hierarchy"
 Date: 2017-01-24 22:55:48
 Categories: [os]
-Tags: [GoboLinux]
+tags: [gobolinux]
 Authors: sedlav
 ---
 

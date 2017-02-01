@@ -2,7 +2,7 @@
 Title: "Percona Toolkit 2.2.20 is now available"
 Date: 2016-12-10 12:37:00
 Categories: [news]
-Tags: [Percona]
+tags: [percona]
 Authors: sedlav
 ---
 

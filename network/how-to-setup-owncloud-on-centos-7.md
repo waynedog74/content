@@ -2,7 +2,7 @@
 Title: "How to Setup ownCloud on CentOS 7"
 Date: 2016-08-21 21:35:05
 Categories: [network]
-Tags: [CentOS, ownCloud]
+tags: [centos, owncloud]
 Slug: how-to-setup-owncloud-on-centos-7
 Authors: sedlav
 ---

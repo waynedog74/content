@@ -2,7 +2,7 @@
 Title: "IPFire - A GNU/Linux  Firewall Distribution"
 Date: 2016-09-22 13:17:36
 Categories: [security]
-Tags: [firewall, IPFire]
+tags: [firewall, ipfire]
 Slug: ipfire-a-gnulinux-firewall-distribution
 Authors: sedlav
 ---

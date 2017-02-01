@@ -2,7 +2,7 @@
 Title: "How to check if port is in use on Linux or Unix"
 Date: 2016-11-15 18:17:00
 Categories: [network]
-Tags: [netstat, nmap, lsof]
+tags: [netstat, nmap, lsof]
 Authors: sedlav
 ---
 

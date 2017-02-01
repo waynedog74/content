@@ -2,7 +2,7 @@
 Title: "Dive Deep Into Python Vs Perl Debate"
 Date: 2016-09-08 02:55:31
 Categories: [programming]
-Tags: [perl, python]
+tags: [perl, python]
 Slug: dive-deep-into-python-vs-perl-debate
 Authors: sedlav
 ---

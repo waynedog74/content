@@ -2,7 +2,7 @@
 Title: "Typical misconceptions on Galera Replication for MySQL"
 Date: 2017-01-21 15:57:36
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

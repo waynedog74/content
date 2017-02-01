@@ -2,7 +2,7 @@
 Title: "What Is Conky And How To Configure Conky On Ubuntu 16.04"
 Date: 2017-01-17 09:41:47
 Categories: [desktop]
-Tags: [Conky, Ubuntu]
+tags: [conky, ubuntu]
 Authors: sedlav
 ---
 

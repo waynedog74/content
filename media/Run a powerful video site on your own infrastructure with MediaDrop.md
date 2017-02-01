@@ -2,7 +2,7 @@
 Title: "Run a powerful video site on your own infrastructure with MediaDrop"
 Date: 2017-01-10 11:23:00
 Categories: [media]
-Tags: [video, mediadrop]
+tags: [video, mediadrop]
 Authors: sedlav
 ---
 

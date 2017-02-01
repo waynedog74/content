@@ -2,7 +2,7 @@
 Title: "How to set up a Ruby project structure on Ubuntu 16.10"
 Date: 2017-01-26 18:30:48
 Categories: [programming]
-Tags: [ruby]
+tags: [ruby]
 Authors: sedlav
 ---
 

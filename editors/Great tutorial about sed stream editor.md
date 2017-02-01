@@ -2,7 +2,7 @@
 Title: Great tutorial about sed stream editor
 Date: 2017-01-14 22:20:10
 Categories: [editors]
-Tags: [sed]
+tags: [sed]
 Authors: sedlav
 ---
 

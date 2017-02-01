@@ -2,7 +2,7 @@
 Title: "Automatically restart SSH sessions and tunnels with autossh"
 Date: 2016-10-02 21:54:21
 Categories: [security]
-Tags: [autossh, ssh]
+tags: [autossh, ssh]
 Slug: automatically-restart-ssh-sessions-and-tunnels-with-autossh
 Authors: sedlav
 ---

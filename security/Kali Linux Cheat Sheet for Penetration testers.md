@@ -2,7 +2,7 @@
 Title: "Kali Linux Cheat Sheet for Penetration testers"
 Date: 2017-01-18 19:30:24
 Categories: [security]
-Tags: [Kali Linux]
+tags: [kali linux]
 Authors: sedlav
 ---
 

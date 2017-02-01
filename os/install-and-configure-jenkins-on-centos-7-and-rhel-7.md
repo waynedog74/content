@@ -2,7 +2,7 @@
 Title: Install and Configure Jenkins on CentOS 7 and RHEL 7
 Date: 2016-08-11 02:05:45
 Categories: [os]
-Tags: [CentOS, RHEL, Fedora, Jenkins]
+tags: [centos, rhel, fedora, jenkins]
 Slug: install-and-configure-jenkins-on-centos-7-and-rhel-7
 Authors: sedlav
 Summary: Excellent tutorial by LinuxTechie. Jenkins is an automation engine with an unparalleled plugin ecosystem to support all of your favorite tools in you

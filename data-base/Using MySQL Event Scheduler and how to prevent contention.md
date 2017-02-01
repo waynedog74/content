@@ -2,7 +2,7 @@
 Title: "Using MySQL Event Scheduler and how to prevent contention"
 Date: 2017-01-26 08:44:58
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

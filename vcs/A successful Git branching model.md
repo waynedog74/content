@@ -2,7 +2,7 @@
 Title: A successful Git branching model
 Date: 2017-01-10 14:58:00
 Categories: [vcs]
-Tags: [Git]
+tags: [git]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "How to disable SELinux in CentOS / RHEL / Fedora"
 Date: 2016-08-26 04:12:11
 Categories: [security]
-Tags: [CentOS, Fedora, RHEL, SELinux]
+tags: [centos, fedora, rhel, selinux]
 Slug: how-to-disable-selinux-in-centos-rhel-fedora
 Authors: sedlav
 ---

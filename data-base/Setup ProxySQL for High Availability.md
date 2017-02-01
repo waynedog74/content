@@ -2,7 +2,7 @@
 Title: "Setup ProxySQL for High Availability"
 Date: 2017-01-24 23:13:26
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

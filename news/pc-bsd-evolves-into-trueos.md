@@ -2,7 +2,7 @@
 Title: "PC-BSD Evolves into TrueOS"
 Date: 2016-09-04 02:00:09
 Categories: [news]
-Tags: [FreeBSD, PC-BSD, TrueOS, BSD]
+tags: [freebsd, pc-bsd, trueos, bsd]
 Slug: pc-bsd-evolves-into-trueos
 Authors: sedlav
 ---

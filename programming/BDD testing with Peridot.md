@@ -2,7 +2,7 @@
 Title: "BDD testing with Peridot"
 Date: 2017-01-31 09:57:55
 Categories: [programming]
-Tags: [BDD, Peridot]
+tags: [bdd, peridot]
 Authors: sedlav
 ---
 

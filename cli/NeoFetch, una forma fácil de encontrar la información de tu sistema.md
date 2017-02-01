@@ -2,7 +2,7 @@
 Title: NeoFetch, una forma fácil de encontrar la información de tu sistema
 Date: 2016-12-05 10:59:00
 Categories: [cli]
-Tags: [NeoFetch]
+tags: [neofetch]
 Authors: sedlav
 ---
 

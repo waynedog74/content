@@ -2,7 +2,7 @@
 Title: "Understanding Docker Networking Drivers And Their Use Cases"
 Date: 2016-12-20 09:43:00
 Categories: [devops]
-Tags: [docker]
+tags: [docker]
 Authors: sedlav
 ---
 

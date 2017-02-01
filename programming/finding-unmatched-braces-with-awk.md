@@ -2,7 +2,7 @@
 Title: "Finding unmatched braces with AWK"
 Date: 2016-08-15 15:00:34
 Categories: [programming]
-Tags: [awk]
+tags: [awk]
 Slug: finding-unmatched-braces-with-awk
 Authors: sedlav
 ---

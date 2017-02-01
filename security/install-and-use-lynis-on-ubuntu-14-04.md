@@ -2,7 +2,7 @@
 Title: "Install and use Lynis on Ubuntu 14.04"
 Date: 2016-08-29 15:32:04
 Categories: [security]
-Tags: [Lynis]
+tags: [lynis]
 Slug: install-and-use-lynis-on-ubuntu-14-04
 Authors: sedlav
 ---

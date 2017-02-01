@@ -2,7 +2,7 @@
 Title: "Install and configure OpenVPN on Ubuntu 16.04"
 Date: 2016-12-12 08:34:00
 Categories: [network]
-Tags: [vpn, ubuntu]
+tags: [vpn, ubuntu]
 Authors: sedlav
 ---
 

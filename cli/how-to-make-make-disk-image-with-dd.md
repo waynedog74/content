@@ -2,7 +2,7 @@
 Title: How to make make disk image with dd
 Date: 2016-08-17 22:14:46
 Categories: [cli]
-Tags: [dd]
+tags: [dd]
 Slug: how-to-make-make-disk-image-with-dd
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Richard Stallman - \"Computing, Freedom, and Privacy\""
 Date: 2017-01-18 10:06:40
 Categories: [news]
-Tags: [rms, fsf, Freedom]
+tags: [rms, fsf, freedom]
 Authors: sedlav
 ---
 

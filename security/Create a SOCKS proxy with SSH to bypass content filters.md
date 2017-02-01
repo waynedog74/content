@@ -2,7 +2,7 @@
 Title: "Create a SOCKS proxy with SSH to bypass content filters"
 Date: 2017-01-19 17:43:43
 Categories: [security]
-Tags: [SSH, proxy, SOCKS]
+tags: [ssh, proxy, socks]
 Authors: sedlav
 ---
 

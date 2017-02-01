@@ -2,7 +2,7 @@
 Title: "The Lumina team has released Lumina 1.2.0"
 Date: 2017-01-04 11:49:00
 Categories: [news]
-Tags: [FreeBSD, NetBSD, OpenBSD, Lumina]
+tags: [freebsd, netbsd, openbsd, lumina]
 Authors: sedlav
 ---
 

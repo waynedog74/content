@@ -2,7 +2,7 @@
 Title: OpenIndiana a Community-driven Illumos Distribution
 Date: 2016-11-09 18:11:00
 Categories: [os]
-Tags: [OpenIndiana, illumos]
+tags: [openindiana, illumos]
 Authors: sedlav
 ---
 

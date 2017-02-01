@@ -2,7 +2,7 @@
 Title: "Passive connections in ProFTPD"
 Date: 2016-08-21 21:48:51
 Categories: [network]
-Tags: [ftp, ProFTPD]
+tags: [ftp, proftpd]
 Slug: passive-connections-in-proftpd
 Authors: sedlav
 ---

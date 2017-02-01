@@ -2,7 +2,7 @@
 Title: "lftp behind a proxy"
 Date: 2016-08-19 15:05:47
 Categories: [newtwork]
-Tags: [ftp, lftp]
+tags: [ftp, lftp]
 Slug: lftp-behind-a-proxy
 Authors: sedlav
 ---

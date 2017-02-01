@@ -2,7 +2,7 @@
 Title: "How to Install and Configure PostgreSQL Replication"
 Date: 2016-08-09 03:16:08
 Categories: [data base]
-Tags: [PostgreSQL]
+tags: [postgresql]
 Slug: how-to-install-and-configure-postgresql-replication
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "How to Build an Email Server on Ubuntu"
 Date: 2016-12-06 09:39:00
 Categories: [network]
-Tags: [email, ubuntu, postfix]
+tags: [email, ubuntu, postfix]
 Authors: sedlav
 ---
 

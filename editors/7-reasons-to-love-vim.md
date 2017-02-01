@@ -2,7 +2,7 @@
 Title: 7 reasons to love Vim
 Date: 2016-08-10 15:29:33
 Categories: [editors]
-Tags: [vi, vim]
+tags: [vi, vim]
 Slug: 7-reasons-to-love-vim
 Author: sedlav
 Description: "Giles Orr tell us why we should love Vim Editor.> When I started using the vi text editor, I hated it. I thought it was the most painful and counter"

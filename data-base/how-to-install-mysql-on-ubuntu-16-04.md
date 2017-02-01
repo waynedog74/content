@@ -2,7 +2,7 @@
 Title: "How to install MySQL on Ubuntu 16.04"
 Date: 2016-08-15 15:07:06
 Categories: [data base]
-Tags: [Debian, Ubuntu, MySQL]
+tags: [debian, ubuntu, mysql]
 Slug: how-to-install-mysql-on-ubuntu-16-04
 Authors: sedlav
 ---

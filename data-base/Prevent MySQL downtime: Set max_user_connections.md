@@ -2,7 +2,7 @@
 Title: "Prevent MySQL downtime: Set max_user_connections"
 Date: 2016-12-19 14:56:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

@@ -3,7 +3,7 @@ Title: BunsenLabs a tiny GNU+Linux distribution
 Date: 2016-11-13 11:53:00
 Categories:
   - os
-Tags:
+tags:
   - BunsenLabs
   - Debian
 Authors: sedlav

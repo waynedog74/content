@@ -2,7 +2,7 @@
 Title: "MySQL 5.7 performance tuning immediately after installation"
 Date: 2017-01-15 16:12:34
 Categories: [data base]
-Tags: [mysql, mariadb]
+tags: [mysql, mariadb]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "How to compile PHP 7 on Debian 8"
 Date: 2016-09-02 03:58:50
 Categories: [web server]
-Tags: [PHP, php 7]
+tags: [php, php 7]
 Slug: how-to-compile-php-7-on-debian-8
 Authors: sedlav
 ---

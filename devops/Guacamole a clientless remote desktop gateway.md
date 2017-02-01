@@ -2,7 +2,7 @@
 Title: "Guacamole a clientless remote desktop gateway"
 Date: 2017-01-15 17:07:10
 Categories: [devops]
-Tags: [vnc, rdp, ssh]
+tags: [vnc, rdp, ssh]
 Authors: sedlav
 ---
 

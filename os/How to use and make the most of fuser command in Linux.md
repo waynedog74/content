@@ -2,7 +2,7 @@
 Title: How to use and make the most of fuser command in Linux
 Date: 2016-12-06 09:58:00
 Categories: [os]
-Tags: [fuser]
+tags: [fuser]
 Authors: sedlav
 Description: "The fuser command - as I've already mentioned above - is primarily used to identify processes using files, directories, or sockets."
 ---

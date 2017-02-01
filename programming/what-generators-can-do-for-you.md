@@ -2,7 +2,7 @@
 Title: "What Generators Can Do For You"
 Date: 2016-09-04 03:28:40
 Categories: [programming]
-Tags: [Generators, PHP]
+tags: [generators, php]
 Slug: what-generators-can-do-for-you
 Authors: sedlav
 ---

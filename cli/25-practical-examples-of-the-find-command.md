@@ -2,7 +2,7 @@
 Title: 25 Practical examples of the find command
 Date: 2016-08-06 02:45:19
 Categories: [cli]
-Tags: [find]
+tags: [find]
 Slug: 25-practical-examples-of-the-find-command
 Authors: sedlav
 ---

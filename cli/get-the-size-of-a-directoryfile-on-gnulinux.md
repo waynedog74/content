@@ -2,7 +2,7 @@
 Title: Get the size of a directory/file on GNU/Linux
 Date: 2016-09-01 03:33:31
 Categories: [cli]
-Tags: [du]
+tags: [du]
 Slug: get-the-size-of-a-directoryfile-on-gnulinux
 Authors: sedlav
 ---

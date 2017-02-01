@@ -2,7 +2,7 @@
 Title: "Download Free eBook PDF: The Awk Programming Language"
 Date: 2017-01-26 09:56:31
 Categories: [news]
-Tags: [awk]
+tags: [awk]
 Authors: sedlav
 ---
 

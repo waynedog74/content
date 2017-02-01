@@ -2,7 +2,7 @@
 Title: "How Percona XtraDB Cluster certification works"
 Date: 2016-11-23 19:04:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

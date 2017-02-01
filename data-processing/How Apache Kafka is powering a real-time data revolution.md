@@ -2,7 +2,7 @@
 Title: "How Apache Kafka is powering a real-time data revolution"
 Date: 2017-01-15 16:42:34
 Categories: [data processing]
-Tags: [Apache Kafka]
+tags: [apache kafka]
 Authors: sedlav
 ---
 

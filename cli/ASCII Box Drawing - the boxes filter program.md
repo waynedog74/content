@@ -2,7 +2,7 @@
 Title: ASCII Box Drawing - the boxes filter program
 Date: 2017-01-15 15:29:18
 Categories: [cli]
-Tags: [boxes, ascii, draw]
+tags: [boxes, ascii, draw]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: How to build your own Git server
 Date: 2016-08-10 16:48:04
 Categories: [vcs]
-Tags: [Git, vcs]
+tags: [git, vcs]
 Slug: how-to-build-your-own-git-server
 Authors: sedlav
 ---

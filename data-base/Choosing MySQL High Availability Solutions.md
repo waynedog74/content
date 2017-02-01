@@ -2,7 +2,7 @@
 Title: "Choosing MySQL High Availability Solutions"
 Date: 2016-11-15 18:18:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

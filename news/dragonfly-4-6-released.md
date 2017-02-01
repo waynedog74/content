@@ -2,7 +2,7 @@
 Title: "DragonFly 4.6 released"
 Date: 2016-08-09 19:42:15
 Categories: [news]
-Tags: [BSD]
+tags: [bsd]
 Slug: dragonfly-4-6-released
 Authors: sedlav
 ---

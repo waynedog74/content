@@ -2,7 +2,7 @@
 Title: "Learning LXC and LXD container tools"
 Date: 2017-01-15 17:09:27
 Categories: [devops]
-Tags: [lxc, lxd]
+tags: [lxc, lxd]
 Authors: sedlav
 ---
 

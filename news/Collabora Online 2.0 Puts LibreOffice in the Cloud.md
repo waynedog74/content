@@ -2,7 +2,7 @@
 Title: "Collabora Online 2.0 Puts LibreOffice in the Cloud"
 Date: 2016-12-08 08:41:00
 Categories: [news]
-Tags: [Collabora, Libre Office]
+tags: [collabora, libre office]
 Authors: sedlav
 ---
 

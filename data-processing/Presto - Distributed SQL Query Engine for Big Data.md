@@ -2,7 +2,7 @@
 Title: "Presto - Distributed SQL Query Engine for Big Data"
 Date: 2016-11-24 17:50:00
 Categories: [data processing]
-Tags: [presto, hive, casandra, mysql, mariadb]
+tags: [presto, hive, casandra, mysql, mariadb]
 Authors: sedlav
 ---
 

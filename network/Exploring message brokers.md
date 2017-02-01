@@ -2,7 +2,7 @@
 Title: "Exploring message brokers"
 Date: 2016-12-13 09:11:00
 Categories: [network]
-Tags: [RabbitMQ, Kafka, ActiveMQ, Kestrel]
+tags: [rabbitmq, kafka, activemq, kestrel]
 Authors: sedlav
 ---
 

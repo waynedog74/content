@@ -2,7 +2,7 @@
 Title: "Force ssh client to use only password auth authentication when pubkey auth configured"
 Date: 2017-01-25 23:17:03
 Categories: [security]
-Tags: [ssh]
+tags: [ssh]
 Authors: sedlav
 ---
 

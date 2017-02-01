@@ -2,7 +2,7 @@
 Title: "PNDA an Open source Platform for Network Data Analytics"
 Date: 2016-08-20 20:31:02
 Categories: [data processing]
-Tags: [PNDA]
+tags: [pnda]
 Slug: pnda-an-open-source-platform-for-network-data-analytics
 Authors: sedlav
 ---

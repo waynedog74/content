@@ -2,7 +2,7 @@
 Title: "Min – A Lighter, Faster and Secure Web Browser"
 Date: 2017-01-27 11:57:12
 Categories: [network]
-Tags: [Min, Web browser]
+tags: [min, web browser]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "How to create a new sudo user on Ubuntu Linux server"
 Date: 2017-01-24 23:06:08
 Categories: [security]
-Tags: [sudo]
+tags: [sudo]
 Authors: sedlav
 ---
 

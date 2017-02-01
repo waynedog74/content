@@ -2,7 +2,7 @@
 Title: "AWK and Regular Expressions"
 Date: 2016-10-07 15:33:16
 Categories: [programming]
-Tags: [awk]
+tags: [awk]
 Slug: awk-and-regular-expressions
 Authors: sedlav
 ---

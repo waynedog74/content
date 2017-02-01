@@ -2,7 +2,7 @@
 Title: "3 command-line music players for GNU/ Linux"
 Date: 2016-08-19 16:08:11
 Categories: [media]
-Tags: [cmus, moc, mpg123]
+tags: [cmus, moc, mpg123]
 Slug: 3-command-line-music-players-for-gnu-linux
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: Monitor Progress with Progress
 Date: 2016-10-02 22:20:20
 Categories: [cli]
-Tags: [Progress]
+tags: [progress]
 Slug: monitor-progress-with-progress
 Authors: sedlav
 ---

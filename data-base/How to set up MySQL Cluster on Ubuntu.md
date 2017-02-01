@@ -2,7 +2,7 @@
 Title: "How to set up MySQL Cluster on Ubuntu"
 Date: 2016-12-19 12:04:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

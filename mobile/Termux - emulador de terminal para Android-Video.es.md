@@ -2,7 +2,7 @@
 Title: "Termux - emulador de terminal para Android "
 Date: 2017-01-25 23:13:06
 Categories: [mobile]
-Tags: [termux, android, apt]
+tags: [termux, android, apt]
 Authors: sedlav
 ---
 

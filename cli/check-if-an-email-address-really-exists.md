@@ -2,7 +2,7 @@
 Title: Check if an email address really exists
 Date: 2016-08-29 14:45:55
 Categories: [cli]
-Tags: [nc, telnet]
+tags: [nc, telnet]
 Slug: check-if-an-email-address-really-exists
 Authors: sedlav
 ---

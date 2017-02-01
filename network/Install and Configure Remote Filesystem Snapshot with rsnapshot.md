@@ -2,7 +2,7 @@
 Title: "Install and Configure Remote Filesystem Snapshot with rsnapshot"
 Date: 2016-12-20 09:36:00
 Categories: [network]
-Tags: [rsnapshot, backup, Debian, Ubuntu]
+tags: [rsnapshot, backup, debian, ubuntu]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: Converts to lowercase the names of all files in the current DIR
 Date: 2016-08-13 22:26:25
 Categories: [cli]
-Tags: [Command Fu]
+tags: [command fu]
 Slug: converts-to-lowercase-the-names-of-all-files-in-the-current-dir
 Authors: sedlav
 ---

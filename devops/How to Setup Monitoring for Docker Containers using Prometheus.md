@@ -2,7 +2,7 @@
 Title: "How to Setup Monitoring for Docker Containers using Prometheus"
 Date: 2016-12-14 10:02:00
 Categories: [devops]
-Tags: [docker, prometheus, grafana]
+tags: [docker, prometheus, grafana]
 Authors: sedlav
 ---
 

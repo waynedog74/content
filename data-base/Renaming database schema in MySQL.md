@@ -2,7 +2,7 @@
 Title: "Renaming database schema in MySQL"
 Date: 2016-11-24 17:37:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

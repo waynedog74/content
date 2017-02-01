@@ -2,7 +2,7 @@
 Title: "Percona Server 5.5.51-38.1 is now available"
 Date: 2016-08-20 21:06:10
 Categories: [news]
-Tags: [Percona]
+tags: [percona]
 Slug: percona-server-5-5-51-38-1-is-now-available
 Authors: sedlav
 ---

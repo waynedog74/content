@@ -2,7 +2,7 @@
 Title: "Tails - Privacy for anyone anywhere"
 Date: 2016-09-01 02:45:15
 Categories: [security]
-Tags: [Tails]
+tags: [tails]
 Slug: tails-privacy-for-anyone-anywhere
 Authors: sedlav
 ---

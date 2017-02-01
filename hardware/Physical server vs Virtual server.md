@@ -2,7 +2,7 @@
 Title: Physical server vs Virtual server
 Date: 2016-12-28 09:11:00
 Categories: [hardware]
-Tags: [physical server, vps]
+tags: [physical server, vps]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: Los permisos de un sistema de archivos en GNU+Linux
 Date: 2016-11-29 17:52:00
 Categories: [os]
-Tags: [chmod, chown]
+tags: [chmod, chown]
 Description: "En este artículo, profundizaremos un poco en los permisos utilizados en los sistemas de archivos de GNU/Linux... La mayoría de los sistemas de archivos para GNU/Linux reconocen dos objetos principales: los directorios (d) y los archivos (f)"
 ---
 

@@ -2,7 +2,7 @@
 Title: "How to write web apps in R with Shiny"
 Date: 2017-01-20 12:18:16
 Categories: [programming]
-Tags: [R, RStudio, Shiny]
+tags: [r, rstudio, shiny]
 Authors: [sedlav]
 ---
 

@@ -2,7 +2,7 @@
 Title: FoundationPress the ultimate WordPress starter-theme
 Date: 2016-08-12 03:05:51
 Categories: [cms]
-Tags: [FoundationPress, Wordpress]
+tags: [foundationpress, wordpress]
 Slug: foundationpress-the-ultimate-wordpress-starter-theme
 Authors: sedlav
 ---

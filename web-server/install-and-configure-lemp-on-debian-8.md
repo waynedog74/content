@@ -2,7 +2,7 @@
 Title: "Install and configure LEMP on Debian 8"
 Date: 2016-08-29 16:10:08
 Categories: [web server]
-Tags: [Debian, MariaDB, MySQL, nginx, PHP, Ubuntu]
+tags: [debian, mariadb, mysql, nginx, php, ubuntu]
 Slug: install-and-configure-lemp-on-debian-8
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: Virtual consoles remote control with Conspy
 Date: 2016-09-19 14:03:08
 Categories: [os]
-Tags: [conspy, Debian, Fedora]
+tags: [conspy, debian, fedora]
 Slug: virtual-consoles-remote-control-with-conspy
 Author: sedlav
 ---

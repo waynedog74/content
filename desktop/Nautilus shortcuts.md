@@ -2,7 +2,7 @@
 Title: "Nautilus shortcuts"
 Date: 2016-12-05 10:50:00
 Categories: [desktop]
-Tags: [gnome, nautilus]
+tags: [gnome, nautilus]
 Authors: sedlav
 ---
 

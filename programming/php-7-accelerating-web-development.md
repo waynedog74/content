@@ -2,7 +2,7 @@
 Title: "PHP 7 – Accelerating web development"
 Date: 2016-08-09 02:41:41
 Categories: [programming]
-Tags: [PHP, php 7]
+tags: [php, php 7]
 Slug: php-7-accelerating-web-development
 Authors: sedlav
 ---

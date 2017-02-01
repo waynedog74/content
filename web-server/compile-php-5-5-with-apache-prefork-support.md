@@ -2,7 +2,7 @@
 Title: "Compile php 5.5 with apache prefork support"
 Date: 2016-09-01 03:40:25
 Categories: [web server]
-Tags: [Apache, PHP]
+tags: [apache, php]
 Slug: compile-php-5-5-with-apache-prefork-support
 Authors: sedlav
 ---

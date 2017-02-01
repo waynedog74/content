@@ -2,7 +2,7 @@
 Title: "2 tools to protect directories on GNU/Linux"
 Date: 2016-08-31 14:44:13
 Categories: [desktop]
-Tags: [Cryptkeeper, EncFS, GEncfsM]
+tags: [cryptkeeper, encfs, gencfsm]
 Slug: 2-tools-to-protect-directories-on-gnulinux
 Authors: sedlav
 ---

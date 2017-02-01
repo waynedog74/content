@@ -2,7 +2,7 @@
 Title: "SSH and complex configs"
 Date: 2016-08-29 14:54:18
 Categories: [security]
-Tags: [ssh]
+tags: [ssh]
 Slug: ssh-and-complex-configs
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Configuring distributed compilation with Icecream in Fedora"
 Date: 2016-12-12 18:01:00
 Categories: [network]
-Tags: [Icecream, fedora]
+tags: [icecream, fedora]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Is MySQL’s innodb_file_per_table slowing you down?"
 Date: 2017-01-26 08:44:58
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

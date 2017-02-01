@@ -2,7 +2,7 @@
 Title: "8 Open Source BPM Software Options"
 Categories: [office]
 Date: 2016-11-09 18:11:00
-Tags: [bpm]
+tags: [bpm]
 Authors: sedlav
 ---
 

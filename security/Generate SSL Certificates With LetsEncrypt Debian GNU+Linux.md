@@ -2,7 +2,7 @@
 Title: "Generate SSL Certificates With LetsEncrypt Debian GNU/Linux"
 Date: 2017-01-31 09:40:55
 Categories: [security]
-Tags: [SSL, Debian, LetsEncrypt]
+tags: [ssl, debian, letsencrypt]
 Authors: sedlav
 ---
 

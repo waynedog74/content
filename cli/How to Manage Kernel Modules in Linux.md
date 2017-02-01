@@ -2,7 +2,7 @@
 Title: How to Manage Kernel Modules in Linux
 Date: 2017-01-15 15:08:56
 Categories: [cli]
-Tags: [linux, kernel]
+tags: [linux, kernel]
 Authors: sedlav
 ---
 

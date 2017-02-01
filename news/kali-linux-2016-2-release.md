@@ -2,7 +2,7 @@
 Title: "Kali Linux 2016.2 Release"
 Date: 2016-09-02 03:04:26
 Categories: [news]
-Tags: [Kali Linux]
+tags: [kali linux]
 Slug: kali-linux-2016-2-release
 Authors: sedlav
 ---

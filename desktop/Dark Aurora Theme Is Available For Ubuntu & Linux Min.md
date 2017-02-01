@@ -2,7 +2,7 @@
 Title: "Dark Aurora Theme Is Available For Ubuntu/Linux Mint"
 Date: 2017-01-16 18:28:23
 Categories: [desktop]
-Tags: [Ubuntu, Mint, Dark Aurora]
+tags: [ubuntu, mint, dark aurora]
 Authors: sedlav
 ---
 

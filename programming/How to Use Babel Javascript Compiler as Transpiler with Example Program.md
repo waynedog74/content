@@ -2,7 +2,7 @@
 Title: "How to Use Babel Javascript Compiler as Transpiler with Example Program"
 Date: 2016-12-16 17:26:00
 Categories: [programming]
-Tags: [javascript, babel]
+tags: [javascript, babel]
 Authors: sedlav
 ---
 

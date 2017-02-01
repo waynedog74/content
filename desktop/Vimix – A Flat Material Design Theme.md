@@ -2,7 +2,7 @@
 Title: "Vimix – A Flat Material Design Theme"
 Date: 2016-12-23 14:41:00
 Categories: [desktop]
-Tags: [Vimix, gtk+ themes]
+tags: [Vimix, gtk+ themes]
 Authors: sedlav
 ---
 

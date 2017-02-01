@@ -2,7 +2,7 @@
 Title: How to change timezones in GNU/Linux
 Date: 2016-09-07 02:55:58
 Categories: [cli]
-Tags: [tzdata-update, tzselect]
+tags: [tzdata-update, tzselect]
 Slug: how-to-change-timezones-in-gnulinux
 Authors: sedlav
 ---

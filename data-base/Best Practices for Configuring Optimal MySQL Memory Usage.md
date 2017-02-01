@@ -2,7 +2,7 @@
 Title: "Best Practices for Configuring Optimal MySQL Memory Usage"
 Date: 2016-11-19 15:19:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

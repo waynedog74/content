@@ -2,7 +2,7 @@
 Title: "3 ffmpeg command lines for screen recording"
 Date: 2016-11-13 11:45:00
 Categories: [media]
-Tags: [ffmpeg]
+tags: [ffmpeg]
 Authors: sedlav
 ---
 

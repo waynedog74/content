@@ -2,7 +2,7 @@
 Title: "MySQL High Availability with Percona  Cluster 5.7"
 Date: 2016-11-22 18:57:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona, xtradb]
+tags: [mysql, mariadb, percona, xtradb]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: How to Keep sudo Password Timeout Session Longer
 Date: 2017-01-18 18:39:44
 Categories: [security]
-Tags: [sudo]
+tags: [sudo]
 Authors: sedlav
 ---
 

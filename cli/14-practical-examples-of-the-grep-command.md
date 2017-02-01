@@ -2,7 +2,7 @@
 Title: 14 Practical examples of the grep command
 Date: 2016-08-09 02:55:42
 Categories: [cli]
-Tags: [grep]
+tags: [grep]
 Slug: 14-practical-examples-of-the-grep-command
 Authors: sedlav
 ---

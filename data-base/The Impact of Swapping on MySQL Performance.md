@@ -2,7 +2,7 @@
 Title: "The Impact of Swapping on MySQL Performance"
 Date: 2017-01-13 17:17:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

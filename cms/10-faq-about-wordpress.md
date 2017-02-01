@@ -2,7 +2,7 @@
 Title: 10 FAQ about WordPress
 Date: 2016-08-23 19:23:51
 Categories: [cms]
-Tags: [Wordpress]
+tags: [wordpress]
 Slug: 10-faq-about-wordpress
 Authors: sedlav
 ---

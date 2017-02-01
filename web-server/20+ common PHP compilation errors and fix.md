@@ -2,7 +2,7 @@
 Title: "20+ common PHP compilation errors and fix"
 Date: 2016-12-10 15:16:00
 Categories: [web server]
-Tags: [php]
+tags: [php]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "5 free handy tools for monitoring and managing MySQL replication"
 Date: 2017-01-20 11:00:50
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

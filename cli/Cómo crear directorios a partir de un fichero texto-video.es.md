@@ -2,7 +2,7 @@
 Title: Cómo crear directorios a partir de un fichero texto (Video)
 Date: 2017-01-25 23:03:43
 Categories: [cli]
-Tags: [mkdir, xargs]
+tags: [mkdir, xargs]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Go 1.7 is released!"
 Date: 2016-08-16 22:00:18
 Categories: [news]
-Tags: [Go]
+tags: [go]
 Slug: go-1-7-is-released
 Authors: sedlav
 ---

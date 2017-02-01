@@ -2,7 +2,7 @@
 Title: "Creating a home music server using mpd"
 Date: 2017-01-31 09:51:43
 Categories: [media]
-Tags: [mpd]
+tags: [mpd]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "How to monitor ALTER TABLE progress in MySQL"
 Date: 2016-12-06 10:07:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

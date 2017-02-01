@@ -2,7 +2,7 @@
 Title: "Flow Control Statements in Awk"
 Date: 2016-08-09 20:45:18
 Categories: [programming]
-Tags: [awk]
+tags: [awk]
 Slug: flow-control-statements-in-awk
 Authors: sedlav
 ---

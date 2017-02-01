@@ -2,7 +2,7 @@
 Title: "Get MySQL Passwords in Plain Text from .mylogin.cnf"
 Date: 2016-09-08 03:11:18
 Categories: [data base]
-Tags: [MySQL]
+tags: [mysql]
 Slug: get-mysql-passwords-in-plain-text-from-mylogin-cnf
 Authors: sedlav
 ---

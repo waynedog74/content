@@ -2,7 +2,7 @@
 Title: "Redash a beatiful business intelligent tool"
 Date: 2017-01-10 11:32:00
 Categories: [data processing]
-Tags: [redash]
+tags: [redash]
 Authors: sedlav
 Lang: en
 Summary: Redash is a business inteligent tool that allows you connect to any data source, easily visualize and share your data

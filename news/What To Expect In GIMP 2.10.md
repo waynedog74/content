@@ -2,7 +2,7 @@
 Title: "What To Expect In GIMP 2.10"
 Date: 2017-01-17 09:27:49
 Categories: [news]
-Tags: [gimp]
+tags: [gimp]
 Authors: sedlav
 ---
 

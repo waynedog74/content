@@ -2,7 +2,7 @@
 Title: 4 Sites to learn Git
 Date: 2016-11-26 14:28:00
 Categories: [vcs]
-Tags: [Git]
+tags: [git]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Bash Shell: Find Out If a Variable Is Empty Or Not"
 Date: 2017-01-25 08:26:19
 Categories: [programming]
-Tags: [bash]
+tags: [bash]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: lf a terminal file manager
 Date: 2017-01-17 09:16:16
 Categories: [cli]
-Tags: [lf, file manager]
+tags: [lf, file manager]
 Authors: sedlav
 ---
 

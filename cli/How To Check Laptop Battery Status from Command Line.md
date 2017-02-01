@@ -2,7 +2,7 @@
 Title: How To Check Laptop Battery Status from Command Line
 Date: 2016-12-08 08:37:00
 Categories: [cli]
-Tags: [upower, acpi]
+tags: [upower, acpi]
 Authors: sedlav
 ---
 

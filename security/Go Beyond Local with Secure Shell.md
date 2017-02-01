@@ -2,7 +2,7 @@
 Title: "Go Beyond Local with Secure Shell"
 Date: 2016-11-22 18:12:00
 Categories: [security]
-Tags: [ssh]
+tags: [ssh]
 Authors: sedlav
 ---
 

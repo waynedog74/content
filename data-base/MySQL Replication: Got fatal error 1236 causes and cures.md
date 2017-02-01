@@ -2,7 +2,7 @@
 Title: "MySQL Replication: 'Got fatal error 1236' causes and cures"
 Date: 2017-01-12 16:24:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

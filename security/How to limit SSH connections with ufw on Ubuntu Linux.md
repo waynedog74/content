@@ -2,7 +2,7 @@
 Title: "How to limit SSH (TCP port 22) connections with ufw on Ubuntu"
 Date: 2017-01-26 10:05:50
 Categories: [security]
-Tags: [SSH, Ubuntu]
+tags: [ssh, ubuntu]
 Authors: sedlav
 ---
 

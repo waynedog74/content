@@ -2,7 +2,7 @@
 Title: Difference Between Linux And BSD
 Date: 2016-12-19 14:34:00
 Categories: [os]
-Tags: [bsd, linux]
+tags: [bsd, linux]
 Authors: sedlav
 ---
 

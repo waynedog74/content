@@ -2,7 +2,7 @@
 Title: "Lennart Poettering tals about systemd"
 Date: 2017-01-29 13:37:17
 Categories: [news]
-Tags: [systemd]
+tags: [systemd]
 Authors: sedlav
 ---
 

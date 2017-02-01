@@ -2,7 +2,7 @@
 Title: "How to Sum a column using awk"
 Date: 2016-08-09 20:30:44
 Categories: [programming]
-Tags: [awk]
+tags: [awk]
 Slug: sum-a-column-using-awk
 Authors: sedlav
 ---

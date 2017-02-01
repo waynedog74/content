@@ -2,7 +2,7 @@
 Title: "MySQL - Got an error reading communication packet errors"
 Date: 2016-11-18 17:28:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

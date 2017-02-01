@@ -2,7 +2,7 @@
 Title: "Three Things to Consider When Thinking About Containers"
 Date: 2017-01-15 16:21:17
 Categories: [devops]
-Tags: [[docker, vm]]
+tags: [[docker, vm]]
 Authors: sedlav
 ---
 

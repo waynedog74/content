@@ -2,7 +2,7 @@
 Title: "Linus Torvalds Gives GPL Credit for Linux's Success"
 Date: 2016-08-24 19:50:52
 Categories: [news]
-Tags: [LinuxCon]
+tags: [linuxcon]
 Slug: linus-torvalds-gives-gpl-credit-for-linuxs-success
 Authors: sedlav
 ---

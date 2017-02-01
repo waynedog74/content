@@ -2,7 +2,7 @@
 Title: "Validating e-mail addresses using a C library"
 Date: 2016-12-07 15:05:00
 Categories: [programming]
-Tags: [c, validate]
+tags: [c, validate]
 Authors: sedlav
 ---
 

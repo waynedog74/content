@@ -2,7 +2,7 @@
 Title: "Regular expression made easy"
 Date: 2016-09-13 19:02:25
 Categories: [programming]
-Tags: [Libs, Regex, SRL]
+tags: [libs, regex, srl]
 Slug: regular-expression-made-easy
 Authors: sedlav
 ---

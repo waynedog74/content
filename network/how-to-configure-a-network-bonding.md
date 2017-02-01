@@ -2,7 +2,7 @@
 Title: "How to configure a network bonding"
 Date: 2016-10-07 23:51:18
 Categories: [network]
-Tags: [bonding]
+tags: [bonding]
 Slug: how-to-configure-a-network-bonding
 Authors: sedlav
 ---

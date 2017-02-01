@@ -2,7 +2,7 @@
 Title: "MySQL Replication Troubleshooting: Q & A"
 Date: 2016-09-11 12:35:09
 Categories: [data base]
-Tags: [MySQL, performance]
+tags: [mysql, performance]
 Slug: mysql-replication-troubleshooting-q-a
 Authors: sedlav
 ---

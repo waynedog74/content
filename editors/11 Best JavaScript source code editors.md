@@ -2,7 +2,7 @@
 Title: 11 Best JavaScript source code editors
 Date: 2016-12-20 20:40:00
 Categories: [editors]
-Tags: [wysiwyg-editor, javascript]
+tags: [wysiwyg-editor, javascript]
 Author: sedlav
 ---
 

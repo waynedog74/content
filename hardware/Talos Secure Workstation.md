@@ -2,7 +2,7 @@
 Title: Talos Secure Workstation
 Date: 2016-12-28 09:10:00
 Categories: [hardware]
-Tags: [talos, libre hardware]
+tags: [talos, libre hardware]
 Authors: sedlav
 Lang: en
 Summary: The world's first ATX-compatible, workstation-class mainboard for the IBM POWER8 processor.

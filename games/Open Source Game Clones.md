@@ -2,7 +2,7 @@
 Title: "Great collection of Free/Libre games"
 Date: 2016-11-26 11:44:00
 Category: [games]
-Tags: [action, aventure, simulation, strategy, educational]
+tags: [action, aventure, simulation, strategy, educational]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Dontbug a reverse debugger for PHP"
 Date: 2016-11-16 17:32:00
 Categories: [programming]
-Tags: [php, dontbug, debug]
+tags: [php, dontbug, debug]
 Authors: sedlav
 ---
 

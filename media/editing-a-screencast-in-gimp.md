@@ -2,7 +2,7 @@
 Title: "Editing a Screencast in Gimp"
 Date: 2016-09-11 03:40:26
 Categories: [media]
-Tags: [GIMP, Graphic, Media]
+tags: [gimp, graphic, media]
 Slug: editing-a-screencast-in-gimp
 Authors: sedlav
 ---

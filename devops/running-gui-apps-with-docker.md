@@ -2,7 +2,7 @@
 Title: "Running GUI apps with Docker"
 Date: 2016-08-25 14:40:09
 Categories: [devops]
-Tags: [docker]
+tags: [docker]
 Slug: running-gui-apps-with-docker
 Authors: sedlav
 ---

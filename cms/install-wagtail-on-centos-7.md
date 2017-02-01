@@ -2,7 +2,7 @@
 Title: Install Wagtail on CentOS 7
 Date: 2016-08-25 15:08:21
 Categories: [cms]
-Tags: [CentOS, Fedora, RHEL, Wagtail]
+tags: [centos, fedora, rhel, wagtail]
 Slug: install-wagtail-on-centos-7
 Authors: sedlav
 ---

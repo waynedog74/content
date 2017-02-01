@@ -2,7 +2,7 @@
 Title: "Compartiendo recursos con Samba"
 Date: 2017-01-18 18:47:03
 Categories: [network]
-Tags: [samba]
+tags: [samba]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Q&A: Common MySQL Development Mistakes"
 Date: 2016-12-09 09:11:00
 Categories: [data base]
-Tags: [MySQL, MariaDB, Percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

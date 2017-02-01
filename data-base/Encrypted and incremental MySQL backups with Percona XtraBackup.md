@@ -2,7 +2,7 @@
 Title: "Encrypted and incremental MySQL backups with Percona XtraBackup"
 Date: 2016-12-12 08:53:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

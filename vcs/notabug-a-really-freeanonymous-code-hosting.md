@@ -2,7 +2,7 @@
 Title: NotABug a really free/anonymous code hosting
 Date: 2016-09-19 14:19:38
 Categories: [vcs]
-Tags: [code hosting, NotABug]
+tags: [code hosting, notabug]
 Slug: notabug-a-really-freeanonymous-code-hosting
 Authors: sedlav
 ---

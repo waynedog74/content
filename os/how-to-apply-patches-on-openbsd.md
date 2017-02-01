@@ -2,7 +2,7 @@
 Title: How to apply patches on OpenBSD
 Date: 2016-08-30 01:30:21
 Categories: [os]
-Tags: [OpenBSD]
+tags: [openbsd]
 Slug: how-to-apply-patches-on-openbsd
 Authors: sedlav
 Summary: In this tutorial nixCraft explains how to patch and OpenBSD system.The **OpenBSD** project produces a FREE, multi-platform 4.4BSD-based UNIX-like ope

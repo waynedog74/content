@@ -2,7 +2,7 @@
 Title: Git behind a proxy
 Date: 2016-08-11 15:01:54
 Categories: [vcs]
-Tags: [Git]
+tags: [git]
 Slug: git-behind-a-proxy
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Leer ficheros XML eficientemente en PHP"
 Date: 2017-01-15 19:27:51
 Categories: [programming]
-Tags: [xml, php]
+tags: [xml, php]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "MySQL 8.0 Invisible Indexes"
 Date: 2017-01-15 16:13:12
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

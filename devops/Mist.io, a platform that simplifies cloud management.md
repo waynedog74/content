@@ -2,7 +2,7 @@
 Title: "Mist.io, a platform that simplifies cloud management"
 Date: 2016-11-11 16:07:00
 Categories: [devops]
-Tags: [mistio]
+tags: [mistio]
 Authors: sedlav
 ---
 

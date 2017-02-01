@@ -2,7 +2,7 @@
 Title: Introducing gnu emacs for complete beginners
 Date: 2016-11-29 09:15:00
 Categories: [editors]
-Tags: [emacs]
+tags: [emacs]
 Author: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "ReactiveX An API for asynchronous programming"
 Date: 2016-11-13 15:40:00
 Categories: [programming]
-Tags: [ReactiveX]
+tags: [reactivex]
 Authors: sedlav
 ---
 

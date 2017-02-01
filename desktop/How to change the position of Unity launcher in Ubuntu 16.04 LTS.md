@@ -2,7 +2,7 @@
 Title: "How to change the position of Unity launcher in Ubuntu 16.04 LTS"
 Date: 2016-12-16 16:39:00
 Categories: [desktop]
-Tags: [Unity]
+tags: [unity]
 Authors: sedlav
 ---
 

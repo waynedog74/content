@@ -1,7 +1,7 @@
 ---
 Title: How to configure a search engine for static site
 Categories: [cms]
-Tags: [javascript, jekyll, lunr.js, ruby]
+tags: [javascript, jekyll, lunr.js, ruby]
 Authors: sedlav
 Lang: en
 ---

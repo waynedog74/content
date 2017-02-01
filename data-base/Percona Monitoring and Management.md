@@ -2,7 +2,7 @@
 Title: "Percona Monitoring and Management"
 Date: 2017-01-15 16:17:05
 Categories: [data base]
-Tags: [percona, mysql, mongodb]
+tags: [percona, mysql, mongodb]
 Authors: sedlav
 ---
 

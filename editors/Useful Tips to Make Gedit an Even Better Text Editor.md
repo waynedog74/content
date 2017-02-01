@@ -2,7 +2,7 @@
 Title: Useful Tips to Make Gedit an Even Better Text Editor
 Date: 2017-01-24 22:45:49
 Categories: [editors]
-Tags: [Gedit]
+tags: [gedit]
 Author: sedlav
 ---
 

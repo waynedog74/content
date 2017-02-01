@@ -2,7 +2,7 @@
 Title: How to get started with Systemd.
 Date: 2017-01-16 18:21:53
 Categories: [os]
-Tags: [Systemd, RHEL, Fedora, CentOS]
+tags: [systemd, rhel, fedora, centos]
 Authors: sedlav
 ---
 

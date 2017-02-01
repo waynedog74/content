@@ -2,7 +2,7 @@
 Title: "CrateDB: The fast, scalable, easy to use SQL database with native full text search"
 Date: 2016-12-16 16:31:00
 Categories: [data base]
-Tags: [CrateDB]
+tags: [cratedb]
 Authors: sedlav
 ---
 

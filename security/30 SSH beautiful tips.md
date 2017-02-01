@@ -2,7 +2,7 @@
 Title: "30 SSH beautiful tips"
 Date: 2016-11-10 15:11:00
 Categories: [security]
-Tags: [ssh]
+tags: [ssh]
 Authors: sedlav
 ---
 

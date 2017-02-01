@@ -2,7 +2,7 @@
 Title: "LXD Backup script"
 Date: 2016-12-12 08:38:00
 Categories: [network]
-Tags: [lxdbackup, backup]
+tags: [lxdbackup, backup]
 Authors: sedlav
 ---
 

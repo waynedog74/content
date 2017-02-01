@@ -3,7 +3,7 @@ Title: 9 lessons from 25 years of Linux kernel development
 Date: 2016-12-15 09:49:00
 Categories:
   - os
-Tags:
+tags:
   - Linux
 Authors: sedlav
 ---

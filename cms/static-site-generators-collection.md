@@ -2,7 +2,7 @@
 Title: Static Site Generators Collection
 Date: 2016-10-06 13:04:46
 Categories: [cms]
-Tags: [static site generators]
+tags: [static site generators]
 Slug: static-site-generators-collection
 Authors: sedlav
 ---

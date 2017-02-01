@@ -2,7 +2,7 @@
 Title: Git detrás de un proxy o muro cortafuegos
 Date: 2017-01-15 19:35:49
 Categories: [vcs]
-Tags: [git]
+tags: [git]
 Authors: sedlav
 ---
 

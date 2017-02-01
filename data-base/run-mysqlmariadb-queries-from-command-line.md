@@ -2,7 +2,7 @@
 Title: "Run MySQL/MariaDB queries from command line"
 Date: 2016-08-22 14:20:01
 Categories: [data base]
-Tags: [MariaDB, MySQL]
+tags: [mariadb, mysql]
 Slug: run-mysqlmariadb-queries-from-command-line
 Authors: sedlav
 ---

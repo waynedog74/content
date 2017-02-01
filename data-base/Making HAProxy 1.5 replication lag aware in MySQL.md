@@ -2,7 +2,7 @@
 Title: "Making HAProxy 1.5 replication lag aware in MySQL"
 Date: 2016-11-11 15:47:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

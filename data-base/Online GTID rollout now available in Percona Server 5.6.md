@@ -2,7 +2,7 @@
 Title: "Online GTID rollout now available in Percona Server 5.6"
 Date: 2017-01-26 08:35:06
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

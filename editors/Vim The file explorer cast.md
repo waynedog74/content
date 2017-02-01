@@ -1,7 +1,7 @@
 ---
 Title: Vim The file explorer cast
 Categories: [editors]
-Tags: [vim]
+tags: [vim]
 Authors: sedlav
 Description: This episode demonstrates how Vim’s native file browser can be used to explore and manipulate the file system.
 ---

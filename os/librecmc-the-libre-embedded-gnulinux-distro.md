@@ -1,7 +1,7 @@
 ---
 Title: libreCMC - The libre Embedded GNU/Linux Distro.
 Date: 2016-09-11 13:01:40
-Tags: [libreCMC]
+tags: [librecmc]
 Categories: [os]
 Slug: librecmc-the-libre-embedded-gnulinux-distro
 Authors: sedlav

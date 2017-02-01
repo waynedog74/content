@@ -2,7 +2,7 @@
 Title: "5 GNU AWK practical examples"
 Date: 2016-12-23 14:37:00
 Categories: [programming]
-Tags: [awk]
+tags: [awk]
 Authors: sedlav
 ---
 

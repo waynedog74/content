@@ -2,7 +2,7 @@
 Title: "HMTL5 UP - beatiful HTML 5 templates for your site"
 Date: 2016-09-16 14:19:27
 Categories: [programming]
-Tags: [html, html5up, Libs]
+tags: [html, html5up, libs]
 Slug: hmtl5-up-beatiful-html-5-templates-for-your-site
 Authors: sedlav
 ---

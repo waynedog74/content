@@ -2,7 +2,7 @@
 Title: "How to configure Nginx with free Let’s Encrypt SSL certificate on Debian/Ubuntu"
 Date: 2016-09-04 01:33:30
 Categories: [web server]
-Tags: [Debian, Let’s Encrypt, nginx, Ubuntu]
+tags: [debian, let’s encrypt, nginx, ubuntu]
 Slug: how-to-configure-nginx-with-free-lets-encrypt-ssl-certificate-on-debianubuntu
 Authors: sedlav
 

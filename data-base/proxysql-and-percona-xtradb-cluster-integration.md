@@ -2,7 +2,7 @@
 Title: "ProxySQL and Percona XtraDB Cluster Integration"
 Date: 2016-09-16 16:25:15
 Categories: [data base]
-Tags: [MariaDB, MySQL]
+tags: [mariadb, mysql]
 Slug: proxysql-and-percona-xtradb-cluster-integration
 Authors: sedlav
 ---

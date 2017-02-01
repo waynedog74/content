@@ -2,7 +2,7 @@
 Title: How to Split Large tar Archive into Multiple Files
 Date: 2016-11-10 14:11:00
 Categories: [cli]
-Tags: [tar, split, cat]
+tags: [tar, split, cat]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Basic Housekeeping for MySQL Indexes"
 Date: 2017-01-15 16:04:17
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

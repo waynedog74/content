@@ -2,7 +2,7 @@
 Title: tr command examples
 Date: 2017-01-17 09:11:25
 Categories: [cli]
-Tags: [tr]
+tags: [tr]
 Authors: sedlav
 ---
 

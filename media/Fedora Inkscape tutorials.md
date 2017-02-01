@@ -2,7 +2,7 @@
 Title: "Fedora Inkscape tutorials"
 Date: 2016-12-14 09:57:00
 Categories: [media]
-Tags: [fedora, Inkscape]
+tags: [fedora, inkscape]
 Authors: sedlav
 ---
 

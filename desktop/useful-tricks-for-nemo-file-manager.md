@@ -2,7 +2,7 @@
 Title: "Useful tricks for Nemo file manager"
 Date: 2016-09-13 19:08:27
 Categories: [desktop]
-Tags: [File Manager, Nemo]
+tags: [file manager, nemo]
 Slug: useful-tricks-for-nemo-file-manager
 Authors: sedlav
 ---

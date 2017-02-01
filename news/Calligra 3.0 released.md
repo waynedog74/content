@@ -2,7 +2,7 @@
 Title: "Calligra 3.0 released"
 Date: 2017-01-18 19:35:18
 Categories: [news]
-Tags: [Calligra, Office]
+tags: [calligra, office]
 Authors: sedlav
 ---
 

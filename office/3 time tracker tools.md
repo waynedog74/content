@@ -2,7 +2,7 @@
 Title: "3 time tracker tools"
 Date: 2017-01-15 19:40:24
 Categories: [office]
-Tags: [Pomodoro, Anuko, Tomighty, FirefoxTimeTracker, browser-timetracker]
+tags: [pomodoro, anuko, tomighty, firefoxtimetracker, browser-timetracker]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Flexbox Grid - A grid system based on the flex display property"
 Date: 2016-12-21 09:31:00
 Categories: [webdev]
-Tags: [css frameworks]
+tags: [css frameworks]
 Authors: sedlav
 ---
 

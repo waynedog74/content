@@ -2,7 +2,7 @@
 Title: Find files and perform an action on them
 Date: 2016-08-13 22:23:20
 Categories: [cli]
-Tags: [find, while]
+tags: [find, while]
 Slug: find-files-and-perform-an-action-on-them
 ---
 

@@ -2,7 +2,7 @@
 Title: "Finding a good IST donor in Percona XtraDB Cluster 5.6"
 Date: 2016-12-01 08:46:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Handling Composer \"lock file out of date\" Warning"
 Date: 2017-01-29 14:40:52
 Categories: [programming]
-Tags: [php]
+tags: [php]
 Authors: sedlav
 ---
 

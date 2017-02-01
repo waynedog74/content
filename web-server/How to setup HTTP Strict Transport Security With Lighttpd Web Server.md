@@ -2,7 +2,7 @@
 Title: "How to setup HTTP Strict Transport Security With Lighttpd Web Server"
 Date: 2016-11-19 11:09:00
 Categories: [web server]
-Tags: [lighttpd]
+tags: [lighttpd]
 Authors: sedlav
 ---
 

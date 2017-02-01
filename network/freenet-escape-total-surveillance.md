@@ -2,7 +2,7 @@
 Title: "Freenet - Escape total surveillance"
 Date: 2016-08-25 15:17:24
 Categories: [network]
-Tags: [Freenet]
+tags: [freenet]
 Slug: freenet-escape-total-surveillance
 Authors: sedlav
 ---

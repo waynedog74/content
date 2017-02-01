@@ -2,7 +2,7 @@
 Title: "Query Language Type Overview"
 Date: 2017-01-02 11:06:00
 Categories: [data base]
-Tags: [MariaDB, MySQL, Percona]
+tags: [mariadb, mysql, percona]
 Authors: sedlav
 ---
 

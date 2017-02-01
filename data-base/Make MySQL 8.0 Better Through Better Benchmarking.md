@@ -2,7 +2,7 @@
 Title: "Make MySQL 8.0 Better Through Better Benchmarking"
 Date: 2016-12-03 19:46:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

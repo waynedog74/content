@@ -2,7 +2,7 @@
 Title: "How to manage FirewallD and Iptables services"
 Date: 2016-08-12 19:16:10
 Categories: [security]
-Tags: [CentOS, RHEL, Fedora, FirewallD, iptables]
+tags: [centos, rhel, fedora, firewalld, iptables]
 Slug: how-to-manage-firewalld-and-iptables-services
 Authors: sedlav
 ---

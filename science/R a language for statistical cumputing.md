@@ -2,7 +2,7 @@
 Title: R a language for statistical cumputing
 Date: 2017-01-15 19:33:38
 Categories: [science]
-Tags: [R, mathematics, statistics]
+tags: [r, mathematics, statistics]
 Authors: sedlav
 ---
 

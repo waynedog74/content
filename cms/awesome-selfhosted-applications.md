@@ -2,7 +2,7 @@
 Title: Awesome Selfhosted Applications
 Date: 2016-09-30 13:42:14
 Categories: [cms]
-Tags: [self hosted]
+tags: [self hosted]
 Slug: awesome-selfhosted-applications
 Authors: sedlav
 Summary: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting an

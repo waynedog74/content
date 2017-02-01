@@ -2,7 +2,7 @@
 Title: "Fix Request Entity Too Large Error"
 Date: 2016-09-06 04:24:39
 Categories: [web server]
-Tags: [nginx]
+tags: [nginx]
 Slug: fix-request-entity-too-large-error
 Authors: sedlav
 ---

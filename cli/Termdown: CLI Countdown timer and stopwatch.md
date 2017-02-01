@@ -2,7 +2,7 @@
 Title: "Termdown: CLI Countdown timer and stopwatch"
 Date: 2017-01-15 15:23:26
 Categories: [cli]
-Tags: [termdown]
+tags: [termdown]
 Authors: sedlav
 ---
 

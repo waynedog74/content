@@ -2,7 +2,7 @@
 Title: "Localhost is (sometimes) a network"
 Date: 2016-08-21 21:13:01
 Categories: [network]
-Tags: [localhost, loopback]
+tags: [localhost, loopback]
 Slug: localhost-is-sometimes-a-network
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "7 Awesome Open Source Web Performance Software"
 Date: 2017-01-18 19:10:38
 Categories: [network]
-Tags: [nginx, Varnish, HAProxy, Squid, Vulcand, Træfɪk, relayd]
+tags: [nginx, Varnish, haproxy, squid, Vulcand, træfɪk, relayd]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "LibriVox - free public domain audiobooks"
 Date: 2016-12-12 09:22:00
 Categories: [media]
-Tags: [LibriVox]
+tags: [libriVox]
 Authors: sedlav
 ---
 

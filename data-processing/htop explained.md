@@ -2,7 +2,7 @@
 Title: "htop explained"
 Date: 2016-11-24 17:50:00
 Categories: [data processing]
-Tags: [htop]
+tags: [htop]
 Authors: sedlav
 ---
 

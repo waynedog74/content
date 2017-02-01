@@ -2,7 +2,7 @@
 Title: "Are LXC and Docker secure?"
 Date: 2016-12-05 10:41:00
 Categories: [devops]
-Tags: [lxc, docker]
+tags: [lxc, docker]
 Authors: sedlav
 ---
 

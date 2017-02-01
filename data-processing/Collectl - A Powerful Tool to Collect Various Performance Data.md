@@ -2,7 +2,7 @@
 Title: "Collectl – A Powerful Tool to Collect Various Performance Data"
 Date: 2017-01-16 17:54:57
 Categories: [data processing]
-Tags: [Collectl]
+tags: [collectl]
 Authors: sedlav
 ---
 

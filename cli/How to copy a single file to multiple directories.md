@@ -2,7 +2,7 @@
 Title: How to copy a single file to multiple directories
 Date: 2017-01-18 09:27:39
 Categories: [cli]
-Tags: [cp, xargs, parallel, find]
+tags: [cp, xargs, parallel, find]
 Authors: sedlav
 ---
 

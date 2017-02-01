@@ -2,7 +2,7 @@
 Title: "10 MySQL Load Data Infile Examples to Upload Text File Data to Tables"
 Date: 2016-11-11 15:47:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Save memory by switching to generators"
 Date: 2016-09-04 03:31:00
 Categories: [programming]
-Tags: [Generators, PHP]
+tags: [generators, php]
 Slug: save-memory-by-switching-to-generators
 Authors: sedlav
 ---

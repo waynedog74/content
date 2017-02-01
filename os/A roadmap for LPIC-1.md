@@ -2,7 +2,7 @@
 Title: A roadmap for LPIC-1
 Date: 2016-12-27 11:05:00
 Categories: [os]
-Tags: [lpic]
+tags: [lpic]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "GoAccess A Real-Time Apache and Nginx Web Server Log Analyzer"
 Date: 2016-12-03 19:28:00
 Categories: [data processing]
-Tags: [GoAccess]
+tags: [goaccess]
 Authors: sedlav
 ---
 

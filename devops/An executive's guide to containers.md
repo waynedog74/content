@@ -2,7 +2,7 @@
 Title: "An executive's guide to containers"
 Date: 2017-01-26 09:51:27
 Categories: [devops]
-Tags: [docker]
+tags: [docker]
 Authors: sedlav
 ---
 

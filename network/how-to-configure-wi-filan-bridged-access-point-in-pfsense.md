@@ -2,7 +2,7 @@
 Title: "How to configure Wi-fi+Lan bridged access point in pfSense"
 Date: 2016-08-21 21:05:00
 Categories: [network]
-Tags: [pfsense]
+tags: [pfsense]
 Slug: how-to-configure-wi-filan-bridged-access-point-in-pfsense
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: RStudio, R language for the mass
 Date: 2017-01-15 19:33:47
 Categories: [science]
-Tags: [R, mathematics, statistics, RStudio]
+tags: [r, mathematics, statistics, rstudio]
 Authors: sedlav
 ---
 

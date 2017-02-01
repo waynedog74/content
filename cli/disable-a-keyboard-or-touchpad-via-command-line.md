@@ -2,7 +2,7 @@
 Title: Disable a keyboard or touchpad via command line
 Date: 2016-08-17 02:00:37
 Categories: [cli]
-Tags: [GNU/Linux, Tips]
+tags: [gnu/linux, tips]
 Slug: disable-a-keyboard-or-touchpad-via-command-line
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "All You Need to Know About GCache (Galera-Cache)"
 Date: 2016-12-01 08:31:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

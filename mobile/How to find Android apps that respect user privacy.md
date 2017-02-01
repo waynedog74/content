@@ -2,7 +2,7 @@
 Title: How to find Android apps that respect user privacy
 Date: 2016-12-23 15:01:00
 Categories: [mobile]
-Tags: [android, apps]
+tags: [android, apps]
 Authors: sedlav
 ---
 

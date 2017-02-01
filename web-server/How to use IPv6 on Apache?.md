@@ -2,7 +2,7 @@
 Title: "How to use IPv6 on Apache?"
 Date: 2016-12-23 14:27:00
 Categories: [web server]
-Tags: [apache]
+tags: [apache]
 Authors: sedlav
 ---
 

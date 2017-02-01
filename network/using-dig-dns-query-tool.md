@@ -2,7 +2,7 @@
 Title: "Using Dig DNS query tool"
 Date: 2016-09-23 13:45:45
 Categories: [network]
-Tags: [dig, DNS]
+tags: [dig, dns]
 Slug: using-dig-dns-query-tool
 Authors: sedlav
 ---

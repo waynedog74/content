@@ -2,7 +2,7 @@
 Title: diffoscope progress bar
 Date: 2016-10-03 10:27:29
 Categories: [cli]
-Tags: [diffoscope]
+tags: [diffoscope]
 Slug: diffoscope-progress-bar
 Authors: sedlav
 ---

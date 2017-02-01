@@ -2,7 +2,7 @@
 Title: "log.io - Real-time log monitoring in your browser"
 Date: 2016-09-07 15:30:31
 Categories: [data processing]
-Tags: [logio]
+tags: [logio]
 Slug: log-io-real-time-log-monitoring-in-your-browser
 Authors: sedlav
 ---

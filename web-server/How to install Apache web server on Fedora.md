@@ -2,7 +2,7 @@
 Title: "How to install Apache web server on Fedora"
 Date: 2017-01-16 17:45:29
 Categories: [web server]
-Tags: [Apache]
+tags: [apache]
 Authors: sedlav
 ---
 

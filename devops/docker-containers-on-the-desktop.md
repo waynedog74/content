@@ -2,7 +2,7 @@
 Title: "Docker Containers on the Desktop"
 Date: 2016-09-07 03:12:27
 Categories: [devops]
-Tags: [docker]
+tags: [docker]
 Slug: docker-containers-on-the-desktop
 Authors: sedlav
 ---

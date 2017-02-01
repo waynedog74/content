@@ -2,7 +2,7 @@
 Title: "InnoDB’s multi-versioning handling"
 Date: 2017-01-20 10:46:26
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

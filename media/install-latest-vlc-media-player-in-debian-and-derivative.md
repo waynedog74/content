@@ -2,7 +2,7 @@
 Title: "Install latest VLC media player in Debian and derivative"
 Date: 2016-08-17 22:20:19
 Categories: [media]
-Tags: [Debian, Mint, Ubuntu, VLC]
+tags: [debian, mint, ubuntu, Vlc]
 Slug: install-latest-vlc-media-player-in-debian-and-derivative
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "How to change the Fedora's font rendering to look like Ubuntu"
 Date: 2016-09-13 19:23:41
 Categories: [desktop]
-Tags: [Fedora, fonts]
+tags: [fedora, fonts]
 Slug: how-to-change-the-fedoras-font-rendering-to-look-like-ubuntu
 Authors: sedlav
 ---

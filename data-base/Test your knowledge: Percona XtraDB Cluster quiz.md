@@ -2,7 +2,7 @@
 Title: "Test your knowledge: Percona XtraDB Cluster (PXC) quiz"
 Date: 2017-01-29 13:47:06
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

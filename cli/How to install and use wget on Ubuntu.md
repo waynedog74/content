@@ -2,7 +2,7 @@
 Title: How to install and use wget on Ubuntu
 Date: 2017-01-30 08:49:32
 Categories: [cli]
-Tags: [Ubuntu, wget]
+tags: [ubuntu, wget]
 Authors: sedlav
 ---
 

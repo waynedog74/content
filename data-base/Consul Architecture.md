@@ -2,7 +2,7 @@
 Title: "Consul Architecture"
 Date: 2017-01-15 16:05:47
 Categories: [data base]
-Tags: [mysql, percona, consul]
+tags: [mysql, percona, consul]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Making good bug reports"
 Date: 2017-01-15 19:28:01
 Categories: [programming]
-Tags: [bug, qa]
+tags: [bug, qa]
 Authors: sedlav
 ---
 

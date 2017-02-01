@@ -2,7 +2,7 @@
 Title: 3 graphical tools for Git
 Date: 2016-08-09 21:39:08
 Categories: [vcs]
-Tags: [Git]
+tags: [git]
 Slug: 3-graphical-tools-for-git
 Authors: sedlav
 ---

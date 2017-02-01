@@ -2,7 +2,7 @@
 Title: "Introduction to Weechat"
 Date: 2016-10-08 16:57:03
 Categories: [network]
-Tags: [im, Weechat]
+tags: [im, weechat]
 Slug: introduction-to-weechat
 Authors: sedlav
 ---

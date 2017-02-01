@@ -2,7 +2,7 @@
 Title: "How to install kannel sms gateway on Debian"
 Date: 2017-01-02 11:44:00
 Categories: [network]
-Tags: [Debian, kannel, sms gateway]
+tags: [debian, kannel, sms gateway]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: 12 Useful Commands For Filtering Text
 Date: 2017-01-09 17:11:00
 Categories: [Awk, sed, Grep, head, tail, sort, uniq, fmt, pr, tr, more, less]
-Tags: [grep]
+tags: [grep]
 Authors: sedlav
 ---
 

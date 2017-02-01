@@ -2,7 +2,7 @@
 Title: "Updated Debian 8: 8.7 released"
 Date: 2017-01-17 09:38:10
 Categories: [news]
-Tags: [Debian]
+tags: [debian]
 Authors: sedlav
 ---
 

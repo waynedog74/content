@@ -2,7 +2,7 @@
 Title: "AWK - How to Use Regular Expressions"
 Date: 2017-01-15 19:21:57
 Categories: [programming]
-Tags: [awk, regular expression]
+tags: [awk, regular expression]
 Authors: sedlav
 ---
 

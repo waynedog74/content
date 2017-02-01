@@ -2,7 +2,7 @@
 Title: Password management with pass
 Date: 2016-08-11 14:35:42
 Categories: [cli]
-Tags: [pass]
+tags: [pass]
 Slug: password-management-with-pass
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Min a Web browser with a minimal design"
 Date: 2017-01-11 16:19:00
 Categories: [network]
-Tags: [Min, Web browser]
+tags: [min, web browser]
 Authors: sedlav
 ---
 

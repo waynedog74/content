@@ -2,7 +2,7 @@
 Title: How to locate a binary on GNU/Linux?
 Date: 2016-08-23 19:19:19
 Categories: [cli]
-Tags: [whereis]
+tags: [whereis]
 Slug: how-to-locate-a-binary-on-gnulinux
 Authors: sedlav
 ---

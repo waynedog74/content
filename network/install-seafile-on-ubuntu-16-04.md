@@ -2,7 +2,7 @@
 Title: "Install Seafile on Ubuntu 16.04"
 Date: 2016-08-29 15:18:57
 Categories: [network]
-Tags: [Seafile]
+tags: [seafile]
 Slug: install-seafile-on-ubuntu-16-04
 Authors: sedlav
 ---

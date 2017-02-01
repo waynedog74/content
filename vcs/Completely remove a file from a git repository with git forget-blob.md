@@ -2,7 +2,7 @@
 Title: Completely remove a file from a git repository with git forget-blob
 Date: 2017-01-25 08:59:14
 Categories: [vcs]
-Tags: [Git, GitLab]
+tags: [git, gitlab]
 Authors: sedlav
 ---
 

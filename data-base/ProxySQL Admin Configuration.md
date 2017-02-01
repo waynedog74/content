@@ -2,7 +2,7 @@
 Title: "ProxySQL Admin Configuration"
 Date: 2017-01-25 18:37:22
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

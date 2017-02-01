@@ -2,7 +2,7 @@
 Title: "Connect to a wireless network using command line"
 Date: 2016-09-07 03:00:57
 Categories: [network]
-Tags: [nmcli]
+tags: [nmcli]
 Slug: connect-to-a-wireless-network-using-command-line
 Authors: sedlav
 ---

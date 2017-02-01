@@ -2,7 +2,7 @@
 Title: "Alpine Linux 3.5.0 released"
 Date: 2016-12-26 14:32:00
 Categories: [news]
-Tags: [Alpine Linux]
+tags: [alpine linux]
 Authors: sedlav
 ---
 

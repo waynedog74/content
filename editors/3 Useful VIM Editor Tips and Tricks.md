@@ -2,7 +2,7 @@
 Title: 3 Useful VIM Editor Tips and Tricks
 Date: 2017-01-13 16:45:00
 Categories: [editors]
-Tags: [vim]
+tags: [vim]
 Author: sedlav
 ---
 

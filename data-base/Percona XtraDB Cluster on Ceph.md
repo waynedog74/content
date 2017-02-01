@@ -2,7 +2,7 @@
 Title: "Percona XtraDB Cluster on Ceph"
 Date: 2017-01-15 16:17:19
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

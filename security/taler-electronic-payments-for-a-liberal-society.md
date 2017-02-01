@@ -2,7 +2,7 @@
 Title: "Taler - Electronic payments for a liberal society!"
 Date: 2016-09-07 02:49:37
 Categories: [security]
-Tags: [Taler]
+tags: [taler]
 Slug: taler-electronic-payments-for-a-liberal-society
 Authors: sedlav
 ---

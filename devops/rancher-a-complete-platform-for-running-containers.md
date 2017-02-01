@@ -2,7 +2,7 @@
 Title: "Rancher a complete platform for running containers"
 Date: 2016-08-12 03:17:39
 Categories: [devops]
-Tags: [rancher, rancheros]
+tags: [rancher, rancheros]
 Slug: rancher-a-complete-platform-for-running-containers
 Authors: sedlav
 ---

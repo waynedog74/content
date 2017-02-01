@@ -2,7 +2,7 @@
 Title: "Percona Server 5.6.32-78.0 is now available"
 Date: 2016-08-23 15:30:24
 Categories: [news]
-Tags: [Percona]
+tags: [percona]
 Slug: percona-server-5-6-32-78-0-is-now-available
 Authors: sedlav
 ---

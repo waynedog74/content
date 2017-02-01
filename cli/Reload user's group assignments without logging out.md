@@ -2,7 +2,7 @@
 Title: "Reload user's group assignments without logging out"
 Date: 2017-01-27 17:00:23
 Categories: [cli]
-Tags: [usermod, id, su]
+tags: [usermod, id, su]
 Authors: sedlav
 ---
 

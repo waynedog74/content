@@ -2,7 +2,7 @@
 Title: "How to setup a PXC cluster with GTIDs"
 Date: 2017-01-26 08:42:25
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

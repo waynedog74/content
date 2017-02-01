@@ -2,7 +2,7 @@
 Title: How to Use Rsync to Sync files in GNU/Linux
 Date: 2016-08-19 14:47:51
 Categories: [cli]
-Tags: [rsync]
+tags: [rsync]
 Slug: how-to-use-rsync-to-sync-files-in-gnulinux
 Authors: sedlav
 ---

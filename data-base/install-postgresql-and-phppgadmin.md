@@ -2,7 +2,7 @@
 Title: "Install PostgreSQL and phpPgAdmin"
 Date: 2016-08-13 22:04:24
 Categories: [data base]
-Tags: [phpPgAdmin, PostgreSQL]
+tags: [phppgadmin, postgresql]
 Slug: install-postgresql-and-phppgadmin
 Authors: sedlav
 ---

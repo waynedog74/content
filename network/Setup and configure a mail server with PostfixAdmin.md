@@ -2,7 +2,7 @@
 Title: "Setup and configure a mail server with PostfixAdmin"
 Date: 2017-01-10 11:49:00
 Categories: [network]
-Tags: [PostfixAdmin, Postfix]
+tags: [postfixadmin, postfix]
 Authors: sedlav
 ---
 

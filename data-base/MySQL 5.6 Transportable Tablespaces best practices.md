@@ -2,7 +2,7 @@
 Title: "MySQL 5.6 Transportable Tablespaces best practices"
 Date: 2017-01-19 10:01:24
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

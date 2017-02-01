@@ -2,7 +2,7 @@
 Title: "How to secure a MongoDB installation"
 Date: 2017-01-17 09:32:33
 Categories: [nosql]
-Tags: [MongoDB]
+tags: [mongodb]
 Authors: sedlav
 ---
 

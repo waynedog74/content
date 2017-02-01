@@ -2,7 +2,7 @@
 Title: "Checking if a Slave Has Applied a Transaction from the Master"
 Date: 2016-11-10 15:50:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

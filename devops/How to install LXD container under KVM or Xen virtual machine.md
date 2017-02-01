@@ -2,7 +2,7 @@
 Title: "How to install LXD container under KVM or Xen virtual machine"
 Date: 2017-01-26 09:59:24
 Categories: [devops]
-Tags: [lxd, lxc, kvm]
+tags: [lxd, lxc, kvm]
 Authors: sedlav
 ---
 

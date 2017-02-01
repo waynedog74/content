@@ -2,7 +2,7 @@
 Title: "Percona XtraDB Cluster 5.6: a tale of 2 GTIDs"
 Date: 2017-01-26 08:39:23
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

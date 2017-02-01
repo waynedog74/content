@@ -2,7 +2,7 @@
 Title: "How to map static IP address using dnsmasq under LXD"
 Date: 2017-01-25 08:37:22
 Categories: [devops]
-Tags: [lxd, lxc, docker]
+tags: [lxd, lxc, docker]
 Authors: sedlav
 ---
 

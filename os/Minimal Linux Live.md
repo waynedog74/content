@@ -3,7 +3,7 @@ Title: Minimal Linux Live
 Date: 2017-01-30 08:58:02
 Categories:
   - os
-Tags:
+tags:
   - Ubuntu
   - Minimal
 Authors: sedlav

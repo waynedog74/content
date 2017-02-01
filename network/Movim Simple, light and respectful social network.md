@@ -2,7 +2,7 @@
 Title: "Movim Simple, light and respectful social network"
 Date: 2016-12-20 09:06:00
 Categories: [network]
-Tags: [movim]
+tags: [movim]
 Authors: sedlav
 ---
 

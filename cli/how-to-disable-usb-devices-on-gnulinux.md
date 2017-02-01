@@ -2,7 +2,7 @@
 Title: How to  disable USB Devices on GNU/Linux
 Date: 2016-09-23 13:40:01
 Categories: [cli]
-Tags: [CentOS, Fedora, RHEL, usb]
+tags: [centos, fedora, rhel, usb]
 Slug: how-to-disable-usb-devices-on-gnulinux
 Authors: sedlav
 ---

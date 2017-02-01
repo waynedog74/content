@@ -2,7 +2,7 @@
 Title: "12 lftp Commands to Manage Files with Examples"
 Date: 2016-12-06 18:26:00
 Categories: [network]
-Tags: [ftp, lftp]
+tags: [ftp, lftp]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Percona Monitoring and Management Information Script"
 Date: 2016-11-10 15:33:00
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

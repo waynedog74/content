@@ -2,7 +2,7 @@
 Title: "Use MySQL Shell Securely from Bash"
 Date: 2017-01-15 16:23:34
 Categories: [data base]
-Tags: [mysql, percona, mariadb]
+tags: [mysql, percona, mariadb]
 Authors: sedlav
 ---
 

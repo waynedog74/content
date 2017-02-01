@@ -2,7 +2,7 @@
 Title: How to delete user accounts and all file under home directory
 Date: 2016-09-22 13:44:16
 Categories: [cli]
-Tags: [adduser, deluser, passwd, userdel]
+tags: [adduser, deluser, passwd, userdel]
 Slug: how-to-delete-user-accounts-and-all-file-under-home-directory
 Authors: sedlav
 ---

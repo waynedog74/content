@@ -2,7 +2,7 @@
 Title: "Troubleshooting disk usage on a Linux server with ncdu"
 Date: 2016-12-06 09:52:00
 Categories: [data processing]
-Tags: [ncdu, du]
+tags: [ncdu, du]
 Authors: sedlav
 ---
 

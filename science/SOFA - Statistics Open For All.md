@@ -2,7 +2,7 @@
 Title: SOFA - Statistics Open For All
 Date: 2017-01-15 19:34:48
 Categories: [science]
-Tags: [SOFA, mathematics, statistics]
+tags: [sofa, mathematics, statistics]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Create a boost performance with small innodb_page_size"
 Date: 2016-08-11 02:48:35
 Categories: [data base]
-Tags: [InnoDB]
+tags: [innodb]
 Slug: create-a-boost-performance-with-small-innodb_page_size
 Authors: sedlav
 ---

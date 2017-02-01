@@ -2,7 +2,7 @@
 Title: "Install Lighttpd with PHP-FPM support on CentOS 7"
 Date: 2016-09-25 22:01:37
 Categories: [web server]
-Tags: [lighttpd]
+tags: [lighttpd]
 Slug: install-lighttpd-with-php-fpm-support-on-centos-7
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "DBA 101: Sometimes forgotten functionality in the MySQL client"
 Date: 2016-12-06 10:10:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

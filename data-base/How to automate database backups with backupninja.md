@@ -2,7 +2,7 @@
 Title: "How to automate database backups with backupninja"
 Date: 2017-01-12 13:25:00
 Categories: [data base]
-Tags: [backup, backupninja]
+tags: [backup, backupninja]
 Authors: sedlav
 ---
 

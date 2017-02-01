@@ -2,7 +2,7 @@
 Title: "Generators in PHP"
 Date: 2016-09-04 03:26:04
 Categories: [programming]
-Tags: [Generators, PHP]
+tags: [generators, php]
 Slug: generators-in-php
 Authors: sedlav
 ---

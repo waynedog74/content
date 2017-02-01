@@ -2,7 +2,7 @@
 Title: "Install and use Iptables a firewall for GNU/Linux"
 Date: 2016-08-29 15:52:06
 Categories: [security]
-Tags: [CentOS, Fedora, iptables, RHEL]
+tags: [centos, fedora, iptables, rhel]
 Slug: install-and-use-iptables-a-firewall-for-gnulinux
 Authors: sedlav
 ---

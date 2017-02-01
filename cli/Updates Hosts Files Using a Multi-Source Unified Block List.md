@@ -2,7 +2,7 @@
 Title: "Updates Hosts Files Using a Multi-Source Unified Block List"
 Date: 2017-01-17 11:13:35
 Categories: [cli]
-Tags: [hosts]
+tags: [hosts]
 Authors: sedlav
 ---
 

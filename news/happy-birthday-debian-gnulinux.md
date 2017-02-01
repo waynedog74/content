@@ -2,7 +2,7 @@
 Title: "Happy birthday Debian GNU/Linux!"
 Date: 2016-08-16 14:56:11
 Categories: [news]
-Tags: [Debian, Ubuntu]
+tags: [debian, ubuntu]
 Slug: happy-birthday-debian-gnulinux
 Authors: sedlav
 ---

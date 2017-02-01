@@ -2,7 +2,7 @@
 Title: "WHY USE LINUX CONTAINERS LXD VS KVM?"
 Date: 2017-01-16 17:58:12
 Categories: [devops]
-Tags: [LXD, KVM]
+tags: [lxd, kVm]
 Authors: sedlav
 ---
 

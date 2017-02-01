@@ -2,7 +2,7 @@
 Title: Creating a Custom WordPress Messaging System
 Date: 2016-12-15 10:12:00
 Categories: [cms]
-Tags: [Wordpress]
+tags: [wordpress]
 Authors: sedlav
 ---
 

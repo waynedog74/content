@@ -2,7 +2,7 @@
 Title: "Understanding Forms and Events in React"
 Date: 2017-01-12 16:41:00
 Categories: [programming]
-Tags: [React, javascript]
+tags: [react, javascript]
 Authors: sedlav
 ---
 

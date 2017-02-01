@@ -2,7 +2,7 @@
 Title: 10 Essential Linux Network Commands
 Date: 2017-01-24 23:00:31
 Categories: [cli]
-Tags: [Ping, Netstat, Tcpdump, Host, Tracepath, Ifconfig, "Ifdown/Ifup", Route, Nslookup, Dhclient, Whois]
+tags: [ping, netstat, tcpdump, host, tracepath, ifconfig, "ifdown/ifup", route, nslookup, dhclient, whois]
 Authors: sedlav
 ---
 

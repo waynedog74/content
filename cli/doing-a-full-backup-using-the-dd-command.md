@@ -2,7 +2,7 @@
 Title: Doing a full backup using the dd command
 Date: 2016-08-23 15:09:02
 Categories: [cli]
-Tags: [dd]
+tags: [dd]
 Slug: doing-a-full-backup-using-the-dd-command
 Authors: sedlav
 ---

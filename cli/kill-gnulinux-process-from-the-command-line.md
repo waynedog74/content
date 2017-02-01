@@ -2,7 +2,7 @@
 Title: Kill GNU/Linux process from the command line
 Date: 2016-08-21 21:52:04
 Categories: [cli]
-Tags: [kill, pkill]
+tags: [kill, pkill]
 Slug: kill-gnulinux-process-from-the-command-line
 Authors: sedlav
 ---

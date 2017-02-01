@@ -2,7 +2,7 @@
 Title: "MySQL Configuration Management"
 Date: 2017-01-15 16:13:27
 Categories: [data base]
-Tags: [percona, mysql, mariadb]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 

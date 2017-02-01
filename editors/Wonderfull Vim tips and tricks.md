@@ -2,7 +2,7 @@
 Title: Wonderfull Vim tips and tricks
 Date: 2017-01-14 22:21:12
 Categories: [editors]
-Tags: [vim]
+tags: [vim]
 Authors: sedlav
 ---
 

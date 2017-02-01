@@ -2,7 +2,7 @@
 Title: "Provisioning Vagrant boxes using Ansible"
 Date: 2016-08-29 15:45:44
 Categories: [devops]
-Tags: [Ansible, Vagrant]
+tags: [ansible, Vagrant]
 Slug: provisioning-vagrant-boxes-using-ansible
 Authors: sedlav
 ---

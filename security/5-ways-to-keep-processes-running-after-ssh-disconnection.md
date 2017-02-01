@@ -2,7 +2,7 @@
 Title: "5 Ways to Keep Processes Running After SSH Disconnection"
 Date: 2016-10-02 21:49:38
 Categories: [security]
-Tags: [disown, nohup, screen, setsid, ssh, tmux]
+tags: [disown, nohup, screen, setsid, ssh, tmux]
 Slug: 5-ways-to-keep-processes-running-after-ssh-disconnection
 Authors: sedlav
 ---

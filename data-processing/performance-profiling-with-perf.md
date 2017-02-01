@@ -2,7 +2,7 @@
 Title: "Performance profiling with perf"
 Date: 2016-08-16 14:40:18
 Categories: [data processing]
-Tags: [perf, performance, profiling]
+tags: [perf, performance, profiling]
 Slug: performance-profiling-with-perf
 Authors: sedlav
 ---

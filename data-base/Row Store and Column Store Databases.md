@@ -2,7 +2,7 @@
 Title: "Row Store and Column Store Databases"
 Date: 2016-12-16 16:55:00
 Categories: [data base]
-Tags: [Row Store, Column Store]
+tags: [row store, column store]
 Authors: sedlav
 ---
 

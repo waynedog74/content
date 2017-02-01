@@ -2,7 +2,7 @@
 Title: "Manage MongoDB with Mongotron"
 Date: 2016-10-08 18:16:27
 Categories: [nosql]
-Tags: [AngularJS, Electron, Javascript, MongoDB, Mongotron, Node.js]
+tags: [angularjs, electron, javascript, mongodb, mongotron, node.js]
 Slug: manage-mongodb-with-mongotron
 Authors: sedlav
 ---

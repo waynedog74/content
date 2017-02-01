@@ -2,7 +2,7 @@
 Title: "Work sprints with a Pomodoro timer"
 Date: 2016-12-27 14:08:00
 Categories: [office]
-Tags: [Pomodoro]
+tags: [pomodoro]
 Authors: sedlav
 ---
 

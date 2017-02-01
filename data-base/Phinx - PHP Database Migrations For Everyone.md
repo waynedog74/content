@@ -2,7 +2,7 @@
 Title: "Phinx - PHP Database Migrations For Everyone"
 Date: 2016-12-15 10:19:00
 Categories: [data base]
-Tags: [Phinx, migration tool]
+tags: [phinx, migration tool]
 Authors: sedlav
 ---
 

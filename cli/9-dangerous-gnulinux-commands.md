@@ -2,7 +2,7 @@
 Title: 9 dangerous GNU/Linux commands 
 Date: 2016-09-04 02:34:21
 Categories: [cli]
-Tags: [fork bomb, rm]
+tags: [fork bomb, rm]
 Slug: 9-dangerous-gnulinux-commands
 Authors: sedlav
 ---

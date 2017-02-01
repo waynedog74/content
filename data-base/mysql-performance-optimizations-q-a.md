@@ -2,7 +2,7 @@
 Title: "MySQL Performance Optimizations: Q & A"
 Date: 2016-08-20 21:24:14
 Categories: [data base]
-Tags: [FAQ, MySQL]
+tags: [faq, mysql]
 Slug: mysql-performance-optimizations-q-a
 Authors: sedlav
 ---

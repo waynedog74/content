@@ -3,7 +3,7 @@ Title: Basics Of Linux File Permissions
 Date: 2016-08-17 14:42:33
 Categories:
   - os
-Tags:
+tags:
   - chmod
   - chown
 Slug: basics-of-linux-file-permissions

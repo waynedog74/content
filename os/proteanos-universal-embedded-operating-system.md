@@ -2,7 +2,7 @@
 Title: ProteanOS - Universal Embedded Operating System
 Date: 2016-09-11 13:05:39
 Categories: [os]
-Tags: [ProteanOS]
+tags: [proteanos]
 Slug: proteanos-universal-embedded-operating-system
 Authors: sedlav
 ---

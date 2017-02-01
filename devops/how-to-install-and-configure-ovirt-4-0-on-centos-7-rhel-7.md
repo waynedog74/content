@@ -2,7 +2,7 @@
 Title: "How to install and configure oVirt 4.0 on CentOS 7 / RHEL 7"
 Date: 2016-09-22 13:32:35
 Categories: [devops]
-Tags: [Ovirt]
+tags: [ovirt]
 Slug: how-to-install-and-configure-ovirt-4-0-on-centos-7-rhel-7
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: ShellJS - Unix shell commands for Node.js
 Date: 2016-11-11 16:00:00
 Categories: [cli]
-Tags: [shelljs, nodejs]
+tags: [shelljs, nodejs]
 Authors: sedlav
 ---
 

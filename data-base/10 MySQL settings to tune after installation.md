@@ -2,7 +2,7 @@
 Title: "10 MySQL settings to tune after installation"
 Date: 2016-11-24 17:45:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

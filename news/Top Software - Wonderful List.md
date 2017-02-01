@@ -2,7 +2,7 @@
 Title: "Top Software - Wonderful List"
 Date: 2017-01-16 18:36:27
 Categories: [news]
-Tags: [apps]
+tags: [apps]
 Authors: sedlav
 ---
 

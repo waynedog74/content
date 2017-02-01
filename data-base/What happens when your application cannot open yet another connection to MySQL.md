@@ -2,7 +2,7 @@
 Title: "What happens when your application cannot open yet another connection to MySQL"
 Date: 2017-01-19 09:59:23
 Categories: [data base]
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

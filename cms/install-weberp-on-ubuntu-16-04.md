@@ -2,7 +2,7 @@
 Title: Install WebERP On Ubuntu 16.04
 Date: 2016-09-04 01:24:54
 Categories: [cms]
-Tags: [Debian, Ubuntu, webERP]
+tags: [debian, ubuntu, weberp]
 Slug: install-weberp-on-ubuntu-16-04
 Authors: sedlav
 ---

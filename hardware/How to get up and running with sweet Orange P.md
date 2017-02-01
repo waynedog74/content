@@ -2,7 +2,7 @@
 Title: How to get up and running with sweet Orange Pi
 Date: 2017-01-31 09:17:33
 Categories: [hardware]
-Tags: [Orange Pi Raspberry Pi]
+tags: [orange pi raspberry pi]
 Authors: sedlav
 ---
 

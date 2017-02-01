@@ -2,7 +2,7 @@
 Title: "Load balancing with ProxySQL"
 Date: 2016-11-22 18:50:00
 Categories: [data base]
-Tags: [mysql, mariadb, percona, proxysql]
+tags: [mysql, mariadb, percona, proxysql]
 Authors: sedlav
 ---
 

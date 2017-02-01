@@ -2,7 +2,7 @@
 Title: "How Apache Spark makes your slow MySQL queries 10x faster"
 Categories: [data base]
 Date: 2017-01-15 16:07:51
-Tags: [mysql, mariadb, percona]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "Ffmpeg webm video encoding, seeking and scaling"
 Date: 2017-01-10 11:27:00
 Categories: [media]
-Tags: [ffmpeg]
+tags: [ffmpeg]
 Authors: sedlav
 ---
 
