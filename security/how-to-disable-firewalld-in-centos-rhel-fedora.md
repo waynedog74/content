@@ -11,7 +11,9 @@ I do not recommend to disable the firewall on server but if you are doing some t
 
 Type the following command in your console
 
-```$ sudo systemctl disable firewalld.service```
+```
+$ sudo systemctl disable firewalld.service
+```
 
 You can view the service status with:
 
