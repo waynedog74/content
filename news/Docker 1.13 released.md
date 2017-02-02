@@ -1,5 +1,5 @@
 ---
-Title: " Docker 1.13 released"
+Title: "Docker 1.13 released"
 Date: 2017-01-20 10:43:48
 Categories: [news]
 tags: [docker]
