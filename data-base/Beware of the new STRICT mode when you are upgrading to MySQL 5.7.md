@@ -1,7 +1,7 @@
 ---
 Title: "Beware of the new STRICT mode when you are upgrading to MySQL 5.7"
 Categories: [data base]
-tags: [percona, mysql]
+tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---
 
