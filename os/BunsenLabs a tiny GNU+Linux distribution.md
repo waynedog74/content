@@ -4,8 +4,8 @@ Date: 2016-11-13 11:53:00
 Categories:
   - os
 tags:
-  - BunsenLabs
-  - Debian
+  - bunsenlabs
+  - debian
 Authors: sedlav
 ---
 
