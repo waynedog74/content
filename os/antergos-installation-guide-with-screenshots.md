@@ -1,10 +1,8 @@
 ---
 Title: Antergos installation guide with screenshots
 Date: 2016-08-29 14:38:44
-Categories:
-  - os
-tags:
-  - AntergOS
+Categories: [os]
+tags: [antergos]
 Slug: antergos-installation-guide-with-screenshots
 Authors: sedlav
 Summary: Today, we will show you how to install Antergos, an Arch based distribution that comes with a graphical installer to make the installation much easi
