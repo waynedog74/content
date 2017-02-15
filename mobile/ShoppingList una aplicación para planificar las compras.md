@@ -1,5 +1,5 @@
 ---
-Title: "[Video] ShoppingList una aplicación para planificar las compras "
+Title: "[Video] ShoppingList una aplicación para planificar las compras"
 Date: 2017-02-10 10:36:02
 Categories: [mobile]
 tags: [shoppinglist]
