@@ -1,6 +1,6 @@
 ---
 Title: "[Video] Simpletask Cloudless administrador de tareas (todo manager) para Android"
-Date: 2017-02-10 10:36:02
+Date: 2017-02-14 19:47:33
 Categories: [mobile]
 tags: [simpletask cloudless, android]
 Authors: sedlav
