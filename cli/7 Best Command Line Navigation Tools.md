@@ -1,5 +1,5 @@
 ---
-Title:  Best Command Line Navigation Tools
+Title: Best Command Line Navigation Tools
 Date: 2016-11-19 14:49:00
 Categories: [cli]
 tags: [fasd, autojump, shonenjump, z, v, goto, fzf]
