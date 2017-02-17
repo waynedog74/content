@@ -3,7 +3,6 @@ Title: "A comprehensive guide to taking screenshots using gnome-screenshot"
 Date: 2017-02-06 08:20:33
 Categories: [desktop]
 tags: [gnome-screenshot, gnome, screenshots]
-Slug: fixing-ugly-fonts-in-fedora
 Authors: sedlav
 ---
 
