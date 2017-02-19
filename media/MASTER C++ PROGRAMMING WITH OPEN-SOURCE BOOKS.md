@@ -3,7 +3,7 @@ Title: "MASTER C++ PROGRAMMING WITH OPEN-SOURCE BOOKS"
 Date: 2017-02-18 21:20:47
 Categories: [media]
 tags: [books, programming, c++]
-Url: "master-c++-programming-with-open-source-books"
+Slug: "master-cpp-programming-with-open-source-books"
 Authors: sedlav
 ---
 
