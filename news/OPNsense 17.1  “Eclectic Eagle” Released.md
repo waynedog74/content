@@ -2,7 +2,7 @@
 Title: "OPNsense 17.1  “Eclectic Eagle” Released"
 Date: 2017-02-01 08:51:39
 Categories: [news]
-tags: [ñonsense, bsd]
+tags: [opnsense, bsd]
 Authors: sedlav
 ---
 
