@@ -6,6 +6,6 @@ tags: [kazam, screen recording]
 Authors: sedlav
 ---
 
-> Green Recorder is a functional desktop screen recorder for Linux systems that was built using GTK+ 3, FFmpeg, and Python. It support video and audio recording on almost all Linux interfaces and Wayland support (GNOME session) will be added soon.
+> Kazam is one of the best screen recording tool for Ubuntu and Linux Mint Desktop. It records the contents of your desktop and create a video file which can be played in most of video player which supports VP8 and WebM video format. 
 
-[Link](https://www.fossmint.com/green-recorder-linux-desktop-recording-tool/)
+[Link](http://www.linuxtechi.com/record-desktop-session-with-kazam-ubuntu-linuxmint)
