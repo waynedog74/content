@@ -2,7 +2,7 @@
 Title: "Screen recording with ffmpeg"
 Date: 2017-02-21 10:13:17
 Categories: [media]
-tags: [ffmpeg]
+tags: [ffmpeg, screen recording]
 Authors: sedlav
 ---
 

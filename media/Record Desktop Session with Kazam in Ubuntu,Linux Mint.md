@@ -1,8 +1,8 @@
 ---
-Title: "Green Recorder – A Simple Desktop Recording Tool"
-Date: 2017-02-21 09:44:37
+Title: "Record Desktop Session with Kazam in Ubuntu / Linux Mint"
+Date: 2017-02-22 11:12:00
 Categories: [media]
-tags: [green recorder, screen recorder]
+tags: [kazam, screen recording]
 Authors: sedlav
 ---
 

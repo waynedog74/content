@@ -2,7 +2,7 @@
 Title: "How to capture and stream your gaming session on Linux"
 Date: 2017-02-02 13:30:38
 Categories: [media]
-tags: [obs]
+tags: [obs, screen recording]
 Authors: sedlav
 ---
 
