@@ -6,6 +6,6 @@ tags: [collectl]
 Authors: sedlav
 ---
 
->  collectl is a feature rich command line utility which collect all the possible data from the system with varies aspect but most of the other monitoring tools have certain limitation to log the metrics.
+> collectl is a feature rich command line utility which collect all the possible data from the system with varies aspect but most of the other monitoring tools have certain limitation to log the metrics.
 
 [Link](http://www.2daygeek.com/collectl-monitor-system-resources-linux/)
