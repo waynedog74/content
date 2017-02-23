@@ -2,7 +2,7 @@
 Title: "Use Oranchelo Icons Flat to Beautify Your Desktop"
 Date: 2017-02-23 08:28:40
 Categories: [desktop]
-tags: [oranchelo, icon them]
+tags: [oranchelo, icon theme]
 Authors: sedlav
 ---
 
