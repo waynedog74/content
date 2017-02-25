@@ -1,5 +1,6 @@
 ---
 Title: "JS Foundation is now a Linux Foundation Project"
+Date: 2017-02-24 19:32:56
 Categories: [news]
 tags: [javascript, linux foundation, js foundation]
 Authors: sedlav

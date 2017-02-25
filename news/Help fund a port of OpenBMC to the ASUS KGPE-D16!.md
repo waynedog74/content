@@ -1,5 +1,6 @@
 ---
 Title: "Help fund a port of OpenBMC to the ASUS KGPE-D16!"
+Date: 2017-02-24 19:33:03
 Categories: [news]
 tags: [openbmc, asus]
 Authors: sedlav
