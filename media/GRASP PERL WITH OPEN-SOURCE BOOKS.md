@@ -1,5 +1,5 @@
 ---
-Title: "GRASP PERL with open-source books"
+Title: "Grasp PERL with open-source books"
 Date: 2017-02-27 12:13:12
 Categories: [media]
 tags: [books, perl]
