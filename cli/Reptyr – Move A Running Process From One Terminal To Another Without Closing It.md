@@ -2,7 +2,7 @@
 Title: Reptyr – Move A Running Process From One Terminal To Another Without Closing It
 Date: 2017-01-09 17:16:00
 Categories: [cli]
-tags: [sudo, sudoers]
+tags: [reptyr]
 Authors: sedlav
 ---
 
