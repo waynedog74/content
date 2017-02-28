@@ -1,8 +1,8 @@
 ---
-Title: "Getting Node.js Testing and TDD Right - Node.js at Scale"
+Title: "How to prevent NoSQL injections in MongoDB in a Node.js app"
 Date: 2017-02-27 17:28:36
 Categories: [programming]
-tags: [nodejs, tdd]
+tags: [nodejs, mongodb]
 Authors: sedlav
 ---
 
