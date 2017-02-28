@@ -1,6 +1,6 @@
 ---
 Title: "How to prevent NoSQL injections in MongoDB in a Node.js app"
-Date: 2017-02-27 17:28:36
+Date: 2017-02-28 10:21:40
 Categories: [programming]
 tags: [nodejs, mongodb]
 Authors: sedlav
