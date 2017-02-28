@@ -6,6 +6,6 @@ tags: [nodejs, mongodb]
 Authors: sedlav
 ---
 
-> Making changes to a large codebase and making sure it works is a huge deal in software development. We've already talked about a few great features of Node.js testing before, and it is very important to emphasize how crucial it is to have your code tested before you release it to your users.
+> The injections we referred to in the last article are based on object injection: if the attacker is able to have an object injected where a string is expected he can be able to forge a malicious MongoDB query.
 
-[Link](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/)
+[Link](https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/)

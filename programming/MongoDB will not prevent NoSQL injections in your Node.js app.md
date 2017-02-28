@@ -6,6 +6,6 @@ tags: [nodejs, mongodb]
 Authors: sedlav
 ---
 
-> The injections we referred to in the last article are based on object injection: if the attacker is able to have an object injected where a string is expected he can be able to forge a malicious MongoDB query.
+> Using a NoSQL database does not mean that injections are not possible. This article shows how a Node.js application based on Express and using MongoDB (with Mongoose ORM) can be vulnerable to NoSQL injections.
 
-[Link](https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/)
+[Link](https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/)
