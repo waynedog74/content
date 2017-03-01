@@ -1,11 +1,11 @@
 ---
-Title: "Implementing URL Paths in NodeJs"
-Date: 2017-03-01 11:15:09
+Title: "Building a Simple API using Opulence PHP"
+Date: 2017-02-09 09:16:32
 Categories: [programming]
-tags: [nodejs]
+tags: [php, opulence]
 Authors: sedlav
 ---
 
-> In order to implement a URL path in NodeJs, we simply have to route requests and send responses back from the server based on the url sent in the request. There is no physical path or directory we are referring to, just a virtual path coded into the server. So how do we implement that?
+> This tutorial will show you how to code a simple JSON API using Opulence PHP. We will install Opulence’s skeleton project using composer, then create a ‘user’ database entity, and finally we will match CRUD (Create, Read, Update, Delete) to POST, GET, PUT, and DELETE.
 
 [Link](http://kizu514.com/blog/building-a-simple-api-using-opulence-php/)
