@@ -12,7 +12,7 @@ You must combine tail and grep in this way:
 # tail -f log_file | grep pattern
 ```
 
-For example looks for a specific IP in Apache log.
+For example watch for a specific IP in the Apache log.
 
 ```
 # tail -f /var/log/httpd/access_log | grep IP-address
