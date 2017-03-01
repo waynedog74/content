@@ -1,10 +1,8 @@
 ---
 Title: A beginner's introduction to snaps  package format
 Date: 2016-08-23 15:23:28
-Categories:
-  - os
-tags:
-  - snapcraft
+Categories: [os]
+tags: [snapcraft]
 Slug: a-beginners-introduction-to-snaps-package-format
 Authors: sedlav
 Summary: What are snaps and why you should use them? The Linux ecosystem has suffered from an old problem since the dawn of the concept of 'distribution', an
