@@ -2,7 +2,7 @@
 Title: 5 hotel booking plugin for WordPress
 Date: 2017-03-03 11:49:51
 Categories: [cms]
-tags: [plugins]
+tags: [plugins, wordpress]
 Authors: sedlav
 ---
 
