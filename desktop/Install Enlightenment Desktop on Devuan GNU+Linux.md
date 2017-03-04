@@ -3,6 +3,7 @@ Title: "Install Enlightenment Desktop on Devuan GNU+Linux"
 Date: 2017-03-04 09:57:56
 Categories: [news]
 tags: ["gnu/linux", devuan]
+Slug: install-enlightenment-desktop-on-devuan-gnu-linux
 Authors: sedlav
 ---
 

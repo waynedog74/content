@@ -3,6 +3,7 @@ Title: "How To Set Password Policies In GNU/Linux"
 Date: 2017-03-04 09:46:04
 Categories: [security]
 tags: [pam, passwd]
+Slug: how-to-set-password-policies-in-gnu-linux
 Authors: sedlav
 ---
 
