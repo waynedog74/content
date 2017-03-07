@@ -2,7 +2,7 @@
 Title: "Configure exim4 smtp relay to use tls on connect"
 Date: 2017-03-06 20:44:15
 Categories: [network]
-tags: [exim, exim4]
+tags: [exim, exim4, smtp]
 Authors: sedlav
 ---
 
