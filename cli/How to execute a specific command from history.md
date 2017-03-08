@@ -1,6 +1,6 @@
 ---
 Title: How to execute specific command from the history.
-Date: 2017-01-24 19:12:26
+Date: 2017-03-07 19:18:08
 Categories: [cli]
 tags: [bash, shell, history]
 Authors: sedlav
