@@ -2,7 +2,7 @@
 Title: "Getting Node.js Testing and TDD Right - Node.js at Scale"
 Date: 2017-02-27 17:28:36
 Categories: [programming]
-tags: [nodejs, tdd]
+tags: [nodejs, tdd, javascript]
 Authors: sedlav
 ---
 

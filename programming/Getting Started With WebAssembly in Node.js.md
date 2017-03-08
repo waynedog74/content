@@ -2,7 +2,7 @@
 Title: "Getting Started With WebAssembly in Node.js"
 Date: 2017-03-06 20:47:36
 Categories: [programming]
-tags: [nodejs, webassembly]
+tags: [nodejs, webassembly, javascript]
 Authors: sedlav
 ---
 

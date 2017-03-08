@@ -2,7 +2,7 @@
 Title: "Developing Beautiful APIs in Node"
 Date: 2017-03-02 09:27:07
 Categories: [programming]
-tags: [nodejs]
+tags: [nodejs, javascript]
 Authors: sedlav
 ---
 

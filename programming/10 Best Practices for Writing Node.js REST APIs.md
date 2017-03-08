@@ -2,7 +2,7 @@
 Title: "10 Best Practices for Writing Node.js REST APIs"
 Date: 2017-02-27 16:52:54
 Categories: [programming]
-tags: [nodejs]
+tags: [nodejs, javascript]
 Authors: sedlav
 ---
 
