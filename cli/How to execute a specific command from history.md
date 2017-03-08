@@ -6,7 +6,7 @@ tags: [bash, shell, history]
 Authors: sedlav
 ---
 
-Execute history command to see what command have you been executed.
+Execute **history** command to see what command have you been executed.
 
 ```
 $ history
