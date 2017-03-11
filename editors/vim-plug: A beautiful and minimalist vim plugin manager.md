@@ -1,5 +1,5 @@
 ---
-Title: vim-plug: A beautiful and minimalist vim plugin manager
+Title: "vim-plug - A beautiful and minimalist vim plugin manager"
 Date: 2017-03-11 14:55:43
 Categories: [editors]
 tags: [vim]
