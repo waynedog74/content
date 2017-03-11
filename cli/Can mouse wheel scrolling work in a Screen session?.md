@@ -1,6 +1,6 @@
 ---
 Title: Can mouse wheel scrolling work in a Screen session?
-Date: 2017-01-24 19:12:26
+Date: 2017-03-11 11:19:50
 Categories: [cli]
 tags: [screen]
 Authors: sedlav
