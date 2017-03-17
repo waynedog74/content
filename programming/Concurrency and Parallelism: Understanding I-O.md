@@ -1,6 +1,6 @@
 ---
 Title: "Concurrency and Parallelism: Understanding I/O"
-Date: 2017-01-29 13:54:00
+Date: 2017-03-17 00:06:33
 Categories: [programming]
 Slug: concurrency-and-parallelism-understanding-i-o
 Tags: [concurrency, parallelism]

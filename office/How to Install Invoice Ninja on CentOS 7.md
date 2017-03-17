@@ -1,7 +1,7 @@
 ---
 Title: "How to Install Invoice Ninja on CentOS 7"
 Categories: [office]
-Date: 2016-11-09 18:11:00
+Date: 2017-03-17 00:06:26
 tags: [invoice ninja, centos]
 Authors: sedlav
 ---
