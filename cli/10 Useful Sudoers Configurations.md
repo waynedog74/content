@@ -6,7 +6,7 @@ tags: [sudo, sudoers]
 Authors: sedlav
 ---
 
-> sudo allows a permitted user to execute a command as root (or another user), as specified by the security policy:
+**sudo** allows a permitted user to execute a command as root (or another user), as specified by the security policy:
 
 * It reads and parses /etc/sudoers, looks up the invoking user and its permissions,
 * then prompts the invoking user for a password (normally the user’s password, but it can as well be the target user’s password. Or it can be skipped with NOPASSWD tag),

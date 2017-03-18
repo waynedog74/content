@@ -1,7 +1,7 @@
 ---
 Title: "Stylus - A CSS preprocessor"
 Date: 2016-10-08 18:30:35
-Categories: [programming]
+Categories: [webdev]
 tags: [css, stylus]
 Slug: stylus-a-css-preprocessor
 Authors: sedlav
