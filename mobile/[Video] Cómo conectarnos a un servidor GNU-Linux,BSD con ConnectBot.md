@@ -1,6 +1,6 @@
 ---
 Title: "[Video] Cómo conectarnos a un servidor GNU+Linux,BSD con ConnectBot "
-Date: 2017-03-06 21:40:48
+Date: 2017-03-18 00:23:14
 Categories: [mobile]
 tags: [connectbot, ssh]
 Authors: sedlav
