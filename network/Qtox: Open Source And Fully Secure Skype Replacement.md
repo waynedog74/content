@@ -1,5 +1,5 @@
 ---
-Title: Qtox: Open Source And Fully Secure Skype Replacement
+Title: "Qtox: Open Source And Fully Secure Skype Replacement"
 Date: 2017-03-17 23:45:45
 Categories: [network]
 tags: [qtox, tox]
