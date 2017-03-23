@@ -7,6 +7,7 @@ Authors: sedlav
 ---
 
 Q. I want to know what is my user/groups id. What can I do?
+
 A. Type id command
 
 ```
