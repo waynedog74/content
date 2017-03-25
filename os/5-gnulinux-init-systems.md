@@ -1,10 +1,8 @@
 ---
 Title: 5 GNU/Linux init systems
 Date: 2016-08-11 14:41:49
-Categories:
-  - os
-tags:
-  - init
+Categories: [os]
+tags: [init]
 Slug: 5-gnulinux-init-systems
 Authors: sedlav
 Summary: In Linux and other Unix-like operating systems, the init (initialization) process is the first process executed by the kernel at boot time. It has a
