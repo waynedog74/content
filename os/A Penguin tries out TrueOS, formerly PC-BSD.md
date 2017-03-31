@@ -1,6 +1,6 @@
 ---
 Title: A Penguin tries out TrueOS, formerly PC-BSDs
-Date: 2016-12-27 11:05:00
+Date: 2017-03-31 18:07:15
 Categories: [os]
 tags: [lpic]
 Authors: sedlav
