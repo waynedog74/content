@@ -2,7 +2,7 @@
 Title: "Getting started with tmux"
 Date: 2017-04-02 16:29:24
 Categories: [cli]
-tags: [termux]
+tags: [tmux]
 Authors: sedlav
 ---
 

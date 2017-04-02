@@ -2,7 +2,8 @@
 Title: "20+ free ebooks to learn linux for free"
 Date: 2017-02-20 12:00:26
 Categories: [media]
-tags: [books, "gnu/linux"]
+Tags: [books, "gnu/linux"]
+Slug: 20plus-free-ebooks-to-learn-linux-for-free
 Authors: sedlav
 ---
 
