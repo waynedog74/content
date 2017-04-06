@@ -2,7 +2,7 @@
 Title: "Implementing URL Paths in NodeJs"
 Date: 2017-03-01 11:15:09
 Categories: [programming]
-tags: [nodejs]
+tags: [nodejs, javascript]
 Authors: sedlav
 ---
 
