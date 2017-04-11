@@ -1,5 +1,5 @@
 ---
-Title: " Understanding Inheritance in Python 3"
+Title: "Understanding Inheritance in Python 3"
 Date: 2017-04-06 13:05:33
 Categories: [programming]
 tags: [pyhton, oop]
