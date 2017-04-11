@@ -2,7 +2,8 @@
 Title: "Correct Index Choices for Equality + LIKE Query Optimization"
 Date: 2017-04-11 16:30:40
 Categories: [data base]
-tags: [mysql, mariadb, percona]
+Tags: [mysql, mariadb, percona]
+Slug: correct-index-choices-for-equality-like-query-optimization/
 Authors: sedlav
 ---
 
