@@ -1,8 +1,8 @@
 ---
 Title: "How To Install And Configure OpenVPN Server"
-Date: 2017-02-25 18:19:31
+Date: 2017-05-15 16:49:33
 Categories: [network]
-tags: [bonding, teaming]
+tags: [openvpn]
 Authors: sedlav
 ---
 
