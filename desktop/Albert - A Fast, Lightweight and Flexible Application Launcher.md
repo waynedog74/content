@@ -3,6 +3,7 @@ Title: "Albert - A Fast, Lightweight and Flexible Application Launcher"
 Date: 2017-05-18 18:13:08
 Categories: [desktop]
 tags: [albert]
+Slug: albert-a-fast-lightweight-and-flexible-application-launcher
 Authors: sedlav
 ---
 
