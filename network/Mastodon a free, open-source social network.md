@@ -1,6 +1,6 @@
 ---
 Title: "Mastodon a free, open-source social network"
-Date: 2016-09-07 03:00:57
+Date: 2017-05-20 21:28:01
 Categories: [network]
 tags: [mastodon, apps]
 Authors: sedlav
