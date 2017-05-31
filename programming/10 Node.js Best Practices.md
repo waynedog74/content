@@ -6,7 +6,7 @@ tags: [nodejs, javascript]
 Authors: sedlav
 ---
 
-10 Node best ractices covered by Azat Mardan:
+10 Node best practices covered by Azat Mardan:
 
 * Use npm scripts
 * Use env vars
