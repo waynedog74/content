@@ -18,6 +18,12 @@ $ sudo -u postgres psql
 CREATE USER username WITH PASSWORD 'MYPASS';
 ```
 
+## Set super privileges to specific user
+
+```sql
+ALTER USER username WITH SUPERUSER; 
+```
+
 ## Create a database
 
 ```sql
