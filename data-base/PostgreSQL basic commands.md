@@ -21,7 +21,7 @@ CREATE USER username WITH PASSWORD 'MYPASS';
 ## Set super privileges to specific user
 
 ```sql
-ALTER USER username WITH SUPERUSER; 
+ALTER USER username WITH SUPERUSER;
 ```
 
 ## Create a database
@@ -35,6 +35,12 @@ CREATE DATABASE dbname OWNER username;
 
 ```
 \l
+```
+
+## Import a data base
+
+```
+ psql username  -h hostname -d dbname < dump.sql
 ```
 
 ## Quit from Postgre console
