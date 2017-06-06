@@ -30,6 +30,11 @@ ALTER USER username WITH SUPERUSER;
 CREATE DATABASE dbname OWNER username;
 ```
 
+## Drop database
+
+```
+DROP DATABASE dbname;
+```
 
 ## List databases
 
@@ -40,7 +45,7 @@ CREATE DATABASE dbname OWNER username;
 ## Import a data base
 
 ```
- psql username  -h hostname -d dbname < dump.sql
+$ psql username  -h hostname -d dbname < dump.sql
 ```
 
 ## Quit from Postgre console
