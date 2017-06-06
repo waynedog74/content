@@ -1,6 +1,6 @@
 ---
 Title: "How to manage ACLs on GNU/Linux"
-Date: 2016-10-02 21:54:21
+Date: 2017-06-05 21:44:15
 Categories: [security]
 Tags: [autossh, ssh]
 Slug: how-to-manage-acls-on-gnu-linux
