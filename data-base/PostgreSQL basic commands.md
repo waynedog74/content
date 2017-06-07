@@ -48,6 +48,24 @@ DROP DATABASE dbname;
 $ psql username  -h hostname -d dbname < dump.sql
 ```
 
+## Change DATABASE
+
+```
+\c dbname;
+```
+
+## Create Postgis extension
+
+```sql
+CREATE EXTENSION Postgis;
+```
+
+## List tables
+
+```
+\dt
+```
+
 ## Quit from Postgre console
 
 ```
