@@ -1,5 +1,5 @@
 ---
-Title: 10 Useful locate Command Practical Examples for Newbies
+Title: lsof command tutorial for beginners
 Date: 2017-06-10 10:15:11
 Categories: [cli]
 tags: [locate]
