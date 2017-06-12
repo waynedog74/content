@@ -2,7 +2,7 @@
 Title: How to empty files in mass
 Date: 2017-06-12 14:28:24
 Categories: [cli]
-tags: [find, xargs, bash, > operator]
+tags: [find, xargs, bash, "> operator"]
 Authors: sedlav
 ---
 
