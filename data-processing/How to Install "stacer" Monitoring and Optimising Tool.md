@@ -1,5 +1,5 @@
 ---
-Title: "How to Install "stacer" Monitoring and Optimising Tool "
+Title: "How to Install stacer Monitoring and Optimising Tool "
 Date: 2017-06-16 18:18:40
 Categories: [data processing]
 tags: [stacer]
