@@ -1,5 +1,5 @@
 ---
-Title: 5 GNU/Linux init systems
+Title: "5 GNU/Linux init systems"
 Date: 2016-08-11 14:41:49
 Categories: [os]
 tags: [init]
