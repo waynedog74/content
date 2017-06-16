@@ -1,9 +1,9 @@
 ---
 Title: "How To Track Successful And Failed Login Attempts"
-Date: 2017-02-01 09:52:52
+Date: 2017-06-16 00:50:52
 Categories: [security]
 Tags: [auditd]
-Slug: check-track-successful-failed-login-attempts-linux
+Slug: check-track-successful-failed-login-attempts-gnu-linux
 Authors: sedlav
 ---
 
