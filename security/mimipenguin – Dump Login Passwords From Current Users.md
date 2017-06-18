@@ -1,6 +1,6 @@
 ---
 Title: "mimipenguin – Dump Login Passwords From Current Users"
-Date: 2017-06-18 18:52:17
+Date: 2017-06-18 18:56:27
 Categories: [security]
 tags: [mimipenguin]
 Authors: sedlav
