@@ -3,6 +3,7 @@ Title: Summernote - A Super Simple WYSIWYG Editor
 Date: 2017-07-03 16:47:39 
 Categories: [editors]
 tags: [wysiwyg-editor, javascript, summernote]
+slug: summernote-super-simple-wysiwyg-editor
 Author: sedlav
 ---
 
