@@ -1,7 +1,7 @@
 ---
 Title: "Trucos de Primavera - Acelerando Manjaro Linux"
 Date: 2017-04-11 16:24:13
-Categories: [news]
+Categories: [desktop]
 tags: ["gnu/linux", manjaro]
 Authors: sedlav
 ---
