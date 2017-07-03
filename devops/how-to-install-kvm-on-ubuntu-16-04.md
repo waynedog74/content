@@ -2,7 +2,7 @@
 Title: "How to install KVM on Ubuntu 16.04"
 Date: 2016-08-27 20:09:20
 Categories: [devops]
-tags: [kVm]
+tags: [kvm]
 Slug: how-to-install-kvm-on-ubuntu-16-04
 Authors: sedlav
 ---

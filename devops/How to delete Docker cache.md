@@ -3,7 +3,7 @@ Title: "How to delete Docker cache?"
 Date: 2016-12-10 13:00:00
 Categories: [devops]
 tags: [docker]
-Authors: sedlav
+Author: sedlav
 ---
 
 Q. How to delete Docker cache?

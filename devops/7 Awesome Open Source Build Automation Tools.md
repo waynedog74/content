@@ -2,7 +2,7 @@
 Title: "7 Awesome Open Source Build Automation Tools"
 Date: 2017-02-23 08:13:58
 Categories: [devops]
-tags: [rake, make, apache ant, gradle, apache maven, grunt, gulp, apps]
+Tags: [rake, make, apache ant, gradle, apache maven, grunt, gulp, apps]
 Authors: sedlav
 ---
 

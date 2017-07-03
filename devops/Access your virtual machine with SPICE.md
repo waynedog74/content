@@ -2,7 +2,7 @@
 Title: "Access your virtual machine with SPICE"
 Date: 2016-11-11 15:53:00
 Categories: [devops]
-tags: [spice]
+Tags: [spice]
 Authors: sedlav
 ---
 
