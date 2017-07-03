@@ -3,6 +3,7 @@ Title: "A user's guide to links in the GNU/Linux filesystem"
 Date: 2017-07-03 16:35:20
 Categories: [os]
 tags: ["gnu/linux", "hard links", "soft links"]
+slug: a-users-guide-to-links-in-the-gnu-linux-filesystem
 Authors: sedlav
 ---
 
