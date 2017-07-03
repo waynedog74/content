@@ -1,6 +1,7 @@
 ---
 Title: "Getting Started with MySQL Clusters as a Service"
 Categories: [data base]
+date: 2017-07-02 22:01:03
 tags: [percona, mysql, mariadb]
 Authors: sedlav
 ---

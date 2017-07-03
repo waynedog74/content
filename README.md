@@ -1,3 +1,11 @@
+---
+title: "About"
+Categories: [site]
+date: 2017-07-02 22:01:20
+tags: [page]
+Authors: sedlav
+---
+
 # Link You Today
 
 Link You Today is a news, doc, tuto, ... agregator about Free/Libre Software/Technology. 

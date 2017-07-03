@@ -1,6 +1,7 @@
 ---
 Title: "Network Configurations from the Command Line"
 Categories: [network]
+date: 2017-07-02 22:00:09
 tags: [network, cli]
 Slug: working-network-configurations-command-line
 Authors: sedlav

@@ -1,6 +1,7 @@
 ---
 Title: "Flyway an open-source database migration tool"
 Categories: [data base]
+date: 2017-07-02 22:01:20
 tags: [flyway, migration tool]
 Authors: sedlav
 ---
