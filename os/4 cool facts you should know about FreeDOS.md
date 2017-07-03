@@ -1,6 +1,6 @@
 ---
 title: 4 cool facts you should know about FreeDOS
-cate: 2017-07-02 22:07:42
+date: 2017-07-02 22:07:42
 categories: [os]
 tags: [freedos]
 author: sedlav
