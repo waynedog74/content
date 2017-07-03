@@ -6,6 +6,6 @@ tags: [lxde, scrot, imagemagick]
 Authors: sedlav
 ---
 
-If you are using [LXDE](http://www.lxde.org) desktop and want to take screeshots this mini guide (using scrot and imagemagick) can help you 
+If you are using [LXDE](http://www.lxde.org) desktop and want to take screeshots this mini guide (using scrot and imagemagick can help you 
 
 [Link](https://wiki.lxde.org/en/How_to_take_screenshots)
