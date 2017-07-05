@@ -1,6 +1,6 @@
 ---
 Title: "Using hashcat to recover your passwords"
-Date: 2016-09-13 19:36:03
+Date: 2017-07-05 00:17:06
 Categories: [security]
 tags: [hashcat]
 Authors: sedlav
