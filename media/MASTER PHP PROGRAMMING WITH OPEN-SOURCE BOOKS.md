@@ -1,11 +1,11 @@
 ---
-Title: "Master PHP programming with open-source books"
-Date: 2017-03-18 12:53:48
+Title: "Learn Scheme Programming with No Charge Books"
+Date: 2017-07-05 19:39:53
 Categories: [media]
-tags: [books, programming, php]
+tags: [books, programming, scheme]
 Authors: sedlav
 ---
 
-This is the seventh in OSSBlog’s series of open source programming books. This compilation focuses on the PHP language with 6 strong recommendations. There are books here for beginner, intermediate, and advanced programmers. All of the texts are, of course, released under an open source license.
+**Scheme** is a very simple language with a very simple syntax based on s-expressions. Its simplicity is fundamental in making it a popular introductory language. It follows a minimalist design philosophy specifying a small standard core with powerful tools for language extension. 
 
-[Link](https://www.ossblog.org/master-php-programming-with-open-source-books/)
+[Link](https://www.ossblog.org/learn-scheme-programming-no-charge-books/)
