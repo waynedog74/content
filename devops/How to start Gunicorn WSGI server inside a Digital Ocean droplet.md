@@ -78,3 +78,51 @@ By these ones:
 WorkingDirectory=/home/django/my-project
 ExecStart=/usr/bin/gunicorn --name=my-project --pythonpath=/home/django/my-project --bind unix:/home/django/gunicorn.socket --config /etc/gunicorn.d/gunicorn.py conf.wsgi:application
 ```
+
+NGINX config
+
+```
+upstream app_server {
+    server unix:/home/django/gunicorn.socket fail_timeout=0;
+}
+
+server {
+    listen 80 default_server;
+    listen [::]:80 default_server ipv6only=on;
+    #error_log /var/log/nginx/error.log debug;
+
+    root /usr/share/nginx/html;
+    index index.html index.htm;
+
+    client_max_body_size 8m;
+    server_name _;
+
+    keepalive_timeout 5;
+
+    # Your Django project's media files - amend as required
+    #location /media  {
+        #alias /home/django/django_project/django_project/media;
+        #alias /usr/local/lib/python2.7/dist-packages/django/contrib/admin/static/admin/css; 
+    #}
+
+    # your Django project's static files - amend as required
+    #location /static {
+    #    alias /home/django/django_project/django_project/static;
+    #}
+
+    # Proxy the static assests for the Django Admin panel
+    location /static/admin {
+       alias /usr/local/lib/python2.7/dist-packages/django/contrib/admin/static/admin; 
+       #alias /usr/lib/python2.7/dist-packages/django/contrib/admin/static/admin/;
+    }
+
+    location / {
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header Host $host;
+            proxy_redirect off;
+            proxy_buffering off;
+
+            proxy_pass http://app_server;
+    }
+}
+```
