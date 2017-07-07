@@ -46,7 +46,7 @@ The above file looks like this:
 #
 # ...
 # 
-# # METHOD can be "trust", "reject", "md5", "password", "gss", "sspi",
+# METHOD can be "trust", "reject", "md5", "password", "gss", "sspi",
 # "ident", "peer", "pam", "ldap", "radius" or "cert".  Note that
 # "password" sends passwords in clear text; "md5" is preferred since
 # it sends encrypted passwords.
