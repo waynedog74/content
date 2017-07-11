@@ -1,8 +1,8 @@
 ---
-Title: "Inxi – A Powerful Feature-Rich Commandline System Information Tool "
+Title: "Inxi – A Powerful Feature-Rich Commandline System Information Tool"
 Date: 2017-02-22 12:23:50
 Categories: [cli]
-tags: [inxi]
+Tags: [inxi]
 Authors: sedlav
 ---
 
