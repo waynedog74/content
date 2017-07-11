@@ -1,10 +1,8 @@
 ---
 Title: 12 Linux GNU Binary Utilities Binutils Commands with Examples
 Date: 2017-01-12 13:40:00
-Categories:
-  - os
-tags:
-  - bintutils
+Categories: [os]
+tags: [bintutils]
 Authors: sedlav
 ---
 
