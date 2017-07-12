@@ -1,6 +1,6 @@
 ---
 Title: 7 features of QXmlEdit for unusual situations
-Date: 2016-08-10 15:29:33
+Date: 2017-07-11 21:09:56
 Categories: [editors]
 Tags: [qxmledit, xml]
 Author: sedlav
