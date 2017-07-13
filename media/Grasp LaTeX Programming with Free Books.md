@@ -2,7 +2,7 @@
 Title: "Grasp LaTeX Programming with Free Books"
 Date: 2017-07-10 21:07:26
 Categories: [media]
-tags: [books, latex]
+tags: [books, latex, text]
 Authors: sedlav
 ---
 
