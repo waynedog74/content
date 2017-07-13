@@ -2,7 +2,7 @@
 Title: "VideoMorph: un transcodificador de y para la Comunidad"
 Date: 2016-12-15 09:41:00
 Categories: [media]
-tags: [Videomorph, ffmpeg, avconv]
+tags: [videomorph, ffmpeg, avconv]
 Authors: sedlav
 ---
 
