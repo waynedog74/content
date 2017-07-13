@@ -2,7 +2,7 @@
 Title: "How to Install Rocket.Chat on Ubuntu and Use it on Your WordPress"
 Date: 2017-03-18 00:06:11
 Categories: [network]
-tags: [rocket.chat, wordpress]
+tags: [rocket.chat, wordpress, im]
 Authors: sedlav
 ---
 
