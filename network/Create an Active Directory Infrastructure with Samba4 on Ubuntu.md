@@ -19,3 +19,6 @@ Samba can operate as a standalone file and print server for Windows and Linux cl
 * [Part9](http://www.tecmint.com/join-centos-7-to-samba4-active-directory/)
 * [Part10](http://www.tecmint.com/install-iredmail-on-centos-7-for-samba4-ad-integration/)
 * [Part 11](https://www.tecmint.com/integrate-iredmail-to-samba4-ad-dc-on-centos-7/)
+* [Part 12](https://www.tecmint.com/integrate-iredmail-roundcube-with-samba4-ad-dc/)
+* [Part 13](https://www.tecmint.com/configure-thunderbird-with-iredmail-for-samba4-ad-ldap/)
+* [Part 14](https://www.tecmint.com/integrate-centos-7-to-samba4-active-directory/)
