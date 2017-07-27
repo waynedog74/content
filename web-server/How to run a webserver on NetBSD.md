@@ -6,6 +6,8 @@ tags: [apache, netbsd, bsd]
 Authors: sedlav
 ---
 
-A reverse proxy is a type of proxy server that takes HTTP(S) requests and transparently distributes them to one or more backend servers. Reverse proxies are useful because many modern web applications process incoming HTTP requests using backend application servers which aren't meant to be accessed by users directly and often only support rudimentary HTTP features.
+**bozohttpd** is a small and secure HTTP 1.1 server shipped with NetBSD (/usr/libexec/httpd) by default. It's very simple and there isn't even a configuration file. But it only provides the most basic features.
+
+**The Apache HTTP** server is a widely-used open source HTTP server. Apache is a powerful HTTP server, which can be extended by loading dynamic shared object (DSO).
 
 [Link](https://wiki.netbsd.org/pkgsrc/how_to_install_a_lamp_server/)
