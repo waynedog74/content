@@ -1,6 +1,6 @@
 ---
 Title: "bmon – Real Time Bandwidth Monitor and Rate Estimator"
-Date: 2017-02-03 12:03:10
+Date: 2017-07-27 17:03:27
 Categories: [data processing]
 tags: [bmon]
 Authors: sedlav

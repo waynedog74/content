@@ -1,6 +1,6 @@
 ---
 Title: "How to run a webserver on NetBSD"
-Date: 2017-03-10 21:56:48
+Date: 2017-07-27 17:03:16
 Categories: [web server]
 tags: [apache, netbsd, bsd]
 Authors: sedlav

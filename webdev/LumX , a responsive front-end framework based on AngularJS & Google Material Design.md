@@ -2,7 +2,7 @@
 Title: "LumX, a responsive front-end framework based on AngularJS & Google Material Design"
 Date: 2017-07-05 19:25:56
 Categories: [webdev]
-tags: [javascript, lumx]
+tags: [css frameworks, javascript, lumx]
 Authors: sedlav
 ---
 
