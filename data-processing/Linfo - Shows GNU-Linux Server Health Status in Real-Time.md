@@ -2,7 +2,7 @@
 Title: "Linfo – Shows GNU/Linux Server Health Status in Real-Time"
 Date: 2017-05-24 11:43:15
 Categories: [data processing]
-Tags: [linfo]
+Tags: [linfo, monitoring]
 Slug: linfo-shows-gnu-linux-server-health-status-in-real-time
 Authors: sedlav
 ---

@@ -2,7 +2,7 @@
 Title: "Install Munin (Monitoring Tool) on Ubuntu 16.10"
 Date: 2017-02-03 11:42:45
 Categories: [data processing]
-tags: [munin]
+tags: [munin, monitoring]
 Authors: sedlav
 ---
 
