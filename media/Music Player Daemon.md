@@ -1,6 +1,6 @@
 ---
 Title: "Music Player Daemon"
-Date: 2017-07-31 17:48:17
+Date: 2017-08-03 09:09:00
 Categories: [media]
 tags: [mpd, players]
 Authors: sedlav

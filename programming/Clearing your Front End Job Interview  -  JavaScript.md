@@ -1,6 +1,6 @@
 ---
 Title: "Clearing your Front End Job Interview  -  JavaScript"
-Date: 2017-06-16 18:40:40
+Date: 2017-08-03 09:08:27
 Categories: [programming]
 tags: [interview, javascript]
 Authors: sedlav

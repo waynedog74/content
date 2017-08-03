@@ -1,6 +1,6 @@
 ---
 Title: "Shoud we use PHP persistent connections"
-Date: 2017-07-31 17:34:34
+Date: 2017-08-03 09:08:55
 Categories: [programming]
 tags: [php, db]
 Authors: sedlav
