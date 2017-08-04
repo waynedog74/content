@@ -6,6 +6,6 @@ tags: [groupware, citadel, horde, cozy cloud, egroupware, zimbra collaboration]
 Authors: sedlav
 ---
 
-Groupware (also known as “Collaborative software”) is nothing but an app that helps users in everyday tasks such as calendar/scheduling, address books, email, forums, mailing lists, IM, wiki and more. The use of collaborative software in the work space creates a collaborative working environment.
+Groupware is nothing but an app that helps users in everyday tasks such as calendar/scheduling, address books, email, forums, mailing lists, IM, wiki and more. The use of collaborative software in the work space creates a collaborative working environment.
 
 [Link]https://www.cyberciti.biz/open-source/awesome-opensource-collaborativesoftware-groupware-software-suite/)
