@@ -6,6 +6,6 @@ tags: [mopidy, music server]
 Authors: sedlav
 ---
 
-Mopidy is an extensible music server written in Python. Mopidy plays music from local disk or from online services.
+**Mopidy** is an extensible music server written in Python. Mopidy plays music from local disk or from online services.
 
 [Link](https://www.mopidy.com/)
