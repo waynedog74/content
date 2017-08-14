@@ -1,10 +1,8 @@
 ---
 Title: Devuan - software freedom, your way
 Date: 2016-12-26 11:58:00
-Categories:
-  - os
-tags:
-  - Devuan
+Categories: [os]
+Tags: [Devuan]
 Authors: sedlav
 ---
 
