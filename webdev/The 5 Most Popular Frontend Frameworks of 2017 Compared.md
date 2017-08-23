@@ -2,7 +2,7 @@
 Title: "The 5 Most Popular Frontend Frameworks of 2017 Compared"
 Date: 2017-08-17 10:39:53
 Categories: [webdev]
-tags: [css frameworks]
+tags: [css, css frameworks]
 Authors: sedlav
 ---
 

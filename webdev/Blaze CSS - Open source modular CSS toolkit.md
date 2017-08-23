@@ -2,7 +2,7 @@
 Title: "Blaze CSS - Open source modular CSS toolkit"
 Date: 2016-12-21 09:33:00
 Categories: [webdev]
-tags: [css frameworks]
+tags: [css, css frameworks]
 Authors: sedlav
 ---
 

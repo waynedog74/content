@@ -2,7 +2,7 @@
 Title: "10+ Best Lightweight CSS Frameworks 2016"
 Date: 2017-07-27 17:03:11
 Categories: [webdev]
-tags: [css frameworks]
+tags: [css, css frameworks]
 Authors: sedlav
 ---
 

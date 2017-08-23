@@ -2,7 +2,7 @@
 Title: "Spectre.css, The lightweight, responsive and modern CSS framework"
 Date: 2017-07-27 17:05:49
 Categories: [webdev]
-tags: [css frameworks]
+tags: [css, css frameworks]
 Authors: sedlav
 ---
 

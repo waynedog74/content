@@ -2,7 +2,7 @@
 Title: "Best CSS Frameworks of 2017"
 Date: 2017-07-27 17:10:13
 Categories: [webdev]
-tags: [css frameworks]
+tags: [css, css frameworks]
 Authors: sedlav
 ---
 
