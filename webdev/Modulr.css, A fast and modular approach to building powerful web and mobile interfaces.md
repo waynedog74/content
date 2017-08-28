@@ -8,4 +8,4 @@ Authors: sedlav
 
 **Modulr.css** is a fast and modular approach to building powerful web and mobile interfaces.
 
-[Link](http://primercss.io/about/)
+[Link](https://decorator.io/modulr/)
