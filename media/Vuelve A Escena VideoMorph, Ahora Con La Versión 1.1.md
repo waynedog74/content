@@ -1,6 +1,6 @@
 ---
 Title: "Vuelve A Escena VideoMorph, ahora Con La Versión 1.1"
-Date: 2017-07-13 17:30:06
+Date: 2017-08-31 10:16:14
 Categories: [media]
 tags: [videomorph, ffmpeg, avconv]
 Authors: sedlav
