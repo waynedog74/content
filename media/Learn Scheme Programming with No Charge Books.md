@@ -2,7 +2,7 @@
 Title: "Learn Scheme Programming with No Charge Books"
 Date: 2017-07-05 19:44:56
 Categories: [media]
-tags: [books, programming, rust]
+tags: [books, programming, scheme]
 Authors: sedlav
 ---
 
