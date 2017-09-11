@@ -1,5 +1,5 @@
 ---
-Title: " Real-Time Strategy Games Collection"
+Title: "Real-Time Strategy Games Collection"
 Date: 2017-09-04 10:20:16
 Category: [games]
 tags: [action, strategy, aventure]
