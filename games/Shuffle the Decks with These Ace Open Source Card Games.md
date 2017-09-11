@@ -1,5 +1,5 @@
 ---
-Title: "Real-Time Strategy Games Collection"
+Title: "Shuffle the Decks with These Ace Open Source Card Games"
 Date: 2017-09-11 11:27:13
 Category: [games]
 tags: [strategy, memory, logic]
