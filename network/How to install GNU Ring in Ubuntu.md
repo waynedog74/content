@@ -2,7 +2,7 @@
 Title: "How to install GNU Ring in Ubuntu (the free replacement for Skype)"
 Date: 2016-12-12 08:38:00
 Categories: [network]
-tags: [gnu ring, ubuntu]
+tags: [gnu ring, ubuntu, im]
 Authors: sedlav
 ---
 

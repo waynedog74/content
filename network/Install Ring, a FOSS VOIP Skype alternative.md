@@ -2,7 +2,7 @@
 Title: "Install Ring, a FOSS VOIP Skype alternative"
 Date: 2017-09-12 12:05:40
 Categories: [network]
-tags: [gnu ring]
+tags: [gnu ring, im]
 Authors: sedlav
 ---
 
