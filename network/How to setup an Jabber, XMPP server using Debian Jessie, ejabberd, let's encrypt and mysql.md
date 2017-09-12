@@ -2,7 +2,7 @@
 Title: "How to setup an Jabber / XMPP server using Debian Jessie, ejabberd, let’s encrypt and mysql"
 Date: 2017-02-19 21:31:46
 Categories: [network]
-tags: [jabber, xmmp, ejabberd]
+tags: [jabber, xmmp, ejabberd, im]
 Authors: sedlav
 ---
 
