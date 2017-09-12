@@ -2,7 +2,7 @@
 Title: "Mastodon - A new challenger to Twitter's walled garden"
 Date: 2017-06-16 00:13:37
 Categories: [network]
-tags: [mastodon, apps]
+tags: [mastodon, apps, im]
 Authors: sedlav
 ---
 
