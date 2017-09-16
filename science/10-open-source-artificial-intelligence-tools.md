@@ -2,7 +2,7 @@
 Title: 10 Open Source Artificial Intelligence Tools
 Date: 2016-09-22 13:51:01
 Categories: [science]
-tags: [apache mahout, apache systemml, caffe, deeplearning4j, h20, mllib, nupic, opencyc, opennn, oryx 2]
+tags: [ai]
 Slug: 10-open-source-artificial-intelligence-tools
 Authors: sedlav
 ---
