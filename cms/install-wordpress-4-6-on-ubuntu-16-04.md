@@ -2,7 +2,7 @@
 Title: Install WordPress 4.6 On Ubuntu 16.04
 Date: 2016-08-24 15:55:39
 Categories: [cms]
-tags: [wordpress]
+Tags: [wordpress, ubuntu]
 Slug: install-wordpress-4-6-on-ubuntu-16-04
 Authors: sedlav
 ---
