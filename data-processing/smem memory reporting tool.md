@@ -2,7 +2,7 @@
 Title: "smem memory reporting tool"
 Date: 2017-02-17 17:46:22
 Categories: [data processing]
-tags: [smem]
+tags: [smem, monitoring, reporting]
 Authors: sedlav
 ---
 
