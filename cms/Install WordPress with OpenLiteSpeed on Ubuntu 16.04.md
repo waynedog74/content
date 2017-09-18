@@ -3,7 +3,6 @@ Title: Install WordPress with OpenLiteSpeed on Ubuntu 16.04
 Date: 2017-09-18 09:48:31
 Categories: [cms]
 Tags: [wordpress, ubuntu, openlitespeed]
-Slug: install-wordpress-4-6-on-ubuntu-16-04
 Authors: sedlav
 ---
 
