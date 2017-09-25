@@ -22,3 +22,4 @@ Samba can operate as a standalone file and print server for Windows and Linux cl
 * [Part 12](https://www.tecmint.com/integrate-iredmail-roundcube-with-samba4-ad-dc/)
 * [Part 13](https://www.tecmint.com/configure-thunderbird-with-iredmail-for-samba4-ad-ldap/)
 * [Part 14](https://www.tecmint.com/integrate-centos-7-to-samba4-active-directory/)
+* [Part 15](https://www.tecmint.com/integrate-ubuntu-to-samba4-ad-dc-with-sssd-and-realm/)
