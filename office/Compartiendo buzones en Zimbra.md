@@ -2,7 +2,7 @@
 Title: "Compartiendo buzones en Zimbra"
 Date: 2017-09-22 10:47:27
 Categories: [office]
-Tags: [zimbra]
+Tags: [zimbra, email server]
 Authors: sedlav
 ---
 

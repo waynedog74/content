@@ -2,7 +2,7 @@
 Title: "Advanced lm-sensors Tips and Trickss"
 Date: 2017-09-25 11:12:16
 Categories: [data processing]
-Tags: [sensors]
+Tags: [sensors, system information]
 Authors: sedlav
 ---
 
