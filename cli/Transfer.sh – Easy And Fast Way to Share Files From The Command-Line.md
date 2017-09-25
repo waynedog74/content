@@ -1,5 +1,5 @@
 ---
-Title: Ttransfer.sh– Easy And Fast Way to Share Files From The Command-Line
+Title: Transfer.sh– Easy And Fast Way to Share Files From The Command-Line
 Date: 2017-09-24 23:30:10
 Categories: [os]
 tags: [transfer.sh]
