@@ -1,6 +1,6 @@
 ---
 Title: How to Rescue, Repair and Reinstall GRUB Boot Loader in Ubuntu
-Date: 2017-03-05 09:18:27
+Date: 2017-09-26 10:46:40
 Categories: [os]
 tags: [ubuntu]
 Authors: sedlav
