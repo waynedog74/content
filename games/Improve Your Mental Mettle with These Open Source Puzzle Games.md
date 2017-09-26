@@ -1,6 +1,6 @@
 ---
 Title: "Improve Your Mental Mettle with These Open Source Puzzle Games"
-Date: 2017-09-11 11:34:47
+Date: 2017-09-26 10:21:33
 Category: [games]
 tags: [logic]
 Authors: sedlav
