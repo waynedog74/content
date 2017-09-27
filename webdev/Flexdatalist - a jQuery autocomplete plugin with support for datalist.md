@@ -1,5 +1,5 @@
 ---
-Title: "Flexdatalist - a  jQuery autocomplete plugin with support for datalist"
+Title: "Flexdatalist - a jQuery autocomplete plugin with support for datalist"
 Date: 2017-09-27 12:04:41
 Categories: [webdev]
 tags: [flexdatalist, jquery, autocomplete]
