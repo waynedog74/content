@@ -1,6 +1,6 @@
 ---
 Title: How to Delete Old Unused Kernels in Debian and Ubuntu
-Date: 2017-09-12 12:07:45
+Date: 2017-09-27 16:38:10
 Categories: [cli]
 tags: [debian, ubuntu]
 Authors: sedlav

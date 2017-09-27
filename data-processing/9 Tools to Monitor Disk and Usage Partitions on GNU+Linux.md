@@ -2,7 +2,7 @@
 Title: "9 Tools to Monitor Disk and Usage Partitions on GNU/Linux"
 Date: 2016-12-09 08:51:00
 Categories: [data processing]
-tags: [top, fdisk, sfdisk, cfdisk, parted, lsblk, blkid, hwinfo, df, pydf]
+tags: [top, fdisk, sfdisk, cfdisk, parted, lsblk, blkid, hwinfo, df, pydf, monitoring]
 Authors: sedlav
 ---
 
