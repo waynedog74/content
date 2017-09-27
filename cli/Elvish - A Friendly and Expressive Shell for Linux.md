@@ -2,7 +2,7 @@
 Title: Elvish, a friendly and expressive shell for UNIX like OS
 Date: 2017-07-06 17:59:50
 Categories: [cli]
-Tags: [elvish]
+Tags: [elvish, terminal]
 Authors: sedlav
 ---
 

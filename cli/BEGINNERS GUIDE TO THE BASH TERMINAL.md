@@ -2,7 +2,7 @@
 Title: Beginners guide to the BASH terminal
 Date: 2017-03-17 23:49:58
 Categories: [cli]
-tags: [bash]
+tags: [bash, terminal]
 Authors: sedlav
 ---
 
