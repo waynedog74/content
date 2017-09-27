@@ -6,6 +6,6 @@ tags: [gotty, ttyd, terminal]
 Authors: sedlav
 ---
 
-> There are dozens, if not more, tools out there that can help you manage your ever-expanding lists of tasks and to-dos. If you want to manage your tasks like a techie, or just feel like going back to basics, the best way to do that is to turn to the command line.
+Want to share your terminal over the web for demo, learning or collaboration purpose? Try these two applications to share your terminal as a web application.
 
-[Link](https://opensource.com/article/17/1/task-managers-linux-command-line)
+[Link](https://www.cyberciti.biz/open-source/2-apps-to-share-your-terminal-over-the-web/)
