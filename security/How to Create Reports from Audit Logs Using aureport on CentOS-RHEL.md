@@ -1,6 +1,6 @@
 ---
 Title: "How to Create Reports from Audit Logs Using aureport on CentOS/RHEL"
-Date: 2017-01-24 23:06:08
+Date: 2017-09-27 11:44:27
 Categories: [security]
 Tags: [centos, rhel]
 Authors: sedlav
