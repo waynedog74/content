@@ -2,7 +2,7 @@
 Title: "30 Useful ps Command Process Monitoring Example"
 Date: 2017-09-27 16:35:09
 Categories: [data processing]
-tags: [ps. monitoring]
+tags: [ps, monitoring]
 Authors: sedlav
 ---
 
