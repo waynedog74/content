@@ -2,7 +2,7 @@
 Title: "Install Varnish Cache 5.1 to Boost Apache Performance on CentOS 7"
 Date: 2017-07-13 17:01:45
 Categories: [network]
-tags: [centos, varnish]
+tags: [centos, varnish, apache]
 Authors: sedlav
 ---
 
