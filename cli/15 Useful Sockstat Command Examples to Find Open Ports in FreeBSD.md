@@ -2,7 +2,7 @@
 Title: 15 Useful Sockstat Command Examples to Find Open Ports in FreeBSD
 Date: 2017-09-28 09:59:35
 Categories: [cli]
-tags: [sed]
+tags: [sockstat, nmap]
 Authors: sedlav
 ---
 
