@@ -1,6 +1,6 @@
 ---
 Title: "Install OpenLiteSpeed (HTTP), PHP 7 & MariaDB on Debian and Ubuntu"
-Date: 2017-07-13 16:36:21
+Date: 2017-09-28 10:39:27
 Categories: [web server]
 tags: [openlitespeed, mariadb, mysql, php, debian, ubuntu]
 Authors: sedlav
