@@ -1,8 +1,8 @@
 ---
-Title: "Install OpenLiteSpeed (HTTP), PHP 7 & MariaDB on CentOS 7"
+Title: "Install OpenLiteSpeed (HTTP), PHP 7 & MariaDB on Debian and Ubuntu"
 Date: 2017-07-13 16:36:21
 Categories: [web server]
-tags: [openlitespeed, mariadb, mysql, php, centos]
+tags: [openlitespeed, mariadb, mysql, php, debian, ubuntu]
 Authors: sedlav
 ---
 
