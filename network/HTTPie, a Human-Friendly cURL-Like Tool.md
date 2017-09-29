@@ -2,7 +2,7 @@
 Title: "HTTPie, a Human-Friendly cURL-Like Tool"
 Date: 2016-12-03 19:36:00
 Categories: [network]
-tags: [httpie]
+tags: [httpie, pyhton, curl]
 Authors: sedlav
 ---
 
