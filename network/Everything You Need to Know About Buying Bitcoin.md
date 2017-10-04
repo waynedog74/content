@@ -2,7 +2,7 @@
 Title: "Everything You Need to Know About Buying Bitcoin"
 Date: 2017-06-10 10:33:20
 Categories: [network]
-tags: [bitcoin]
+Tags: [bitcoin, currency, money, electronic payment]
 Authors: sedlav
 ---
 
