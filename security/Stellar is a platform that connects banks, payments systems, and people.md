@@ -6,6 +6,6 @@ Tags: [stellar, currency, money, electronic payment]
 Authors: sedlav
 ---
 
-Stellar is a platform that connects banks, payments systems, and people. Integrate to move money quickly, reliably, and at almost no cost.
+**Stellar** is a platform that connects banks, payments systems, and people. Integrate to move money quickly, reliably, and at almost no cost.
 
 [Link](https://www.stellar.org/)
