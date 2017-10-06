@@ -1,5 +1,5 @@
 ---
-Title: "Tippy.js A lightweight, vanilla JavaScript tooltip library"
+Title: "autoComplete, an extremely lightweight completion suggester plugin for jQuery"
 Date: 2017-10-06T11:44:25.748-05:00
 Categories: [webdev]
 tags: [javascript, autocomplete, jquery]
