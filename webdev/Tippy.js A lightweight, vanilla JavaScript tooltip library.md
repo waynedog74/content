@@ -15,4 +15,4 @@ Authors: sedlav
 * Animation
 * HTML and more
 
-[Link](http://t1m0n.name/air-datepicker/docs/)
+[Link](https://atomiks.github.io/tippyjs/)
