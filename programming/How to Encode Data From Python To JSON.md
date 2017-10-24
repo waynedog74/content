@@ -1,5 +1,5 @@
 ---
-Title: "3 Python web scrapers and crawlers"
+Title: "How to Encode Data From Python To JSON"
 Date: 2017-10-24 12:27:28
 Categories: [programming]
 Tags: [pyhton, json]
