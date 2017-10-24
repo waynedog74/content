@@ -1,6 +1,6 @@
 ---
 Title: "3 Python web scrapers and crawlers"
-Date: 2017-10-24T12:25:44.162-05:00
+Date: 2017-10-24 12:27:28
 Categories: [programming]
 Tags: [pyhton, json]
 Authors: sedlav
