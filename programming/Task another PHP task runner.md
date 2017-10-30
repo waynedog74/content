@@ -2,7 +2,7 @@
 Title: "Task another PHP task runner"
 Date: 2017-10-30 12:34:43
 Categories: [programming]
-tags: [php, task]
+tags: [php, taskrunner]
 Authors: sedlav
 ---
 
