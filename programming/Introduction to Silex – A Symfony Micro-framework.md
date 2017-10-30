@@ -2,7 +2,7 @@
 Title: "Introduction to Silex – A Symfony Micro-framework"
 Date: 2017-04-01 16:35:03
 Categories: [programming]
-tags: [php, silex, symfony]
+tags: [php, silex, symfony, micro-framework]
 Authors: sedlav
 ---
 

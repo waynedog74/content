@@ -2,7 +2,7 @@
 Title: "Bullet PHP Micro-Framework"
 Date: 2017-10-30 11:53:42
 Categories: [programming]
-tags: [php, bullet]
+tags: [php, bullet, micro-framework]
 Authors: sedlav
 ---
 

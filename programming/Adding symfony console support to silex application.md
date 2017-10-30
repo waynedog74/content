@@ -2,7 +2,7 @@
 Title: "Adding symfony console support to silex application"
 Date: 2017-04-01 16:36:11
 Categories: [programming]
-tags: [php, silex, symfony]
+tags: [php, silex, symfony, micro-framework]
 Authors: sedlav
 ---
 
