@@ -2,7 +2,7 @@
 Title: "Buffalo – Rapid Web Development in Go"
 Date: 2017-10-24 11:38:16
 Categories: [programming]
-Tags: [go]
+Tags: [go, go framework]
 Authors: sedlav
 ---
 

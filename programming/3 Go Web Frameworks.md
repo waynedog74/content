@@ -2,7 +2,7 @@
 Title: "3 Go Web Frameworks!"
 Date: 2017-02-10 14:03:00
 Categories: [programming]
-Tags: [go]
+Tags: [go, go framework]
 Authors: sedlav
 ---
 

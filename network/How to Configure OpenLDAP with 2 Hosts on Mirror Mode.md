@@ -2,7 +2,7 @@
 Title: "How to Configure OpenLDAP with 2 Hosts on Mirror Mode"
 Date: 2017-06-05 22:43:21
 Categories: [network]
-tags: [openldap]
+Tags: [openldap, ldap]
 Authors: sedlav
 ---
 

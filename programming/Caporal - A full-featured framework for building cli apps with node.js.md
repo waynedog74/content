@@ -2,7 +2,7 @@
 Title: "Caporal - a full-featured framework for building cli apps with node.js"
 Date: 2017-03-04 10:47:56
 Categories: [programming]
-tags: [caporal, nodejs, javascript]
+tags: [caporal, nodejs, javascript, nodejs framework]
 Authors: sedlav
 ---
 

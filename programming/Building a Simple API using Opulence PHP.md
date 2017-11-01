@@ -2,7 +2,7 @@
 Title: "Building a Simple API using Opulence PHP"
 Date: 2017-02-09 09:16:32
 Categories: [programming]
-tags: [php, opulence]
+tags: [php, opulence, php framework]
 Authors: sedlav
 ---
 
