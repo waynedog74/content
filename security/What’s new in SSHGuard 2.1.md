@@ -2,7 +2,7 @@
 Title: "What’s new in SSHGuard 2.1"
 Date: 2017-11-01 15:56:21
 Categories: [security]
-tags: [sshguard, ids]
+Tags: [sshguard, ids]
 Authors: sedlav
 ---
 
