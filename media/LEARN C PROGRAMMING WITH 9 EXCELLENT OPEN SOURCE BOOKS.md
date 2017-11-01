@@ -2,7 +2,7 @@
 Title: "LEARN C PROGRAMMING WITH 9 EXCELLENT OPEN SOURCE BOOKS"
 Date: 2017-02-08 18:43:58
 Categories: [media]
-tags: [books, programming]
+tags: [books, programming, c]
 Authors: sedlav
 ---
 
