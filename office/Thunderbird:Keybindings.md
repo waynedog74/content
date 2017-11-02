@@ -2,7 +2,7 @@
 Title: "Thunderbird Keybindings"
 Date: 2017-09-25 10:59:44
 Categories: [office]
-tags: [thunderbird]
+tags: [thunderbird, email client]
 Authors: sedlav
 ---
 
