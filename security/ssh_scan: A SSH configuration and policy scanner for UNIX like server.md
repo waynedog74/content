@@ -1,6 +1,6 @@
 ---
 Title: "ssh_scan: A SSH configuration and policy scanner for UNIX like server"
-Date: 2016-11-10 15:11:00
+Date: 2017-11-05 15:44:30
 Categories: [security]
 tags: [ssh, ssh_scan]
 Authors: sedlav
