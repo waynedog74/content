@@ -1,6 +1,6 @@
 ---
 Title: "JavaScript-Based Animations Using Anime.js"
-Date: 2017-08-22 10:23:51
+Date: 2017-11-05 16:36:53
 Categories: [programming]
 tags: [anime.js, javascript]
 Authors: sedlav
