@@ -6,13 +6,6 @@ tags: [nodejs, javascript]
 Authors: sedlav
 ---
 
-10 Node best practices covered by Azat Mardan:
+Web Sockets are probably in use more around you now than you think, most things with real-time interactions are most probably running through these little gems.
 
-* Use npm scripts
-* Use env vars
-* Understand the event loop
-* Use functional inheritance
-* Name things appropriately
-* ...
-
-[Link](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
+[Link](https://hackernoon.com/nodejs-web-socket-example-tutorial-send-message-connect-express-set-up-easy-step-30347a2c5535)
