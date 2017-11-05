@@ -1,5 +1,5 @@
 ---
-Title: "10 MySQL Load Data Infile Examples to Upload Text File Data to Tables"
+Title: "MySQL vs. MariaDB: Reality Check"
 Date: 2017-11-05 15:45:44
 Categories: [data base]
 tags: [mysql, mariadb, percona]
