@@ -1,5 +1,5 @@
 ---
-Title: "A Mystery with open_files_limit"
+Title: "MySQL and MariaDB Default Configuration Differences"
 Date: 2017-11-09 11:27:43
 Categories: [data base]
 Tags: [mysql, mariadb, percona]
