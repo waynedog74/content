@@ -10,13 +10,13 @@ In this blog post, we’ll look at how to avoid shared locks from subqueries.
 
 I’m pretty sure most of you have seen an UPDATE statement matching rows returned from a SELECT query:
 
-```
+```sql
 update ibreg set k=1 where id in (select id from ibcmp where id > 90000);
 ```
 
 This query, when executed with
 
-```
+```sql
 autocommit=1
 ```
 
