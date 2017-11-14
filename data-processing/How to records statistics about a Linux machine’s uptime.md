@@ -6,6 +6,6 @@ tags: [uptime]
 Authors: sedlav
 ---
 
-> inux/Unix sysadmins have a weird obsession with server uptime. There is a xkcd comic devoted to this subject where a good sysadmin is an unstoppable force that it stands between the forces of darkness and your cat blog’s servers.
+> Linux/Unix sysadmins have a weird obsession with server uptime. There is a xkcd comic devoted to this subject where a good sysadmin is an unstoppable force that it stands between the forces of darkness and your cat blog’s servers.
 
 [Link](https://www.cyberciti.biz/hardware/see-records-statistics-about-a-linux-servers-uptime/)

@@ -1,6 +1,6 @@
 ---
 Title: What is the TensorFlow machine intelligence platform?
-Date: 2017-02-27 11:30:16
+Date: 2017-11-13 23:12:04
 Categories: [science]
 tags: [tensorflow, machine learning]
 Authors: sedlav
