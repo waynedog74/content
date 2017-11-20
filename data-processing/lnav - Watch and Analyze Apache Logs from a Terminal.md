@@ -1,8 +1,8 @@
 ---
 Title: "lnav – Watch and Analyze Apache Logs from a Terminal"
 Date: 2017-05-30 00:09:38
-Categories: [web server]
-tags: [apache]
+Categories: [data processing]
+Tags: [apache, lnav]
 Slug: lnav-watch-and-analyze-apache-logs-in-linux
 Authors: sedlav
 ---
