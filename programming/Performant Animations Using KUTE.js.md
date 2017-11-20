@@ -1,6 +1,6 @@
 ---
 Title: "Performant Animations Using KUTE.js"
-Date: 2017-11-05 16:36:53
+Date: 2017-11-20 10:43:35
 Categories: [programming]
 tags: [kute.js, javascript]
 Authors: sedlav
