@@ -6,6 +6,6 @@ Tags: [insecres, go]
 Authors: sedlav
 ---
 
-**InsecuRes** is a small, free and open source command line based tool for finding insecure resources on HTTPS sites, written in Go programming language. It utilizes the power of “multi-threading” (goroutines) to crawl and parse site pages.
+A console tool that finds insecure resources on HTTPS sites. It is written in Go language and uses the power of "multi-threading" (goroutines) to crawl and parse site pages.
 
 [Link](https://www.tecmint.com/insecres-finds-insecure-resources-on-https-sites/)
