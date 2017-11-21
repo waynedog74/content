@@ -2,7 +2,7 @@
 Title: "UTF-8 encoder & decoder"
 Date: 2017-11-21 11:05:24
 Categories: [media]
-tags: [utf-8, openstreetmap]
+tags: [utf-8]
 Authors: sedlav
 ---
 
