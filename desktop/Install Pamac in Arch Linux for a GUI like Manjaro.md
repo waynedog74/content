@@ -2,7 +2,7 @@
 Title: "Install Pamac in Arch Linux for a GUI like Manjaro"
 Date: 2017-07-08 23:02:25
 Categories: [desktop]
-tags: [manjaro, pacmacm arch linux]
+Tags: [manjaro, pamac, arch linux]
 Authors: sedlav
 ---
 
