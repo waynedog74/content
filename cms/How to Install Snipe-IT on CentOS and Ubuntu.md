@@ -2,7 +2,7 @@
 Title: How to Install Snipe-IT on CentOS and Ubuntu
 Date: 2017-06-16 00:26:11
 Categories: [cms]
-tags: [snipe-it, ubuntu, centos]
+Tags: [snipe-it, ubuntu, centos]
 Authors: sedlav
 ---
 
