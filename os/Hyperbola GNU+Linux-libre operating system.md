@@ -2,7 +2,8 @@
 Title: "Hyperbola GNU/Linux-libre operating system"
 Date: 2017-11-23 14:29:02
 Categories: [os]
-tags: [hyperbola, gnu, linux]
+Tags: [hyperbola, gnu, linux]
+Slug: hyperbola-gnu-linux-libre-operating-system
 Authors: sedlav
 ---
 
