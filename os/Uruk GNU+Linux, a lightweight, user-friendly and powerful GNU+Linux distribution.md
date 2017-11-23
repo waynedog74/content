@@ -3,6 +3,7 @@ Title: "Uruk GNU/Linux, A lightweight, user-friendly and powerful GNU/Linux dist
 Date: 2017-11-23 14:45:10
 Categories: [os]
 Tags: [uruk, gnu, linux]
+Slug: uruk-gnu-linux-a-lightweight-user-friendly-and-powerful-gnu-linux-distribution
 Authors: sedlav
 ---
 
