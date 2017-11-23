@@ -2,7 +2,7 @@
 Title: The WordPress Customizer JavaScript APIs
 Date: 2016-11-22 18:30:00
 Categories: [cms]
-tags: [wordpress]
+Tags: [wordpress]
 Authors: sedlav
 ---
 
