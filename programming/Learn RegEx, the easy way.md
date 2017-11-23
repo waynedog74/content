@@ -1,8 +1,8 @@
 ---
-Title: "Making good bug reports"
-Date: 2017-01-15 19:28:01
+Title: "Learn RegEx, the easy way"
+Date: 2017-11-23 11:26:11
 Categories: [programming]
-Tags: [bug, qa]
+Tags: [regex]
 Authors: sedlav
 ---
 

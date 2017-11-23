@@ -2,7 +2,7 @@
 Title: "Meteor a simple JS environment for building modern web applications."
 Date: 2017-09-06 12:40:54
 Categories: [programming]
-tags: [javascript, js-frameworks]
+Tags: [javascript, js-frameworks]
 Authors: sedlav
 ---
 

@@ -2,7 +2,7 @@
 Title: "New features in PHP 7.1"
 Date: 2017-02-15 09:46:06
 Categories: [programming]
-tags: [php, php7.1]
+Tags: [php, php7.1]
 Authors: sedlav
 ---
 

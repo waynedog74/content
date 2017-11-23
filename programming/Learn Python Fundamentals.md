@@ -2,7 +2,7 @@
 Title: "Learn Python Fundamentals"
 Date: 2016-12-20 08:58:00
 Categories: [programming]
-tags: [python]
+Tags: [python]
 Authors: sedlav
 ---
 

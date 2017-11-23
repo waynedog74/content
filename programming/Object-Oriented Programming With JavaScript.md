@@ -2,7 +2,7 @@
 Title: "Object-Oriented Programming With JavaScript"
 Date: 2017-11-05 16:02:59
 Categories: [programming]
-tags: [oop, javascript]
+Tags: [oop, javascript]
 Authors: sedlav
 ---
 
