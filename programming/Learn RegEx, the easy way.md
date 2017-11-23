@@ -6,6 +6,6 @@ Tags: [regex]
 Authors: sedlav
 ---
 
-> Bug reporting is an art form that is too often neglected in software projects. Bug reports allow contributors to participate without deep technical knowledge and at the same time provide a crucial space for developers to be made aware of issues with their software that they could not have foreseen or found themselves, for lack of resources, variety or imagination.
+A regular expression is a pattern that is matched against a subject string from left to right. The word "Regular expression" is a mouthful, you will usually find the term abbreviated as "regex" or "regexp". Regular expression is used for replacing a text within a string, validating form, extract a substring from a string based upon a pattern match, and so much more.
 
-[Link](https://anarc.at/blog/2016-10-14-bug-reporting/)
+[Link](https://github.com/zeeshanu/learn-regex)
