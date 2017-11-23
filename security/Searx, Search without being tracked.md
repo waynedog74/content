@@ -2,7 +2,7 @@
 Title: "Searx, Search without being tracked.md"
 Date: 2017-11-23 14:58:25
 Categories: [security]
-tags: [searx, metasearch engine]
+Tags: [searx, metasearch engine]
 Authors: sedlav
 ---
 

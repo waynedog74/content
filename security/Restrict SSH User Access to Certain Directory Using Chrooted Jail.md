@@ -2,7 +2,7 @@
 Title: "Restrict SSH User Access to Certain Directory Using Chrooted Jail"
 Date: 2017-03-10 21:53:20
 Categories: [security]
-tags: [ssh, chroot]
+Tags: [ssh, chroot]
 Authors: sedlav
 ---
 
