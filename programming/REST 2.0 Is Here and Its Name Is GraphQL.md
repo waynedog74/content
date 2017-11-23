@@ -2,7 +2,7 @@
 Title: "REST 2.0 Is Here and Its Name Is GraphQL"
 Date: 2017-06-05 22:52:49
 Categories: [programming]
-tags: [graphql, rest]
+Tags: [graphql, rest]
 Authors: sedlav
 ---
 
