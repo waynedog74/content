@@ -7,7 +7,7 @@ Authors: sedlav
 ---
 
 1. Simplified project structure
-2. Easier installation of extensions
+1. Easier installation of extensions
 1. Dependency Injection improvements
 1. Symfony Encore for asset management 
 
