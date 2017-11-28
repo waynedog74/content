@@ -1,5 +1,5 @@
 ---
-Title: "Icicle - Simulate multithread techniques in PHP"
+Title: "ReactPHP, Event-driven, non-blocking I/O with PHP"
 Date: 2016-09-13 16:34:02
 Categories: [programming]
 tags: [generators, libs, php, promises, event-driven]
