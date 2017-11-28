@@ -1,6 +1,6 @@
 ---
-Title: "ReactPHP, Event-driven, non-blocking I/O with PHP"
-Date: 2017-11-28 14:54:05
+Title: "4 beautiful things about Symfony 4"
+Date: 2017-11-28 14:55:27
 Categories: [programming]
 tags: [generators, libs, php, promises, event-driven]
 Authors: sedlav
