@@ -7,14 +7,6 @@ Slug: icicle-simulate-multithread-techniques-in-php
 Authors: sedlav
 ---
 
-**Icicle** uses Awaitables and Generators to create Coroutines, interruptible functions that use the yield keyword to define interruption points. When a Coroutine yields an Awaitable, execution of the coroutine is interrupted until the awaitable resolves.
+**ReactPHP** is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: Streams abstraction, async dns resolver, network client/server, http client/server, interaction with processes. 
 
-**Feature Highlights**
-
-* Full-featured event loop for asynchronous programming
-* Multiple event loop back-ends
-* Asynchronous TCP and UDP sockets
-* Asynchronous DNS resolution
-* Standalone HTTP and WebSocket server
-
-[Link](https://icicle.io/)
+[Link](https://reactphp.org/)
