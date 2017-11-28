@@ -8,9 +8,9 @@ Authors: sedlav
 
 Compilar PHP es recomendable si desea:
 
-– Actualizar a la última versión
-– Obtener beneficios de las últimas caractéristicas del lenguaje
-– Corregir errores de versiones anteriores
-– Personalizar el proceso de instalación
+- Actualizar a la última versión
+- Obtener beneficios de las últimas caractéristicas del lenguaje
+- Corregir errores de versiones anteriores
+- Personalizar el proceso de instalación
 
 [Link](https://www.librebyte.net/php/como-compilar-php-7-1-en-ubuntu-16-04/)
