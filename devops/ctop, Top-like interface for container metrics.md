@@ -8,7 +8,7 @@ Authors: sedlav
 
 **ctop** provides a concise and condensed overview of real-time metrics for multiple containers:
 
-![ctop, Top-like interface for container metrics](/images/ctop.git)
+![ctop, Top-like interface for container metrics](/images/ctop.gif)
 
 as well as an single container view for inspecting a specific container.
 
