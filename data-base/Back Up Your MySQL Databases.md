@@ -2,7 +2,7 @@
 Title: "Back Up Your MySQL Databases"
 Date: 2017-08-03 09:09:08
 Categories: [data base]
-tags: [backup]
+tags: [backup, mysql, percona, mariadb]
 Authors: sedlav
 ---
 
