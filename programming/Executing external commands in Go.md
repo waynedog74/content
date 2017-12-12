@@ -6,6 +6,6 @@ Tags: [go]
 Authors: sedlav
 ---
 
-> The ability to execute external commands from within an application is something I often feel is a bit hackish and I haven’t yet discovered a language that handles it as well as I would like. That was until I learned to love how Go tackles the challenge. This post will show you how to make the most of os/exec.
+Use os/exec package to execute external commands in Go. To run the examples packages os, bytes, syscall, fmt, time must be imported.
 
-[Link](http://www.darrencoxall.com/golang/executing-commands-in-go/)
+[Link](https://zaiste.net/posts/executing_external_commands_in_go/)
