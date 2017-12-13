@@ -2,7 +2,7 @@
 Title: "atoum a simple, modern and intuitive unit testing framework for PHP"
 Date: 2017-10-30 12:03:30
 Categories: [programming]
-tags: [bullet, testing]
+tags: [atoum, testing, php]
 Authors: sedlav
 ---
 
