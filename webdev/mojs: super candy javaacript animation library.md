@@ -2,7 +2,7 @@
 Title: "mojs: super candy javaacript animation library"
 Date: 2017-12-17 00:20:49
 Categories: [webdev]
-tags: [javascript, animation, ,mojs]
+tags: [javascript, animation, mojs]
 Authors: sedlav
 ---
 
