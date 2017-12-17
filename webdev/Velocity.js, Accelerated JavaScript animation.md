@@ -6,6 +6,6 @@ tags: [javascript, animation, velocity.js]
 Authors: sedlav
 ---
 
-As a developer, we want to offer to the client a product that works perfectly. Of course we cannot neglect the style of an application. Around the web you'll find a lot of notification plugins that will do the hardjob for you greatly simplifying the development time.
+**Velocity** is an animation engine with the same API as jQuery's $.animate(). It works with and without jQuery. It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
 
 [Link](http://velocityjs.org)
