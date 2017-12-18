@@ -1,6 +1,6 @@
 ---
 Title: "[Video] Disponible el driver de PHP para MySQL & MariaDB"
-Date: 2017-07-07 01:00:20
+Date: 2017-12-18 09:51:02
 Categories: [mobile]
 tags: [php, android, mysql, mariadb]
 Authors: sedlav
