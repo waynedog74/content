@@ -2,7 +2,7 @@
 Title: "How to Optimize MySQL: Indexes, Slow Queries, Configuration"
 Date: 2017-12-09 12:00:44
 Categories: [data base]
-tags: [backup, mysql, percona, mariadb]
+tags: [mysql, percona, mariadb]
 Authors: sedlav
 ---
 
