@@ -3,6 +3,7 @@ Title: "Server-side I/O Performance: Node vs. PHP vs. Java vs. Go"
 Date: 2017-12-19 09:59:23
 Categories: [programming]
 tags: [nodejs, javascript, php, go, java]
+slug: server-side-i-o-performance-node-vs-php-vs-java-vs-go
 Authors: sedlav
 ---
 
