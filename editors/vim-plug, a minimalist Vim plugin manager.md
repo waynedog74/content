@@ -2,7 +2,7 @@
 Title: vim-plug, a minimalist Vim plugin manager
 Date: 2017-12-28 10:39:57
 Categories: [editors]
-tags: [vim]
+tags: [vim, vim-plug]
 Author: sedlav
 ---
 
