@@ -2,7 +2,7 @@
 Title: "[Video] Cómo copiar directorios y ficheros hacia nuestro dispositivo móvil con Ghost Commander y lftp"
 Date: 2017-03-04 21:07:47
 Categories: [mobile]
-tags: [ghost commander, android, lftp]
+tags: [ghost commander, android, lftp, android]
 Authors: sedlav
 ---
 

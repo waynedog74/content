@@ -1,8 +1,8 @@
 ---
 Title: "[Video] Cómo instalar WordPress en Android"
-Date: 2018-01-09 10:13:25
+Date: 2018-01-09 10:22:46
 Categories: [mobile]
-tags: [apache, android, web server]
+tags: [wordpress, cms, android]
 Authors: sedlav
 ---
 

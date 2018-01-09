@@ -2,7 +2,7 @@
 Title: "[Video] Cómo conectarnos a un servidor GNU/Linux o BSD desde Android via ssh"
 Date: 2017-03-06 21:40:48
 Categories: [mobile]
-tags: [ssh]
+tags: [ssh, android]
 Authors: sedlav
 ---
 

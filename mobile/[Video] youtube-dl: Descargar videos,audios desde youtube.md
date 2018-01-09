@@ -2,7 +2,7 @@
 Title: "[Video] youtube-dl: Descargar videos,audios desde youtube"
 Date: 2017-03-20 13:01:46
 Categories: [mobile]
-tags: [youtube-dl]
+tags: [youtube-dl, android, python, pip]
 Authors: sedlav
 ---
 

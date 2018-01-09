@@ -2,7 +2,7 @@
 Title: "[Video] Cómo instalar MariaDB en Android"
 Date: 2017-08-09 20:06:24
 Categories: [mobile]
-tags: [mariadb, mysql]
+tags: [mariadb, mysql, android]
 Authors: sedlav
 ---
 
