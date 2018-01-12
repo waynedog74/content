@@ -8,4 +8,4 @@ Authors: sedlav
 
 **mini.css** uses modules as its base building blocks. Each module contains one or more components that affect the same part of the user experience. 
 
-[Link](https://hackcss.egoist.moe/)
+[Link](https://minicss.org/)
