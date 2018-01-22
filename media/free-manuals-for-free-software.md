@@ -1,8 +1,8 @@
 ---
 Title: "Free manuals for Free Software"
 Date: 2016-08-12 02:59:52
-Categories: [news]
-tags: [floss manuals]
+Categories: [media]
+tags: [manuals, books]
 Slug: free-manuals-for-free-software
 Authors: sedlav
 ---
