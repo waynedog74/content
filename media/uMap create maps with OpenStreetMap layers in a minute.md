@@ -2,7 +2,7 @@
 Title: "uMap create maps with OpenStreetMap layers in a minute"
 Date: 2017-06-10 10:24:55
 Categories: [media]
-tags: [umap, openstreetmap]
+tags: [umap, openstreetmap, geo]
 Authors: sedlav
 ---
 
