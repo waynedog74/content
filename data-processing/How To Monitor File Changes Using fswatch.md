@@ -2,7 +2,7 @@
 Title: "How To Monitor File Changes Using fswatch"
 Date: 2017-06-05 22:48:49
 Categories: [data processing]
-tags: [fswatch]
+tags: [fswatch, monitoring]
 Authors: sedlav
 ---
 

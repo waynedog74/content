@@ -1,8 +1,8 @@
 ---
 Title: Monitors Files and Directory with fswatch
 Date: 2016-10-08 18:26:24
-Categories: [cli]
-tags: [fswatch]
+Categories: [data processing]
+tags: [fswatch, monitoring]
 Slug: monitors-files-and-directory-with-fswatch
 Authors: sedlav
 ---
