@@ -1,13 +1,23 @@
 ---
-Title: "goquery brings jQuery power to the Go language"
-Date: 2017-11-01 16:04:46
+Title: "Squirrel - fluent SQL generator for Go"
+Date: 2018-01-29 11:25:19
 Categories: [programming]
-Tags: [go, web scrapers]
+Tags: [go, squirrel]
 Authors: sedlav
 ---
 
-**goquery** brings a syntax and a set of features similar to jQuery to the Go language. It is based on Go's net/html package and the CSS Selector library cascadia.
+Squirrel is not an ORM. Squirrel helps you build SQL queries from composable parts:
 
-Syntax-wise, it is as close as possible to jQuery, with the same function names when possible, and that warm and fuzzy chainable interface...
+```go
+import sq "github.com/Masterminds/squirrel"
 
-[Link](https://github.com/PuerkitoBio/goquery)
+users := sq.Select("*").From("users").Join("emails USING (email_id)")
+
+active := users.Where(sq.Eq{"deleted_at": nil})
+
+sql, args, err := active.ToSql()
+
+sql == "SELECT * FROM users JOIN emails USING (email_id) WHERE deleted_at IS NULL"
+```
+
+[Link](https://github.com/Masterminds/squirrel)
