@@ -1,11 +1,11 @@
 ---
-Title: "How to access shell environment variables in Perl script"
-Date: 2016-12-09 09:07:00
+Title: "An introduction to the Web::Simple Perl module, a minimalist web framework"
+Date: 2018-01-29 11:21:26
 Categories: [programming]
 tags: [perl]
 Authors: sedlav
 ---
 
-In Perl, all environment variables are maintained in a special hash named %ENV. To access a particular shell variable abc in Perl, you can simply fetch a hash value for key 'abc'. For example, to access $PATH and $PWD variables in Perl...
+Perl module Web::Simple is easy to learn and packs a big enough punch for a variety of one-offs and smaller services.
 
-[Link](http://ask.xmodulo.com/shell-environment-variables-in-perl.html)
+[Link](https://opensource.com/article/18/1/introduction-websimple-perl-module-minimalist-web-framework)
