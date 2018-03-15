@@ -2,7 +2,7 @@
 Title: "Top 20 Interview Questions on Node.js"
 Date: 2017-04-04 18:56:40
 Categories: [programming]
-tags: [nodejs, javascript]
+tags: [nodejs, javascript, interview]
 Authors: sedlav
 ---
 
