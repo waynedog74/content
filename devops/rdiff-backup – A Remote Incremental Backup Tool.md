@@ -1,8 +1,8 @@
 ---
-Title: "rdiff-backup - A Remote Incremental Backup Tool "
+Title: "rdiff-backup - A Remote Incremental Backup Tool"
 Date: 2017-05-26 21:45:26
-Categories: [data processing]
-tags: [rdiff-backup]
+Categories: [devops]
+tags: [rdiff-backup, backups]
 Slug: rdiff-backup-remote-incremental-backup-for-linux
 Authors: sedlav
 ---
