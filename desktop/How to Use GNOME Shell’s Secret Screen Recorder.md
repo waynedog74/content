@@ -1,5 +1,5 @@
 ---
-Title: "Hw to Use GNOME Shell’s Secret Screen Recorder"
+Title: "How to Use GNOME Shell’s Secret Screen Recorder"
 Date: 2018-06-22 17:20:31
 Categories: [desktop]
 tags: [gnome]

@@ -1,5 +1,5 @@
 ---
-Title: "Resty, Simple HTTP and REST client library for Go.md"
+Title: "Resty, Simple HTTP and REST client library for Go"
 Date: 2018-05-28 12:58:17
 Categories: [programming]
 Tags: [go, go library]
