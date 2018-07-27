@@ -2,7 +2,7 @@
 Title: Boostnote – A Note Taking and Markdown Editor Made for Coders
 Date: 2017-05-17 16:32:06
 Categories: [editors]
-tags: [boostnote]
+tags: [boostnote, markdown]
 Author: sedlav
 ---
 
