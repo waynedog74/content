@@ -1,5 +1,5 @@
 ---
-Title: "[Video] - Cómo reemplazar el Lanzador de Aplicaciones de GNOME por Synapse"
+Title: "[Video] - Programación avanzada en PHP - Funciones anónimas"
 Date: 2018-07-27 19:52:40
 Categories: [programming]
 tags: [php]
