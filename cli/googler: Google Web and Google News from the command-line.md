@@ -2,7 +2,7 @@
 Title: Google Web and Google News from the command-line
 Date: 2018-08-07 18:56:08
 Categories: [cli]
-Tags: [googler]
+Tags: [googler, tools]
 Authors: sedlav
 ---
 
