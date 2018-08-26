@@ -2,7 +2,7 @@
 Title: "Træfik, a modern HTTP reverse proxy and load balancer"
 Date: 2018-08-25 22:50:28
 Categories: [network]
-tags: [load balancer, proxy]
+tags: [load balancer, proxy, træfik]
 Authors: sedlav
 ---
 
