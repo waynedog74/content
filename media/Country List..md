@@ -2,7 +2,7 @@
 Title: "Country List"
 Date: 2017-08-31 19:58:42
 Categories: [media]
-tags: [db]
+tags: [db, countries]
 Authors: sedlav
 ---
 
