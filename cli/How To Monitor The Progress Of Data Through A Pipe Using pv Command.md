@@ -2,7 +2,7 @@
 Title: How To Monitor The Progress Of Data Through A Pipe Using pv Command
 Date: 2017-05-18 19:07:50
 Categories: [cli]
-tags: [pv]
+tags: [pv, pipes]
 Authors: sedlav
 ---
 
