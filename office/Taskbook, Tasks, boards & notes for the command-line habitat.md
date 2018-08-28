@@ -2,7 +2,7 @@
 Title: "Taskbook, Tasks, boards & notes for the command-line habitat"
 Date: 2018-08-21 18:49:07
 Categories: [office]
-Tags: [taskbook]
+Tags: [taskbook, todo, note taking app]
 Authors: sedlav
 ---
 

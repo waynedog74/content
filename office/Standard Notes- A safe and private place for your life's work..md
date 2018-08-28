@@ -2,7 +2,7 @@
 Title: "Standard Notes - A safe and private place for your life's work"
 Date: 2018-08-02 15:23:36
 Categories: [office]
-tags: [standard notes]
+tags: [standard notes, todo, note taking app]
 Authors: sedlav
 ---
 
