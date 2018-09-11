@@ -2,7 +2,7 @@
 Title: "VisiData, an interactive multitool for tabular data"
 Date: 2018-09-11 09:56:23
 Categories: [data processing]
-tags: [xsv, csv]
+tags: [visidata, csv]
 Authors: sedlav
 ---
 
