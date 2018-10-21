@@ -1,5 +1,5 @@
 ---
-Title: "MySQL Skip Duplicate Replication Errorsr"
+Title: "MySQL Skip Duplicate Replication Errors"
 Date: 2018-10-21 17:13:15
 Categories: [data base]
 tags: [mysql, mariadb, percona, backup]
