@@ -2,7 +2,7 @@
 Title: "curl: (35) Unknown SSL protocol error in connection"
 Date: 2017-02-21 10:08:18
 Categories: [security]
-tags: [ssl]
+tags: [ssl, curl]
 Authors: sedlav
 ---
 
