@@ -2,12 +2,11 @@
 Title: "MySQL Server Error Codes and Messages"
 Date: 2018-10-21 17:15:23
 Categories: [data base]
-tags: [mysql, mariadb, percona, backup]
+tags: [mysql, mariadb, percona]
 Authors: sedlav
 ---
 
-B.3 Server Error Codes and Messages
-MySQL programs have access to several types of error information when the server returns an error. For example, the mysql client program displays errors using the following format:
+**MySQL** programs have access to several types of error information when the server returns an error. For example, the mysql client program displays errors using the following format:
 
 ```mysql
 shell> SELECT * FROM no_such_table;
