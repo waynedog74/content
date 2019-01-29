@@ -1,6 +1,6 @@
 ---
 Title: 3 Ways to Deal With Unresponsive System
-Date: 2017-05-17 15:38:16
+Date: 2019-01-29 17:54:56
 Categories: [os]
 tags: [gnu, linux, xkill, tty, sysreq]
 Authors: sedlav
