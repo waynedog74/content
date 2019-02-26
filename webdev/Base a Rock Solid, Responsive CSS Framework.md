@@ -1,6 +1,6 @@
 ---
 Title: "Base a Rock Solid, Responsive CSS Framework"
-Date: 2018-08-21 18:17:39
+Date: 2019-02-26 16:17:23
 Categories: [webdev]
 tags: [css, css frameworks, base]
 Authors: sedlav
