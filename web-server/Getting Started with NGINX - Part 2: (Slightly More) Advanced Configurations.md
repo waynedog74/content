@@ -1,7 +1,7 @@
 ---
-title: Getting Started with NGINX - Part 2: (Slightly More) Advanced Configurations
+title: Getting Started with NGINX - Part 2 Advanced Configurations
 date: 2019-03-21 11:03:24
-categories: [web-server]
+categories: [web server]
 tags: [nginx]
 authors: sedlav
 ---
