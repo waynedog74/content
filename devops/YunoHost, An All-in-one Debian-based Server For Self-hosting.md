@@ -1,5 +1,5 @@
 ---
-title: YunoHost : An All-in-one Debian-based Server For Self-hosting
+title: YunoHost, An All-in-one Debian-based Server For Self-hosting
 date: 2019-03-22 16:15:52
 categories: [devops]
 tags: [yunohost, debian]
