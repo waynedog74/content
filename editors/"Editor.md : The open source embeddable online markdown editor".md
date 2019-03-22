@@ -1,8 +1,8 @@
 ---
-title: "eEditor.md : The open source embeddable online markdown editor"
+title: "Editor.md : The open source embeddable online markdown editor"
 date: 2019-03-22 16:59:34
-categories: [programming]
-tags: [javascript]
+categories: [editors]
+tags: [javascript, markdown]
 authors: sedlav
 ---
  
