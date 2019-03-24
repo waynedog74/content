@@ -12,7 +12,7 @@ Hugo es
 
 - Desarrollado en Golang
 
- - Super rápido. Compila cientos de páginas a formato HTML en pocos segundos
+- Super rápido. Compila cientos de páginas a formato HTML en pocos segundos
 
 {{< youtube te9g11Kanxk >}}
 
