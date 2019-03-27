@@ -1,7 +1,5 @@
 ---
-title: 
-Gnome Email Notifications App Mailnag 1.3 Adds Support For Mbox and Maildir Backends - Linux Uprising Blog
-
+title: Gnome Email Notifications App Mailnag 1.3 Adds Support For Mbox and Maildir Backends
 date: 2019-03-27 17:20:31
 categories: [desktop]
 tags: [gnome,mailnag]
