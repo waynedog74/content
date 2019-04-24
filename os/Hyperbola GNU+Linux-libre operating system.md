@@ -11,4 +11,4 @@ Authors: sedlav
 
 Derived from Arch plus stability and security from Debian, Hyperbola provides packages from it that meet the GNU Free System Distribution Guidelines (GNU FSDG) and replacements for the packages that don't meet this requirement.
 
-[Link](https://www.parabola.nu/)
+[Link](https://www.hyperbola.info/)
