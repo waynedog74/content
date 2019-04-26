@@ -1,5 +1,5 @@
 ---
-title: Inkscape: Guide to a Vector Drawing Program
+title: Inkscape. Guide to a Vector Drawing Program
 date: 2019-04-26 15:25:04
 categories: [media]
 tags: [inkscape]
