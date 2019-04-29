@@ -1,5 +1,5 @@
 ---
-title: Share Files Securely With Onionshare - LinuxConfig.org
+title: Share Files Securely With Onionshare
 date: 2019-04-26 18:32:53
 categories: [security]
 tags: [onionshare,tor]
