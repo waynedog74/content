@@ -2,7 +2,7 @@
 title: Too fast, too insecure,  Securing Mongo Express web administrative interfaces
 date: 2019-04-29 13:22:00
 categories: [nosql]
-tags: [mongo express]
+tags: [mongo express, mongodb]
 authors: sedlav
 ---
 
