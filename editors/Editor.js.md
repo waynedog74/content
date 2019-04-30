@@ -2,7 +2,7 @@
 title: Editor.js
 date: 2019-04-30 17:29:29
 categories: [editors]
-tags: [editor.js]
+tags: [editor.js, javascript]
 authors: sedlav
 ---
 
