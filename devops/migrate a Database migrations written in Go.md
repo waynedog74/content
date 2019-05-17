@@ -1,7 +1,7 @@
 ---
 Title: "migrate, Database migrations written in Go."
 Date: 2018-08-09 11:28:08
-Categories: [media]
+Categories: [devops]
 Tags: [go]
 Authors: sedlav
 ---
