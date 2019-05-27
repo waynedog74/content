@@ -1,6 +1,5 @@
 ---
-title: 
-SparkleShare,  Dropbox-Like Sync Client Powered By Git 
+title: SparkleShare,  Dropbox-Like Sync Client Powered By Git 
 date: 2019-05-27 16:09:21
 categories: [network]
 tags: [sparkleshare]
