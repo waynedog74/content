@@ -1,6 +1,5 @@
 ---
-title: 
-Terminal File Manager nnn 2.5 Adds Plugins, Mouse And SSHFS Support
+title: Terminal File Manager nnn 2.5 Adds Plugins, Mouse And SSHFS Support
 date: 2019-05-29 18:30:28
 categories: [cli]
 tags: [nnn]
