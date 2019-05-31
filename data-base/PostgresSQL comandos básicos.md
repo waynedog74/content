@@ -1,6 +1,6 @@
 ---
 title: PostgresSQL comandos básicos 
-date: 2019-05-20 18:53:03
+date: 2019-05-31 15:20:26
 categories: [data base]
 tags: [postgresql]
 authors: sedlav

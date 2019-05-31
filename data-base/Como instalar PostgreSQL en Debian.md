@@ -1,8 +1,8 @@
 ---
 title: Como instalar PostgreSQL en Debian 
-date: 2019-05-20 16:39:00
+date: 2019-05-31 15:20:03
 categories: [data base]
-tags: [postgresql, debian]
+tags: [postgresql]
 authors: sedlav
 ---
 
