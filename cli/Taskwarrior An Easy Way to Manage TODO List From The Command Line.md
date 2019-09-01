@@ -1,5 +1,5 @@
 ---
-Title: Taskwarrior - An Easy Way to Manage TODO List From The Command Line
+Title: "Taskwarrior - An Easy Way to Manage TODO List From The Command Line"
 Date: 2017-05-20 20:43:18
 Categories: [cli]
 tags: [taskwarrior]
