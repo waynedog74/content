@@ -1,5 +1,5 @@
 ---
-title: Solved,  How to get the list of files from a merge commit i...
+title: How to get the list of files from a merge commit i...
 date: 2019-09-27 17:06:56
 categories: [vcs]
 tags: [git]
