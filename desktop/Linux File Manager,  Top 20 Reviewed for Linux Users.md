@@ -2,7 +2,7 @@
 title: Linux File Manager,  Top 20 Reviewed for Linux Users
 date: 2019-09-27 15:58:30
 categories: [desktop]
-tags: [gnome,kde,xfce]
+tags: [gnome,kde,xfce, file manager]
 authors: sedlav
 ---
 
