@@ -1,5 +1,5 @@
 ---
-title: Inkscape Tutorial: Five Inkscape Essentials
+title: Inkscape Tutorial. Five Inkscape Essentials
 date: 2019-10-06 13:13:45
 categories: [media]
 tags: [inkscape]
