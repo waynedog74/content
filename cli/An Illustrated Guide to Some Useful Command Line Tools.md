@@ -2,7 +2,7 @@
 title: An Illustrated Guide to Some Useful Command Line Tools
 date: 2019-10-27 22:05:07
 categories: [cli]
-tags: [cat,touch,zola,z,watchexec,ctags,titlecase,tig,syncthing,jq,slot]
+tags: [cat,touch,zola,z,watchexec,ctags,titlecase,tig,syncthing,jq,slot,fd,eva,dust,dot,bat,chars,alacritty,mdcat,hexyl,podman,restic,skim]
 authors: sedlav
 ---
 
