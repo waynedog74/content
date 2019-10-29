@@ -1,5 +1,5 @@
 ---
-title: Confluence
+title: Vagrant is stuck. Authentication failure. Retrying
 date: 2019-10-29 16:50:35
 categories: [devops]
 tags: [vagrant]
