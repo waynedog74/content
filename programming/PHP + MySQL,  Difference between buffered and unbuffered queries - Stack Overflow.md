@@ -2,7 +2,7 @@
 title: PHP + MySQL,  Difference between buffered and unbuffered queries - Stack Overflow
 date: 2019-10-31 13:00:55
 categories: [programming]
-tags: [php, mysql]
+tags: [php, mysql, mariadb, percona]
 authors: sedlav
 ---
 
