@@ -1,6 +1,6 @@
 ---
 title: Awesome Go
-date: 2019-05-08 12:51:45
+date: 2019-11-05 12:35:48
 categories: [programming]
 tags: [golang]
 authors: sedlav
