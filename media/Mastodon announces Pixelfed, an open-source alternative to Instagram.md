@@ -1,6 +1,5 @@
 ---
-title: 
-Mastodon announces Pixelfed, an open-source alternative to Instagram
+title: Mastodon announces Pixelfed, an open-source alternative to Instagram
 date: 2019-12-02 15:03:42
 categories: [media]
 tags: [pixelfed]
