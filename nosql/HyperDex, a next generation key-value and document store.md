@@ -1,5 +1,5 @@
 ---
-title: HyperDex Homepage , ,  HyperDex.org
+title: HyperDex, a next generation key-value and document store
 date: 2019-12-27 15:06:58
 categories: [nosql]
 tags: [hyperdex]
