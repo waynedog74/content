@@ -1,5 +1,5 @@
 ---
-title:"bandwhich Shows What's Taking Up Your Network Bandwidth On Linux And macOS"
+title:"bandwhich Shows Whats Taking Up Your Network Bandwidth On Linux And macOS"
 date: 2020-01-25 03:14:54
 categories: [network]
 tags: [bandwich,linux,gnu,bsd]
