@@ -2,7 +2,7 @@
 title: Install ROBO3T on Ubuntu (Install RoboMongo) - The Linux GURUS
 date: 2020-02-25 11:07:27
 categories: [nosql]
-tags: [mongo,robot3]
+tags: [mongodb,robot3]
 authors: sedlav
 ---
 
