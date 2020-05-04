@@ -2,7 +2,7 @@
 title: Linux Cut Command with Practical Examples
 date: 2020-05-03 23:49:55
 categories: [cli]
-tags: [cut
+tags: [cut]
 authors: sedlav
 ---
 
