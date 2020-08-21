@@ -1,6 +1,6 @@
 ---
 title: How to Limit File Upload Size in Nginx
-date: 2020-08-02 15:14:22
+date: 2020-08-20 20:11:21
 categories: [web server]
 tags: [nginx]
 authors: sedlav
