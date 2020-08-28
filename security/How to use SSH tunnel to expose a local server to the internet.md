@@ -1,5 +1,5 @@
 ---
-title: [Tutorial] How to use SSH tunnel to expose a local server to the internet 
+title: How to use SSH tunnel to expose a local server to the internet 
 date: 2020-08-28 12:22:59
 categories: [security]
 tags: [ssh]
