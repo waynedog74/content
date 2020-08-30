@@ -1,5 +1,5 @@
 ---
-title: "40 Linux Server Hardening Security Tips [2019 edition] - nixCraft"
+title: "40 Linux Server Hardening Security Tips [2019 edition]"
 date: 2019-03-22 16:33:56
 categories: [security]
 tags: [linux, gnu, centos, fedora, rhel, debian, ubuntu]

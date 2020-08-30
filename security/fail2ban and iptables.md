@@ -1,5 +1,5 @@
 ---
-title: fail2ban and iptables < System 
+title: fail2ban and iptables 
 date: 2020-08-21 15:42:59
 categories: [security]
 tags: [iptables,ssh,fail2ban]
