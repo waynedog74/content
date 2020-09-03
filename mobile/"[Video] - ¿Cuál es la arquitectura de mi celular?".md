@@ -8,6 +8,6 @@ authors: sedlav
 
 CPU Info proporciona información sobre el hardware y el software de su dispositivo: - CPU - GPU - RAM y Almacenamiento - Detalles del sistema operativo Andro...
 
-{{< youtube cuP-wNgVJOI >}}
+{{< youtube YBSOijjNf8w >}}
 
 [Link](https://youtu.be/YBSOijjNf8w)
