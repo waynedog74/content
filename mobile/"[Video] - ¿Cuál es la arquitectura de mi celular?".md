@@ -1,5 +1,5 @@
 ---
-title: [Video] - ¿Cuál es la arquitectura de mi celular?
+title: "[Video] - ¿Cuál es la arquitectura de mi celular?"
 date: 2020-09-03 06:13:37
 categories: [mobile]
 tags: [android,cpuinfo]
