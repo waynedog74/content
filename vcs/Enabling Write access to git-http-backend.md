@@ -1,6 +1,5 @@
 ---
-title: 
-Enabling Write access to git-http-backend 
+title: Enabling write access to git http backend 
 date: 2020-09-05 14:21:10
 categories: [vcs]
 tags: [git]
