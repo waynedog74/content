@@ -1,6 +1,5 @@
 ---
-title: 
-Git Via HTTP on Fedora 
+title: Git Via HTTP on Fedora 
 date: 2020-09-05 15:06:22
 categories: [vcs]
 tags: [git]
