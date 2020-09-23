@@ -1,5 +1,5 @@
 ---
-title: Cockroach Labs, the company building CockroachDB
+title: CockroachDB a distributed database with standard SQL
 date: 2020-09-23 15:28:02
 categories: [data base]
 tags: [cockroachdb]
