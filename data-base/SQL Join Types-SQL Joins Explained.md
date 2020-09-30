@@ -1,7 +1,7 @@
 ---
 title: SQL Join Types — SQL Joins Explained
 date: 2020-09-25 20:59:58
-categories: [data processing]
+categories: [data-base]
 tags: [sql]
 authors: sedlav
 ---
