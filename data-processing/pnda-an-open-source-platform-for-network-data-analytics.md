@@ -16,4 +16,4 @@ Authors: sedlav
 * Manages lifecycle of applications that process and analyze data
 * Lets you explore data using interactive notebooks
 
-[Link](http://pndaproject.io/overview)
+[Link](http://pnda.io/)
