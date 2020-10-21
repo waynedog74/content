@@ -1,8 +1,8 @@
 ---
-title: clipboard.js — Copy to clipboard without Flash
+title: clipboard.js - Copy to clipboard without Flash
 date: 2020-10-09 19:54:58
 categories: [programming]
-tags: [ks,clipboardjs]
+tags: [js,clipboardjs]
 authors: sedlav
 ---
 
