@@ -1,5 +1,5 @@
 ---
-title: GitHub - twigphp-markdown-extension,  Markdown support for Twig
+title: twigphp-markdown-extension,  Markdown support for Twig
 date: 2019-04-02 18:55:01
 categories: [programming]
 tags: [twig, symfony]
