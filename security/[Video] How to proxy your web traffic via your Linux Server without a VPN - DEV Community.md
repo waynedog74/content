@@ -1,5 +1,5 @@
 ---
-title: "[Video] How to proxy your web traffic via your Linux Server without a VPN - DEV Community""
+title: "[Video] How to proxy your web traffic via your Linux Server without a VPN"
 date: 2021-01-07 07:54:01
 categories: [security]
 tags: [vpn,ssh]
