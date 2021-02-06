@@ -1,6 +1,6 @@
 ---
-title: tuptime - Linux See Historical and Statistical Uptime of System
-date: 2021-01-31 22:15
+title: See Historical and Statistical Uptime with tuptime
+date: 2021-01-31 22:15:00
 categories: [data processing]
 tags: [tuptime]
 authors: sedlav
