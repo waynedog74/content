@@ -1,5 +1,5 @@
 ---
-title: Announcing Open Source C# standardization 
+title: Announcing Open Source CSharp standardization 
 date: 2021-04-05 17:05:04
 categories: [programming]
 tags: [csharp]
