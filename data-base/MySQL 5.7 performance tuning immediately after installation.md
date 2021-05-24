@@ -8,4 +8,4 @@ Authors: sedlav
 
 > In MySQL 5.7, there are only four really important variables that need to be changed. However, there are other InnoDB and global MySQL variables that might need to be tuned for a specific workload and hardware.
 
-[Link](https://www.percona.com/blog/2016/10/19/three-things-consider-thinking-containers/)
+[Link](https://www.percona.com/blog/2016/10/12/mysql-5-7-performance-tuning-immediately-after-installation/)
