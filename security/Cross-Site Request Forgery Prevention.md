@@ -2,7 +2,7 @@
 title: Cross-Site Request Forgery Prevention
 date: 2021-06-07 22:38:42
 categories: [security]
-tags: [csrfp]
+tags: [csrf]
 authors: sedlav
 ---
 
