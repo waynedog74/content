@@ -2,7 +2,7 @@
 title: WireGuard client for Windows Registry Configuration
 date: 2021-07-03 19:41:58
 categories: [security]
-tags: []
+tags: [wireguard]
 authors: sedlav
 ---
 
