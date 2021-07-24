@@ -2,7 +2,7 @@
 title: How to Install Logwatch on Ubuntu 20.04
 date: 2021-07-21 15:39:26
 categories: [devops]
-tags: [ubuntu]y,logwatch
+tags: [ubuntu,logwatch]
 authors: sedlav
 ---
 
